@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pmid_41290975",
+    "pmid": "41290975",
+    "title": "A comparative assessment of the antidepressant efficacy of ketamine, psilocybin, and fluoxetine in a chronic stress model",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41290975/",
+    "text": "Depression is a debilitating mental disorder affecting millions worldwide, yet current pharmacological treatments, such as selective serotonin reuptake inhibitors (SSRIs), often exhibit delayed onset and limited efficacy. The chronic social defeat (CSD) stress model in mice is a well-established preclinical paradigm for inducing depression-like behaviors and evaluating antidepressants effectiveness. This study compared the efficacy of both acute and chronic fluoxetine with acute ketamine and psilocybin treatment in male C57BL/6J mice subjected to CSD. Fluoxetine showed no significant effects 24 h after a single dose or following 7 days of repeated administration; antidepressant-like effects only appeared after 14 days of continuous treatment. In contrast, a single dose of either ketamine or psilocybin significantly reversed social avoidance behavior at 24 h, with sustained effects observed at 7- and 14-days post-treatment. These findings suggest that ketamine and psilocybin elicit rapid and durable, antidepressant-like responses in this preclinical model, in contrast to traditional SSRIs, like fluoxetine, which requires extended treatment duration, mirroring clinical efficacy patterns. The results support the utility of the CSD model in evaluating antidepressant efficacy and highlight the therapeutic potential of fast-acting agents such as ketamine and psilocybin as alternatives to conventional treatments for major depressive disorder."
+  },
+  {
+    "id": "pmid_40707608",
+    "pmid": "40707608",
+    "title": "Effect of naltrexone pretreatment on ketamine-induced glutamatergic activity and symptoms of depression: a randomized crossover study",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40707608/",
+    "text": "We investigated the potential role of the opioid system in modulating glutamatergic effects of ketamine administration in major depressive disorder. Twenty-six adults with major depressive disorder participated in a double-blind crossover study, receiving oral placebo or 50 mg naltrexone before an intravenous infusion of 0.5 mg per kg ketamine. Brain glutamatergic activity in the anterior cingulate cortex was measured using functional magnetic resonance spectroscopy and depressive symptoms were assessed with the Montgomery-Åsberg Depression Rating Scale. Naltrexone attenuated the increase in glutamate + glutamine to total N-acetylaspartate ratio during ketamine infusion compared to placebo (F1,253 = 4.83, P = 0.029) and also attenuated the reduction in Montgomery-Åsberg Depression Rating Scale scores on day 1 (condition-by-time interaction, F1,74 = 5.39, P = 0.023). These findings demonstrate that the opioid system modulates the acute response to ketamine and subsequent antidepressant effects. Interactions between the glutamate and opioid systems may have implications for the development of new depression treatment strategies. ClinicalTrials.gov registration: NCT04977674 ."
+  },
+  {
+    "id": "pmid_41053079",
+    "pmid": "41053079",
+    "title": "The involvement of 5-HT was necessary for EA-mediated improvement of post-stroke depression",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41053079/",
+    "text": "The prevalence of depression is as high as about 30% within five years after stroke, while there is still no breakthrough in the Western medical treatments for post-stroke depression (PSD) in clinical practice. The traditional acupuncture treatment has been practiced to be effective for the therapy of PSD, but its mechanism still needs to be elucidated. With a combination of methods, including behavioral testing, immunofluorescence, in vivo electrophysiological recording, mRNA sequencing, genetic modulation, and in vivo fiber recording techniques, this study showed that electroacupuncture (EA) at Baihui (GV20) and Shenting (GV24) acupoints improved the depressive-like behaviors and neuronal electrophysiological activities in PSD model mice, which was established by bilateral injection of collagenase IV into the medial prefrontal cortex (mPFC). Moreover, it was found that the EA-mediated improvement was comparable to that of fluoxetine. The mRNA sequence analysis indicated that the 5-hydroxytryptamine (5-HT) system was involved in the pathogenesis of PSD. Meanwhile, the number of 5-HT positive neurons in the dorsal raphe nucleus (DRN) and 5-HT in the mPFC was significantly decreased, and ablation of neurons in the DRN could prevent the efficacy of EA. The neuronal activity of excitatory and inhibitory neurons in mPFC can be modulated by chemogenetic activation or inhibition of the TPH2-positive neurons in the DRN projecting to the mPFC. Together, our results have provided the insight of the biological mechanism underlying acupuncture in the treatment of PSD and revealed the scientific connotation of acupuncture in both clinical and scientific value."
+  }
+]

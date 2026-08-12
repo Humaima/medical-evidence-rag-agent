@@ -1,0 +1,206 @@
+1. JMIR Mhealth Uhealth. 2025 Aug 29;13:e63806. doi: 10.2196/63806.
+
+Effect of a Cognitive Behavioral Therapy-Based AI Chatbot on Depression and 
+Loneliness in Chinese University Students: Randomized Controlled Trial With 
+Financial Stress Moderation.
+
+Wang Y(1), Li X(1), Zhang Q(1), Yeung D(1), Wu Y(2).
+
+Author information:
+(1)Department of Social and Behavioural Sciences, City University of Hong Kong, 
+Hong Kong, China.
+(2)Department of Sociology and Social Security, Ginling College, Nanjing Normal 
+University, 1 Wenyuan Rd, Qixia District, Nanjing, Jiangsu, 210000, China, 86 
+13736333980.
+
+BACKGROUND: Mental health concerns are prevalent among university students, with 
+financial stress further compounding these issues. While cognitive behavioral 
+therapy (CBT) is effective for these conditions, its delivery through artificial 
+intelligence (AI) chatbots represents a promising approach, especially in 
+non-Western contexts.
+OBJECTIVE: This study aims to investigate the efficacy of a culturally adapted, 
+CBT-based AI chatbot for improving the well-being of Chinese university students 
+and to examine whether financial stress moderates its effectiveness.
+METHODS: In this randomized controlled trial, 100 university students (mean age 
+20.8, SD 2.2 years; 62/100, 62% female) were allocated to either an intervention 
+(n=50) or a waitlist control group (n=50). The intervention group interacted 
+with a CBT-based AI chatbot for 7 consecutive days. Depression (Center for 
+Epidemiologic Studies Depression Scale), anxiety (Generalized Anxiety Disorder-7 
+scale), and loneliness (UCLA Loneliness Scale) were assessed at baseline, day 3, 
+and day 7. Financial stress was measured using the Psychological Inventory of 
+Financial Scarcity.
+RESULTS: Significant group×time interactions were found for depression 
+(F2,196=8.63; P<.001; η²p=.08) and loneliness (F2,196=5.57; P=.004; η²p=.05), 
+but not for anxiety (F2,196=1.31; P=.27; η²p=.01). Post hoc comparisons showed 
+significant reductions in both depression (t=3.85; P<.001) and loneliness 
+(t=4.28; P<.001) from baseline to postintervention in the intervention group, 
+with corresponding effect sizes of Cohen d=0.71 (95% CI 0.30-1.12) and Cohen 
+d=0.60 (95% CI 0.20-1.00), respectively. No significant changes were observed in 
+the waitlist control group. Exploratory subgroup analyses revealed that 
+participants with high financial stress demonstrated significantly greater 
+improvements in depression (F2,52=11.56; P<.001; η²p=.31) and loneliness 
+(F2,52=11.18; P<.001; η²p=.30) compared to those with low financial stress.
+CONCLUSIONS: The culturally adapted, CBT-based AI chatbot effectively reduced 
+depression and loneliness in Chinese university students, with stronger effects 
+among those experiencing high financial stress. These findings highlight the 
+potential of AI-driven interventions to provide accessible mental health 
+support, particularly for financially stressed students.
+
+© Yahui Wang, Xuhong Li, Qiaochu Zhang, Dannii Yeung, Yihan Wu. Originally 
+published in JMIR mHealth and uHealth (https://mhealth.jmir.org).
+
+DOI: 10.2196/63806
+PMCID: PMC12396778
+PMID: 40882177 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+2. Depress Anxiety. 2025 Aug 15;2025:1610909. doi: 10.1155/da/1610909. eCollection 
+2025.
+
+Long-Term Effect of Cognitive Behavioral Therapy in Managing Subclinical 
+Depression: A Systematic Review and Meta-Analysis.
+
+Chan RCF(1), Chen M(1), Chan JLM(1), Shum DHK(1), Cao Y(2).
+
+Author information:
+(1)Department of Rehabilitation Sciences, Hong Kong Polytechnic University, Hung 
+Hom, Hong Kong SAR, China.
+(2)Department of Social Work and Social Administration, University of Hong Kong, 
+Pokfulam, Hong Kong SAR, China.
+
+Recent research has emphasized the continuum of depression, highlighting the 
+significance of early intervention for subclinical depression. However, previous 
+studies often focused on specific populations or lacked comparisons across 
+participants and intervention characteristics in the effectiveness of cognitive 
+behavioral therapy (CBT). This systematic review and meta-analysis 
+(CRD42024498284) aimed to address these gaps by examining the effectiveness of 
+CBT in managing subclinical depression and its potential for preventing the 
+transition to major depression. A comprehensive search across seven databases 
+from inception to March 2025, identified 23 randomized controlled trials (RCTs) 
+involving 5877 participants. Meta-regression, sensitivity analysis, and funnel 
+plots were utilized to assess heterogeneity, publication bias, and study 
+quality. CBT significantly improved subclinical depressive symptoms (at 
+postassessment: g = -0.89; 95% confidence interval (CI) = -1.57 to -0.20 and 
+follow-up: g = -0.56; 95% CI: -0.93 to -0.18) and anxiety symptoms (at 
+postassessment: g = -0.92; 95% CI: -1.84 to -0.00 and follow-up: g = -0.70; 95% 
+CI: -1.15 to -0.25), but had no notable impact on quality of life. 
+Meta-regression analysis identified the number of CBT sessions as factors 
+influencing CBT effectiveness in managing depressive symptoms. While there are 
+statistically significant results (RR = 0.62; 95% CI = 0.50-0.77) indicating 
+CBT's preventive efficacy in transitioning from subclinical to major depression, 
+evidences were limited by the self-reporting data. The majority of included 
+studies came from Europe which limited generalizability, and comparisons between 
+different types of CBT, education levels, and CBT components were limited. In 
+general, CBT has been demonstrated to be effective in managing depressive 
+symptoms over time. Additional research, particularly from diverse regions and 
+comparative studies between CBT and alternative treatments, is imperative to 
+overcome the current study's limitations.
+
+Copyright © 2025 Raffy C. F. Chan et al. Depression and Anxiety published by 
+John Wiley & Sons Ltd.
+
+DOI: 10.1155/da/1610909
+PMCID: PMC12373477
+PMID: 40861245 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+3. JMIR Ment Health. 2025 Nov 28;12:e78340. doi: 10.2196/78340.
+
+Clinical Efficacy, Therapeutic Mechanisms, and Implementation Features of 
+Cognitive Behavioral Therapy-Based Chatbots for Depression and Anxiety: 
+Narrative Review.
+
+Im CH(#)(1), Woo M(#)(1).
+
+Author information:
+(1)School of Exercise and Sport Science, University of Ulsan, 93, Daehak-ro, 
+Nam-gu, Ulsan, 44610, Republic of Korea, 82 52-259-2380.
+(#)Contributed equally
+
+BACKGROUND: Cognitive behavioral therapy (CBT)-based chatbots, many of which 
+incorporate artificial intelligence (AI) techniques, such as natural language 
+processing and machine learning, are increasingly evaluated as scalable 
+solutions for addressing mental health issues, such as depression and anxiety. 
+These fully automated or minimally supported interventions offer novel pathways 
+for psychological support, especially for individuals with limited access to 
+traditional therapy.
+OBJECTIVE: This narrative review synthesized evidence on the clinical efficacy, 
+therapeutic mechanisms, and technological features of CBT-based chatbots 
+designed to alleviate depressive and anxiety symptoms.
+METHODS: Fourteen peer-reviewed studies published between January 2015 and March 
+2025 were identified through systematic searches and met predefined inclusion 
+criteria. The studies were analyzed to extract information on intervention 
+structure, therapeutic components, outcomes, and implementation characteristics.
+RESULTS: Across the included studies, CBT-based chatbots consistently 
+demonstrated short-term reductions in depressive symptoms, whereas findings for 
+anxiety outcomes were mixed, with some studies reporting improvements and others 
+showing nonsignificant or unreported effects. Moderate effect sizes were 
+observed for depression. Reported therapeutic features included cognitive 
+restructuring, behavioral activation, relaxation and mindfulness strategies, 
+emotional support, self-monitoring and feedback, and therapeutic alliance. 
+Technological characteristics such as real-time feedback and adaptive goal 
+tracking were associated with enhanced engagement and adherence.
+CONCLUSIONS: CBT-based chatbots appear to be a promising and scalable modality 
+for delivering psychological support, particularly for underserved populations. 
+However, variability in study designs, heterogeneity of outcome reporting, and 
+limited long-term evidence pose challenges for generalizability. Emerging 
+evidence from generative AI chatbots (eg, Therabot and Limbic Care) highlights 
+both opportunities and risks. Future work should examine long-term efficacy, 
+adaptive personalization, cross-cultural adaptation, and rigorous ethical 
+oversight.
+
+© Chang-Ha Im, Minjung Woo. Originally published in JMIR Mental Health 
+(https://mental.jmir.org).
+
+DOI: 10.2196/78340
+PMCID: PMC12669916
+PMID: 41328452 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+4. Medicine (Baltimore). 2026 Apr 17;105(16):e48327. doi: 
+10.1097/MD.0000000000048327.
+
+Effectiveness of cognitive behavioral therapy for depression in patients with 
+multiple sclerosis: A systematic review and meta-analysis.
+
+Xu W(1), Shen B, Xu H, Zhou Y, Wang Y.
+
+Author information:
+(1)Nursing Department, Shaoxing People's Hospital, Shaoxing, Zhejiang, China.
+
+BACKGROUND: The efficacy and methodologies of cognitive behavioral therapy (CBT) 
+for treating depression in multiple sclerosis (MS) require further comprehensive 
+research.
+METHODS: Two researchers conducted independent literature searches across 5 
+databases, utilizing the keywords "multiple sclerosis," "cognitive behavioral 
+therapy," and "depression," without any restrictions on publication year. The 
+Cochrane Risk of Bias Tool 2.0 was utilized to assess the included studies. 
+Statistical analyses were conducted using standardized mean difference as the 
+effect size with Stata 17.0 software.
+RESULTS: This meta-analysis included 22 studies. The results indicate that, 
+regardless of whether delivered face-to-face, online, or via telephone, both 
+individual and group CBT effectively alleviate depression in patients with MS. 
+Significant improvements in depressive symptoms were observed starting from the 
+second month of intervention and persisted for up to 6 months post-intervention.
+CONCLUSION: Patients with MS can flexibly choose the delivery modality of CBT 
+based on their individual circumstances while engaging in treatment for around 2 
+months. They are encouraged to reengage in CBT within 6 months post-intervention 
+to ensure the continuity and stability of depression treatment outcomes. 
+Healthcare providers can offer various CBT delivery modalities based on the 
+individual preferences and circumstances of patients with MS, while developing 
+corresponding plans to enhance the effectiveness of depression management.
+
+Copyright © 2026 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000048327
+PMCID: PMC13095298
+PMID: 41995508 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no funding and conflicts of 
+interest to disclose.

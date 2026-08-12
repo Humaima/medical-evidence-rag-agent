@@ -1,0 +1,425 @@
+1. N Engl J Med. 2026 Jan 22;394(4):323-332. doi: 10.1056/NEJMoa2509688. Epub 2025 
+Nov 8.
+
+Antithrombotic Therapy after Successful Catheter Ablation for Atrial 
+Fibrillation.
+
+Verma A(1), Birnie DH(2), Jiang C(3), Heidbüchel H(4), Hindricks G(5), Kirchhof 
+P(6)(7), Healey JS(8), Wang Y(3), Dagres N(5), Deyell MW(9), Sanders P(10), 
+Pathak RK(11), Koopman P(12), Nuyens D(13), Novak P(14), Amit G(8), Dussault 
+C(15), Makanjee B(16), Quinn FR(17), Jolly U(18), Iden L(19), Kuniss M(20), 
+Sharma M(8), Ha A(21), Essebag V(1), Champagne J(22), Hill MD(23), Smith EE(23), 
+Wells GA(2); OCEAN Investigators.
+
+Collaborators: Sanders P, Pathak RK, Kalman J, Weerasooriya R, Kistler PM, 
+Koopman P, Nuyens D, Duytschaever M, Vanduynhoven P, Heidbuchel H, Schwagten B, 
+Anné W, Provenier F, Mairesse G, Ector J, Deyell M, Birnie D, Champagne J, Novak 
+P, Verma A, Amit G, Dussault C, Essebag V, Makanjee B, Quinn FR, Jolly U, Rivard 
+L, Greiss I, Skanes A, Parkash R, Crystal E, Redfearn D, Mangat I, LeMaitre JP, 
+Lane C, Bourgeois S, Sturmer M, Jiang C, Iden L, Kuniss M, Steven D, Bollman A, 
+Tilz R, Brachmann J, Schluter S, Metzner A, Willems S, Kalfon E, Kirchhof P, 
+Hindricks G, Healey JS, Smith EE, Hill MD, Sharma M, Champagne J, Ha A, Wells 
+GA, Cairns JA, Benavente O, Brant R, Verma S, Gladstone D, Dowlatshahi D.
+
+Author information:
+(1)McGill University Health Centre, McGill University, Montreal.
+(2)University of Ottawa Heart Institute, Ottawa.
+(3)Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Zhejiang, 
+China.
+(4)University Hospital Antwerp, Antwerp, Belgium.
+(5)Deutches Herzzentrum der Charité, Universitätsmedizin Berlin, member of Freie 
+Universität Berlin and Humboldt Universität zu Berlin, Berlin.
+(6)Universitätsklinikum Hamburg-Eppendorf, Hamburg, Germany.
+(7)Birmingham University, Hamburg, Germany.
+(8)Hamilton Health Sciences, McMaster University, Hamilton, ON, Canada.
+(9)St. Paul's Hospital, University of British Columbia, Vancouver, Canada.
+(10)Centre for Heart Rhythm Disorders, Royal Adelaide Hospital, University of 
+Adelaide, Adelaide, SA, Australia.
+(11)Canberra Heart Rhythm Centre, Canberra, ACT, Australia.
+(12)Hartcentrum Hasselt, Vilvoorde, Belgium.
+(13)Ziekenhuis Oost-Limburg, Genk, Belgium.
+(14)Royal Jubilee Hospital, Victoria, BC, Canada.
+(15)Centre Hospitalier Universitaire de Sherbrooke, University of Sherbrooke, 
+Sherbrooke, QC, Canada.
+(16)Scarborough Health Network, Scarborough, ON, Canada.
+(17)Libin Cardiovascular Institute, University of Calgary, Calgary, AB, Canada.
+(18)St. Mary's General Hospital, Kitchener, ON, Canada.
+(19)Segeberger Kliniken, Bad Segeberg, Germany.
+(20)Kerckhoff-Klinik, Justus Liebig University, Giessen, Germany.
+(21)University Health Network, University of Toronto, Toronto.
+(22)Institut Universitaire de Cardiologie et de Pneumologie de Quebéc, 
+University of Laval, Quebec, QC, Canada.
+(23)Department of Clinical Neurosciences and Hotchkiss Brain Institute, Calgary 
+Stroke Program, Cumming School of Medicine, University of Calgary, Calgary, AB, 
+Canada.
+
+Comment in
+    N Engl J Med. 2026 May 7;394(18):1868-1869. doi: 10.1056/NEJMc2602513.
+    N Engl J Med. 2026 May 7;394(18):1869. doi: 10.1056/NEJMc2602513.
+    N Engl J Med. 2026 May 7;394(18):1869-1870. doi: 10.1056/NEJMc2602513.
+    N Engl J Med. 2026 May 7;394(18):1870. doi: 10.1056/NEJMc2602513.
+    N Engl J Med. 2026 May 7;394(18):1870-1871. doi: 10.1056/NEJMc2602513.
+    N Engl J Med. 2026 May 7;394(18):1871-1872. doi: 10.1056/NEJMc2602513.
+    J Thorac Dis. 2026 Jul 31;18(7):811. doi: 10.21037/jtd-2026-1353.
+
+BACKGROUND: Whether successful catheter ablation for atrial fibrillation 
+eliminates the need for long-term oral anticoagulant therapy is unknown.
+METHODS: We conducted an international, open-label, randomized, 
+blinded-outcome-assessment trial involving 1284 patients who had undergone 
+successful catheter ablation for atrial fibrillation at least 1 year earlier and 
+had a CHA2DS2-VASc score (scores range from 0 to 9, with higher scores 
+indicating a higher risk of stroke) of 1 or more (or ≥2 for women or for 
+patients in whom vascular disease was a risk factor). Patients were randomly 
+assigned to receive either aspirin (at a dose of 70 to 120 mg daily, depending 
+on availability in the local jurisdiction) or rivaroxaban (at a dose of 15 mg) 
+and followed for 3 years. Magnetic resonance imaging (MRI) of the head was 
+performed after enrollment and at 3 years. The primary outcome was a composite 
+of stroke, systemic embolism, or new covert embolic stroke (defined by ≥1 new 
+infarct measuring ≥15 mm on MRI) at 3 years.
+RESULTS: A total of 641 patients were assigned to the rivaroxaban group and 643 
+to the aspirin group. A primary-outcome event occurred in 5 patients (0.31 
+events per 100 patient-years) in the rivaroxaban group and in 9 patients (0.66 
+events per 100 patient-years) in the aspirin group (relative risk, 0.56; 95% 
+confidence interval [CI], 0.19 to 1.65; absolute risk difference at 3 years, 
+-0.6 percentage points; 95% CI, -1.8 to 0.5; P = 0.28). New cerebral infarcts 
+measuring less than 15 mm occurred in 22 of 568 patients (3.9%) in the 
+rivaroxaban group and in 26 of 590 patients (4.4%) in the aspirin group 
+(relative risk, 0.89; 95% CI, 0.51 to 1.55). Fatal or major bleeding (the 
+composite primary safety outcome) had occurred in 10 patients (1.6%) with 
+rivaroxaban and in 4 patients (0.6%) with aspirin (hazard ratio, 2.51; 95% CI, 
+0.79 to 7.95) at 3 years.
+CONCLUSIONS: Among patients who had had successful catheter ablation for atrial 
+fibrillation at least 1 year earlier and had risk factors for stroke, treatment 
+with rivaroxaban did not result in a significantly lower incidence of a 
+composite of stroke, systemic embolism, or new covert embolic stroke than 
+treatment with aspirin. (Funded by Bayer and others; OCEAN ClinicalTrials.gov 
+number, NCT02168829.).
+
+Copyright © 2025 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2509688
+PMID: 41211931 [Indexed for MEDLINE]
+
+
+2. JACC Adv. 2025 Sep;4(9):102068. doi: 10.1016/j.jacadv.2025.102068. Epub 2025 Aug 
+19.
+
+Primary Prevention Aspirin, Lipoprotein(a), and Cardiorenal Outcomes in Chronic 
+Kidney Disease: Chronic Renal Insufficiency Cohort.
+
+Razavi AC(1), Chen J(2), Yang W(3), Sha D(3), Dzaye O(4), Bhatia HS(5), Tsimikas 
+S(5), Lash JP(6), Kansal M(7), Rincon-Choles H(8), Vaccarino V(9), Jacobson 
+TA(10), Budoff MJ(11), Blumenthal RS(4), Whelton SP(4), Sperling LS(9), Blaha 
+MJ(4), He J(2); CRIC Study Investigators.
+
+Collaborators: Anderson AH, Appel LJ, Cohen DL, Dember LM, Go AS, Rao PS, Shah 
+VO, Unruh ML.
+
+Author information:
+(1)Emory Clinical Cardiovascular Research Institute, Emory University School of 
+Medicine, Atlanta, Georgia, USA. Electronic address: acrazav@emory.edu.
+(2)Department of Medicine, University of Texas Southwestern, Dallas, Texas, USA.
+(3)Department of Biostatistics, Epidemiology, and Informatics, University of 
+Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania, USA.
+(4)Johns Hopkins Ciccarone Center for Prevention of Cardiovascular Disease, 
+Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+(5)Division of Cardiovascular Medicine, Sulpizio Cardiovascular Center, 
+University of California-San Diego, La Jolla, California, USA.
+(6)Division of Nephrology, Department of Medicine, University of Illinois 
+Chicago College of Medicine, Chicago, Illinois, USA.
+(7)Division of Cardiology, Department of Medicine, University of Illinois 
+Chicago College of Medicine, Chicago, Illinois, USA.
+(8)Department of Kidney Medicine, Medical Specialties Institute, Cleveland 
+Clinic, Cleveland, Ohio, USA.
+(9)Emory Clinical Cardiovascular Research Institute, Emory University School of 
+Medicine, Atlanta, Georgia, USA.
+(10)Lipid Clinic and Cardiovascular Risk Reduction Program, Emory Department of 
+Medicine, Emory University, Atlanta, Georgia, USA.
+(11)Lundquist Institute, Harbor-UCLA Medical Center, Torrance, California, USA.
+
+BACKGROUND: Chronic kidney disease (CKD) is a risk-enhancing factor for 
+cardiovascular disease (CVD) and is associated with higher lipoprotein(a) 
+(Lp[a]) levels. While aspirin may reduce Lp(a)-related prothrombotic risk, the 
+role of primary prevention aspirin for persons with CKD and elevated Lp(a) is 
+unclear.
+OBJECTIVES: The aim of the study was to assess the association of aspirin use 
+with cardiovascular, renal, and bleeding outcomes stratified by Lp(a) level 
+among individuals with CKD without clinical CVD.
+METHODS: There were 2,552 participants without clinical CVD in the Chronic Renal 
+Insufficiency Cohort. Lp(a) was measured at baseline and not reported to 
+clinicians. Aspirin use was self-reported and longitudinally assessed at each 
+follow-up visit. Cox proportional hazards regression assessed the association of 
+aspirin use with myocardial infarction (MI), stroke, end-stage renal disease 
+(ESRD), and major bleeding events, stratified by Lp(a) ≥50 vs <50 mg/dL.
+RESULTS: Mean age was 55.8 years, 48% were women, 34% reported aspirin use at 
+baseline, 27% had Lp(a) ≥50 mg/dL, and mean estimated glomerular filtration rate 
+was 47 mL/min/1.73 m2. Over a median follow-up of 15.7 years, aspirin use was 
+associated with a 38% lower risk of MI (HR: 0.62; 95% CI: 0.42-0.91) and a 28% 
+lower risk of ESRD (HR: 0.72; 95% CI: 0.59-0.89) among individuals with Lp(a) 
+≥50 but not Lp(a) <50 mg/dL (MI, HR: 1.38; 95% CI: 1.07-1.77; ESRD, HR: 0.98; 
+95% CI: 0.84-1.15). Aspirin use was not significantly associated with stroke or 
+major bleeding in either Lp(a) group.
+CONCLUSIONS: Individuals with CKD and elevated Lp(a) without clinical CVD may 
+derive net benefit from low-dose aspirin for the primary prevention of MI and 
+ESRD.
+
+Copyright © 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jacadv.2025.102068
+PMCID: PMC12395058
+PMID: 40839904
+
+Conflict of interest statement: Funding support and author disclosures Funding 
+for the CRIC study was obtained under a cooperative agreement from the National 
+Institute of Diabetes and Digestive and Kidney Diseases (U01DK060990, 
+U01DK060984, U01DK061022, U01DK061021, U01DK061028, U01DK060980, U01DK060963, 
+U01DK060902, and U24DK060990). In addition, this work was supported in part by 
+the Perelman School of Medicine at the University of Pennsylvania Clinical and 
+Translational Science Award NIH/NCATSUL1TR000003, Johns Hopkins UniversityUL1 
+TR-000424, University of MarylandGCRC M01 RR-16500, Clinical and Translational 
+Science Collaborative of Cleveland, UL1TR000439 from the National Center for 
+Advancing Translational Sciences (NCATS) component of the National Institutes of 
+Health and NIH roadmap for Medical Research, Michigan Institute for Clinical and 
+Health Research (MICHR) UL1TR000433, University of Illinois at Chicago CTSA 
+UL1RR029879, Tulane COBRE for Clinical and Translational Research in 
+Cardiometabolic Diseases P20 GM109036, Kaiser Permanente NIH/NCRR UCSF-CTSI UL1 
+RR-024131, Department of Internal Medicine, University of New Mexico School of 
+Medicine Albuquerque, NM R01DK119199. Dr Razavi is supported by the National 
+Heart, Lung, and Blood Institute Grant L30HL175751. A full list of participating 
+CRIC investigators and institutions can be found at 
+http://www.cristudy.org/Chronic-Kidney-Disease/Chronic-Renal-Insufficiency-Cohort-Study. 
+A portion of the data reported here have been supplied by the United States 
+Renal Data System (USRDS). The interpretation and reporting of these data are 
+the responsibility of the author(s) and in no way should be seen as an official 
+policy or interpretation of the U.S. government. All other authors have reported 
+that they have no relationships relevant to the contents of this paper to 
+disclose.
+
+
+3. Eur Heart J. 2025 Nov 7;46(42):4410-4422. doi: 10.1093/eurheartj/ehaf514.
+
+Aspirin, cardiovascular events, and major bleeding in older adults: extended 
+follow-up of the ASPREE trial.
+
+Wolfe R(1), Broder JC(1), Zhou Z(1), Murray AM(2)(3), Ryan J(1), Chan AT(4)(5), 
+Nelson MR(1)(6), Woods RL(1), Ernst ME(7)(8), Orchard SG(1), Kirpach B(2), Reid 
+CM(1)(9), Shah RC(10), Stocks N(11), Margolis KL(12), Neumann JT(1)(13)(14), 
+Wilson M(1), Fitzgerald S(1), Mahady SE(1), Wood EM(1), Ket S(1), Eaton CB(15), 
+Hand P(16)(17), Malik M(18), Abhayaratna WP(19), Venkataraman P(1)(20), Chan 
+P(1), Cloud GC(16)(17), Donnan GA(21), Williamson JD(22), Tonkin AM(1).
+
+Author information:
+(1)School of Public Health and Preventive Medicine, Monash University, 553 St 
+Kilda Road, Melbourne 3004, VIC, Australia.
+(2)Berman Centre for Outcomes and Clinical Research, Hennepin Healthcare 
+Research Institute, Minneapolis, MN, USA.
+(3)Division of Geriatrics, Department of Medicine, Hennepin HealthCare, 
+University of Minnesota, Minneapolis, MN, USA.
+(4)Clinical and Translational Epidemiology Unit, Massachusetts General Hospital, 
+Boston, MA, USA.
+(5)Division of Gastroenterology, Massachusetts General Hospital, Boston, MA, 
+USA.
+(6)Menzies Institute for Medical Research, University of Tasmania, Hobart, TAS, 
+Australia.
+(7)Department of Pharmacy Practice and Science, College of Pharmacy, The 
+University of Iowa, Iowa, IA, USA.
+(8)Department of Family Medicine, Carver College of Medicine, The University of 
+Iowa, Iowa, IA, USA.
+(9)School of Population Health, Curtin University, Perth, WA, Australia.
+(10)Department of Family & Preventive Medicine and the Rush Alzheimer's Disease 
+Center, Rush University Medical Center, Chicago, IL, USA.
+(11)Discipline of General Practice, University of Adelaide, Adelaide, SA, 
+Australia.
+(12)HealthPartners Institute, Minneapolis, MN, USA.
+(13)Department of Cardiology, University Heart & Vascular Center, Hamburg, 
+University Medical Center Hamburg-Eppendorf, Hamburg, Germany.
+(14)German Center for Cardiovascular Research (DZHK), Partner Site, 
+Hamburg/Kiel/Lübeck, Hamburg, Germany.
+(15)Center for Primary Care and Prevention, Brown University, Providence, RI, 
+USA.
+(16)Stroke Unit, Department of Neurology, The Alfred Hospital, Melbourne, VIC, 
+Australia.
+(17)Department of Neuroscience, School of Translational Medicine, Monash 
+University, Melbourne, VIC, Australia.
+(18)California Heart & Vascular Clinic, San Diego, CA, USA.
+(19)College of Health and Medicine, The Australian National University, 
+Canberra, Australia.
+(20)Department of Cardiology, St Vincent's Hospital, Melbourne, Australia.
+(21)Melbourne Brain Centre, Royal Melbourne Hospital, University of Melbourne, 
+Parkville, VIC, Australia.
+(22)Sticht Center on Aging and Alzheimer's Prevention, Section on Gerontology 
+and Geriatric Medicine, Department of Internal Medicine, Wake Forest School of 
+Medicine, Winston-Salem, NC, USA.
+
+Comment in
+    doi: 10.1093/eurheartj/ehaf642.
+
+BACKGROUND AND AIMS: Guidelines recommend against routine initiation of low-dose 
+aspirin in older adults for primary prevention of atherosclerotic cardiovascular 
+disease events. This study aimed to estimate long-term and post-trial effects of 
+aspirin on major adverse cardiovascular events (MACE) and major haemorrhage 
+using extended follow-up of participants from the ASPREE trial.
+METHODS: In-trial (2010-17) and post-trial (2017-22) data were analysed. At 
+enrolment, participants were aged ≥70 years (≥65 years for US minorities) 
+without prior cardiovascular events, dementia, or independence-limiting physical 
+disability. Randomization was to daily low-dose aspirin or matching placebo for 
+the 4.7 years of the trial.
+RESULTS: Of the 19 114 participants randomized (9525 aspirin, 9589 placebo), 15 
+668 without in-trial MACE consented to post-trial follow-up. No long-term 
+benefit of randomization to aspirin was observed for MACE for the entire 
+in-trial and post-trial period [hazard ratio (HR) 1.04, 95% confidence interval 
+(CI) .94, 1.15]. However, during the post-trial period (median 4.3 years), there 
+was a higher rate of MACE (HR 1.17, 95% CI 1.01, 1.36) in those randomized to 
+aspirin compared with placebo. Over the entire period, a higher rate of major 
+haemorrhage was observed in the randomized aspirin group compared with placebo 
+(HR 1.24, 95% CI 1.10, 1.39).
+CONCLUSIONS: The present study provides novel evidence concerning long-term MACE 
+and haemorrhage following aspirin use in initially healthy older adults. The 
+finding of no long-term MACE benefit needs to be considered in clinical 
+decision-making if aspirin is being considered for use in this context.
+
+© The Author(s) 2025. Published by Oxford University Press on behalf of the 
+European Society of Cardiology.
+
+DOI: 10.1093/eurheartj/ehaf514
+PMCID: PMC12596486
+PMID: 40796244 [Indexed for MEDLINE]
+
+
+4. JAMA Netw Open. 2026 Apr 1;9(4):e266579. doi: 10.1001/jamanetworkopen.2026.6579.
+
+Low-Dose Aspirin for Cardiovascular Disease Primary Prevention in Patients With 
+Giant Cell Arteritis.
+
+Beydon M(1), Hajage D(1), Guédon AF(2), Carrat F(3), Seror R(4)(5), Tubach F(1).
+
+Author information:
+(1)Sorbonne Université, Institut pour la Santé et la Recherche Médicale, 
+Institut Pierre Louis d'Epidémiologie et de Santé Publique, Equipe PEPITES, 
+Assistance Publique - Hôpitaux de Paris, Hôpital Pitié Salpêtrière, Département 
+de Santé Publique, Centre de Pharmacoépidémiologie (Cephepi), Paris, France.
+(2)Department of Internal Medicine, Hôpital Saint-Antoine, Assistance Publique - 
+Hôpitaux de Paris, Sorbonne Université, Paris, France.
+(3)Sorbonne Université, Institut National de la Santé et de la Recherche 
+Médicale, Institut Pierre Louis d'Epidémiologie et de Santé Publique, 
+Département de santé publique, Hôpital Saint-Antoine, Assistance Publique - 
+Hôpitaux de Paris, Paris, France.
+(4)Department of Rheumatology, Hôpital Bicêtre, Assistance Publique - Hôpitaux 
+de Paris, Université Paris-Saclay, Le Kremlin-Bicêtre, France.
+(5)Center for Immunology of Viral Infections and Auto-immune Diseases, Institut 
+pour la Santé et la Recherche Médicale UMR 1184, Université Paris-Saclay, Le 
+Kremlin-Bicêtre, Paris, France.
+
+Comment in
+    doi: 10.1001/jamanetworkopen.2026.6587.
+
+IMPORTANCE: Patients with giant cell arteritis (GCA) face an increased risk of 
+major adverse cardiovascular events (MACE). The benefit of low-dose aspirin in 
+these patients is unknown.
+OBJECTIVE: To evaluate the 1-year association of low-dose aspirin with risk of 
+MACE in primary prevention in patients with incident GCA and to evaluate the 
+risk of major hemorrhage and net clinical benefit at predefined time points.
+DESIGN, SETTING, AND PARTICIPANTS: This population-based cohort study used a 
+target trial emulation framework with a cloning, censoring, and weighting 
+approach within the French National Health Data System. Participants were 
+individuals aged at least 50 years with incident GCA between 2010 and 2022, 
+without previous cardiovascular events or antiplatelet or anticoagulant use at 
+GCA diagnosis. Analysis was conducted from November 2024 to June 2025.
+EXPOSURE: Initiation of low-dose aspirin vs not (control group) within 14 days 
+of GCA diagnosis.
+MAIN OUTCOMES AND MEASURES: The main outcome was MACE, a composite end point of 
+ischemic stroke, myocardial infarction, and all-cause mortality. Major 
+hemorrhages were evaluated as secondary outcomes.
+RESULTS: A total of 14 528 individuals (median [IQR] age, 74 [67 to 80] years; 
+10 396 [72%] female), were included. Low-dose aspirin was initiated in 5220 
+individuals (36%). At 1 year, MACE risk was lower in the low-dose aspirin group 
+(relative risk [RR], 0.86 [95% CI, 0.75 to 0.96]; risk difference [RD], -0.54% 
+[95% CI, -0.99% to -0.12%]), while major hemorrhage risk was higher (RR, 1.29 
+[95% CI, 1.05 to 1.53]; RD, 0.51% [95% CI, 0.13% to 0.91%]). All-cause mortality 
+was lower in the low-dose aspirin group at 1 year (RD, -0.43% [95% CI, -0.77% to 
+-0.10%]). At 3 years, MACE events were less frequent in the low-dose aspirin 
+group (RD, -1.08% [95% CI, -1.77% to -0.41%]), with no difference in major 
+hemorrhages. A more pronounced association between low-dose aspirin and lower 
+1-year MACE was observed in women (RD, -0.78% [95% CI, -1.29% to -0.25%]) and 
+patients with diabetes at GCA diagnosis (RD, -2.23% [95% CI, -3.48% to -1.02%]).
+CONCLUSIONS AND RELEVANCE: In this retrospective cohort study, low-dose aspirin 
+at GCA diagnosis was associated with lower MACE at 1 and 3 years but higher 
+hemorrhage risk at 1 year. Subgroup analyses suggested heterogeneity according 
+to sex and diabetic status.
+
+DOI: 10.1001/jamanetworkopen.2026.6579
+PMCID: PMC13090850
+PMID: 41996116 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Prof Seror 
+reported receiving personal fees from Amgen, Sanofi, GSK, Boehringer Ingelheim, 
+Kiniska, Janssen, Veloxis, AstraZeneca, Alpha Sigma, Lilly, Bristol Myers 
+Squibb, and Novartis; grants from Sanofi and Novartis; and nonfinancial support 
+from Novartis, GSK, Amgen, AstraZeneca, and Union Chimique Belge outside the 
+submitted work. Prof Tubach reported receiving fees from MSD, Novartis, and GSK 
+(paid to institution) outside the submitted work. No other disclosures were 
+reported.
+
+
+5. J Am Heart Assoc. 2025 Dec 2;14(23):e043161. doi: 10.1161/JAHA.125.043161. Epub 
+2025 Nov 26.
+
+Aspirin Dosing for Secondary Prevention of Atherosclerotic Cardiovascular 
+Disease in Chronic Obstructive Pulmonary Disease and Asthma: Insights From 
+ADAPTABLE.
+
+Mosher CL(1)(2), Stebbins A(2), Lamberton CE(1), Wruck LM(2), Hernandez 
+AF(2)(3), Benziger CP(4), Whittle J(5), Gupta K(6), Rothman RL(7), Kripalani 
+S(7), Kunisaki KM(8)(9), Fawzy A(10), Dransfield MT(11), Jones WS(2)(3)(12).
+
+Author information:
+(1)Division of Pulmonary, Allergy, and Critical Care Medicine Duke University 
+School of Medicine Durham NC.
+(2)Duke Clinical Research Institute Durham NC.
+(3)Division of Cardiovascular Disease Duke University School of Medicine Durham 
+NC.
+(4)Heart and Vascular Center Essentia Health Duluth MN.
+(5)Division of Medicine Clement J. Zablocki Veterans Affairs Medical Center 
+Milwaukee WI.
+(6)Department of Cardiovascular Medicine University of Kansas Medical Center 
+Kansas City KS.
+(7)Center for Clinical Quality and Implementation Research Vanderbilt University 
+Medical Center Nashville TN.
+(8)Pulmonary Section, Minneapolis VA Health Care System Minneapolis MN.
+(9)Division of Pulmonary, Allergy, Critical Care and Sleep Medicine University 
+of Minnesota Minneapolis MN.
+(10)Division of Pulmonary and Critical Care Johns Hopkins University School of 
+Medicine Baltimore MD.
+(11)Division of Pulmonary, Allergy, and Critical Care University of Alabama at 
+Birmingham Birmingham AL.
+(12)Department of Population Health Sciences Duke University School of Medicine 
+Durham NC.
+
+BACKGROUND: Guidelines recommend aspirin (75-100 mg daily) for the secondary 
+prevention of atherosclerotic cardiovascular disease (ASCVD). However, it is 
+unknown if people with a history of ASCVD and chronic obstructive pulmonary 
+disease (COPD) or asthma, which are independent risk factors for ASCVD, would 
+benefit from higher dose aspirin.
+METHODS: We evaluated the effectiveness and safety of 2 aspirin doses among 
+individuals with and without COPD/asthma in the ADAPTABLE (Aspirin Dosing: A 
+Patient-Centric Trial Assessing Benefits and Long-Term Effectiveness) trial. The 
+ADAPTABLE study was an open-label, randomized clinical trial that assigned 
+people with ASCVD to aspirin 81 or 325 mg. We performed a secondary analysis of 
+data from the ADAPTABLE study to investigate the difference in clinical 
+effectiveness and safety among people with and without COPD or asthma randomized 
+to aspirin 325 versus 81 mg. We assessed if history of COPD/asthma modified the 
+association between aspirin dose and outcomes.
+RESULTS: Among the 14 662 participants, 2778 had a history of COPD or asthma and 
+11 884 had no history of COPD or asthma. We observed no significant interaction 
+between aspirin dose and history of COPD/asthma in our adjusted primary 
+composite outcome (adjusted hazard ratio [aHR], 1.15 [95% CI, 0.92-1.43]; P 
+value=0.349). We observed individuals with a history of COPD/asthma treated with 
+aspirin 81 mg had a significantly higher risk of stroke (aHR, 2.41 [95% CI, 
+1.27-4.57]) compared with a treatment strategy of aspirin 325 mg.
+CONCLUSIONS: Among people with ASCVD and COPD/asthma, there were no significant 
+differences in ASCVD outcomes based on aspirin dosing except stroke. Further 
+evaluation of stroke prevention in this population is warranted.
+
+DOI: 10.1161/JAHA.125.043161
+PMCID: PMC12748523
+PMID: 41294093 [Indexed for MEDLINE]

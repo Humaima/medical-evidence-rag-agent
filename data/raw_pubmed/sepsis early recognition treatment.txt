@@ -1,0 +1,195 @@
+1. Crit Care. 2025 Aug 19;29(1):366. doi: 10.1186/s13054-025-05588-0.
+
+Transforming sepsis management: AI-driven innovations in early detection and 
+tailored therapies.
+
+Papareddy P(1), Lobo TJ(2), Holub M(3), Bouma H(4), Maca J(5), Strodthoff N(6), 
+Herwald H(7).
+
+Author information:
+(1)Department of Laboratory Medicine, Biomedical Center, Lund University, BMC 
+C14, Lund, Sweden.
+(2)Department of Clinical Pharmacy & Pharmacology, University Medical Center 
+Groningen, University of Groningen, Groningen, The Netherlands.
+(3)Department of Infectious Diseases, First Faculty of Medicine, Charles 
+University and Military University Hospital Prague, Prague, Czech Republic.
+(4)Departments of Clinical Pharmacy & Pharmacology, Acute Care and Internal 
+Medicine, University Medical Center Groningen, University of Groningen, 
+Groningen, The Netherlands.
+(5)Department of Anesthesiology and Intensive Care Medicine, Faculty of 
+Medicine, Institute of Physiology and Pathophysiology, University Hospital 
+Ostrava, University of Ostrava, Ostrava, Czech Republic.
+(6)School VI - Medicine and Health Services, Carl von Ossietzky University of 
+Oldenburg, Oldenburg, Germany.
+(7)Department of Laboratory Medicine, Biomedical Center, Lund University, BMC 
+C14, Lund, Sweden. heiko.herwald@med.lu.se.
+
+Sepsis remains a leading cause of mortality worldwide, driven by its clinical 
+complexity and delayed recognition. Artificial intelligence (AI) offers 
+promising solutions to improve sepsis care through earlier detection, risk 
+stratification, and personalized treatment strategies. Key applications include 
+AI-driven early warning systems, subphenotyping based on clinical and biological 
+data, and decision support tools that adapt to real-time patient information. 
+The integration of diverse data types, such as structured clinical data, 
+unstructured notes, waveform signals, and molecular biomarkers, enhances the 
+precision and timeliness of interventions. However, challenges such as 
+algorithmic bias, limited external validation, data quality issues, and ethical 
+considerations continue to hinder clinical implementation. Future directions 
+focus on real-time model adaptation, multi-omics integration, and the 
+development of generalist medical AI capable of personalized recommendations. 
+Successfully addressing these barriers is essential for AI to deliver on its 
+potential to transform sepsis management and support the transition toward 
+precision-driven critical care.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s13054-025-05588-0
+PMCID: PMC12366378
+PMID: 40830514 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: Not applicable. Consent for publication: Not applicable. Competing 
+interests: The authors declare no competing interests.
+
+
+2. Crit Care Med. 2025 Oct 1;53(10):e1886-e1892. doi: 10.1097/CCM.0000000000006796. 
+Epub 2025 Jul 16.
+
+The Sepsis Chain of Survival: A Comprehensive Framework for Improving Sepsis 
+Outcomes.
+
+Hidalgo JL(1), Kumar VK(2), Akech SO(3), Myatra SN(4), Jacob ST(5), Kortz 
+T(6)(7), Vasquez AA(8), Jiménez Bazzano MC(9), Diaz M(10)(11), Rio Rodríguez 
+JD(10), Garcia ALN(12), Giron R(13), Jacobi J(14), Madden MA(15), Nadkarni 
+V(16).
+
+Author information:
+(1)Division of Critical Care and COVID-19-Unit, Belize Healthcare Partners 
+Limited, Belize City, Belize.
+(2)Department of Research and Quality, Society of Critical Care Medicine, Mount 
+Prospect, IL.
+(3)Kenya Medical Research Institute-Wellcome Trust Research Program (KWTRP), 
+Nairobi, Kenya.
+(4)Department of Anesthesiology, Critical Care and Pain, Tata Memorial Hospital, 
+Homi Bhabha National Institute, Mumbai, India.
+(5)Department of Clinical Sciences, Liverpool School of Tropical Medicine, 
+Liverpool, United Kingdom.
+(6)Department of Pediatrics, Critical Care Medicine, University of California, 
+San Francisco, San Franscisco, CA.
+(7)Institute for Global Health Sciences, University of California, San 
+Francisco, San Franscisco, CA.
+(8)General Practitioner at the Critical Care Unit, Belize Healthcare Partners, 
+Belize City, Belize.
+(9)Department of Internal Medicine, Hospital of Clinics, Faculty of Medical 
+Sciences National University of Asunción, San Lorenzo, Paraguay.
+(10)Hospital Auxilio Mutuo, San Juan, Puerto Rico.
+(11)Universidad Sagrado Corazón, San Juan, Puerto Rico.
+(12)Clinical Nutrición Hospital Regional de Occidente, Quetzaltenango, 
+Quetzaltenango, Guatemala.
+(13)Critical Care Unit, Pulmonary Function Testing and Pulmonary Rehabilitation 
+Unit, Belize Healthcare Partners, Belize City, Belize.
+(14)Critical Care Clinical Pharmacist, National Coalition for IV Push Safety, 
+Lebanon, IN.
+(15)Department of Pediatrics, Critical Care Medicine, Rutgers Robert Wood 
+Johnson Medical School, New Brunswick, NJ.
+(16)Department of Anesthesiology, Critical Care and Pediatrics, University of 
+Pennsylvania Perelman School of Medicine, Philadelphia, PA.
+
+Comment in
+    doi: 10.1097/CCM.0000000000006832.
+
+The "Chain of Survival" concept, developed for cardiac arrest, emphasizes a 
+seamless and interconnected set, of time-critical interventions that are not 
+strictly linear, to improve survival. This paradigm of urgent recognition and 
+response to life-threatening conditions has evolved to apply to acute medical 
+conditions, including sepsis. The "Sepsis Chain of Survival" underscores the 
+importance of early recognition, prompt emergency medical services activation, 
+timely antimicrobial administration and appropriate fluid resuscitation, 
+optimized critical care management, effective source control and infection 
+management, and comprehensive post-sepsis care. By adopting this approach, 
+healthcare systems can improve sepsis outcomes through a coordinated, 
+multifaceted strategy. This model highlights the critical role of public and 
+healthcare worker awareness, education, community response, and continuous 
+monitoring. Addressing the importance and interdependence of each link, this 
+framework aims to improve survival rates and patient recovery by ensuring timely 
+and effective sepsis management across diverse resource settings in infants, 
+children, and adults.
+
+Copyright © 2025 The Author(s). Published by Wolters Kluwer Health, Inc. on 
+behalf of the Society of Critical Care Medicine and Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/CCM.0000000000006796
+PMCID: PMC12490334
+PMID: 40668160 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Hidalgo received support for article 
+research from the Laerdal Foundation. Dr. Kumar’s institution received funding 
+from the National Institutes of Health (NIH)/the National Heart, Lung, and Blood 
+Institute. Dr. Myatra is a member of the Surviving Sepsis Campaign guidelines 
+committee. Drs. Kumar’s and Nadkarni’s institutions received funding from the 
+Laerdal Foundation. Dr. Jacob’s institution received funding from the German 
+Federal Ministry of Education and Research, the U.K. National Institute for 
+Health and Care Research, and the U.K. Medical Research Council; they disclosed 
+that they are a Board and Executive Member of the Global Sepsis Alliance and 
+African Sepsis Alliance and a member of the Surviving Sepsis Campaign guidelines 
+development committee. Dr. Kortz’s institution received funding from the 
+National Institute of Allergy and Infectious Diseases (award number 
+K23AI144029). Dr. Jacobi received funding from the Visante Pharmacy Consulting; 
+she disclosed that she was on the Pfizer Hospital Products Division Advisory 
+Board. Dr. Nadkarni’s institution received funding from the NIH, the U.S. 
+Department of Defense, the Agency for Healthcare Quality and Safety, the Zoll 
+Medical, and the American Heart Association; he received funding from the 
+Society of Critical Care Medicine; and he received support for article research 
+from the NIH. Dr. Madden received funding from Elsevier, the American College of 
+Critical Care Medicine Board of Regents, the National Association of Pediatric 
+Nurse Practitioners, and the AACN National Teaching Institute. The remaining 
+authors have disclosed that they do not have any potential conflicts of 
+interest.
+
+
+3. Suspected sepsis in under 16s: recognition, diagnosis and early management.
+
+London: National Institute for Health and Care Excellence (NICE); 2025 Nov 19.
+National Institute for Health and Care Excellence: Clinical Guidelines.
+
+This guideline covers the recognition, diagnosis and early management of 
+suspected sepsis in under 16s (not pregnant or recently pregnant). It includes 
+recommendations on recognition and early assessment, initial treatment, 
+escalating care, finding and controlling the source of infection, early 
+monitoring, information and support, and training and education. NICE has also 
+produced guidelines on: suspected sepsis in pregnant or recently pregnant people 
+and; suspected sepsis in people aged 16 or over. See the visual summaries on 
+evaluating and managing suspected sepsis in under 16s.
+WHO SHOULD USE THIS GUIDELINE? Healthcare professionals working in primary, 
+secondary and tertiary care. People under 16 with suspected sepsis who are not 
+and have not recently been pregnant, their families and carers.
+
+Copyright © NICE 2025.
+
+PMID: 41875253
+
+
+4. Evidence review for clinical and cost effectiveness of rapid antigen tests (RAT) 
+and polymerase chain reaction (PCR) tests for guiding treatment in people with 
+suspected sepsis: Suspected sepsis: recognition, assessment and early 
+management: Evidence review E.
+
+London: National Institute for Health and Care Excellence (NICE); 2025 Nov.
+NICE Evidence Reviews Collection.
+
+Sepsis is defined as a life-threatening organ dysfunction due to a dysregulated 
+host response to infection. It requires early recognition and immediate 
+management to prevent the progression of the condition towards a septic shock (a 
+subset of sepsis in which particularly profound circulatory, cellular, and 
+metabolic abnormalities can occur and substantially increased mortality). With 
+an estimated 918,000 adult sepsis admissions per year, and 66,096 deaths in the 
+UK, sepsis constitutes a major public health concern. Rapid antigen tests (RAT) 
+and polymerase chain reaction (PCR) testing may help in the process of 
+identifying the source of infection, thus helping to guide treatment and improve 
+outcomes for people with suspected sepsis. The clinical effectiveness (impact on 
+patient outcomes) evidence of RAT and PCR tests are presented in this review 
+(Review E), and the diagnostic accuracy are presented in Review D
+
+Copyright © NICE 2025.
+
+PMID: 41849647

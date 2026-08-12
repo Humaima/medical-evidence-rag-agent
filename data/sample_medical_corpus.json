@@ -1,0 +1,82 @@
+[
+  {
+    "id": "doc001",
+    "pmid": "PLACEHOLDER-0001",
+    "title": "Metformin as first-line therapy in type 2 diabetes",
+    "source": "Sample corpus (replace with real PubMed data)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "text": "Metformin is widely recommended as first-line pharmacologic therapy for type 2 diabetes because it lowers blood glucose primarily by reducing hepatic glucose production and improving insulin sensitivity, without causing significant weight gain or a high risk of hypoglycemia. Clinical guidelines favor it due to its long safety record, low cost, and evidence of cardiovascular benefit in overweight patients. Common side effects include gastrointestinal discomfort, which can often be reduced by starting at a low dose and titrating upward. It is generally avoided in patients with severe renal impairment due to a rare risk of lactic acidosis."
+  },
+  {
+    "id": "doc002",
+    "pmid": "PLACEHOLDER-0002",
+    "title": "Statin therapy and cardiovascular risk reduction",
+    "source": "Sample corpus (replace with real PubMed data)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "text": "Statins lower LDL cholesterol by inhibiting HMG-CoA reductase, an enzyme central to hepatic cholesterol synthesis. Large randomized trials have consistently shown that statin therapy reduces the risk of major cardiovascular events, including heart attack and stroke, in both primary and secondary prevention populations. The magnitude of benefit scales with the degree of LDL reduction achieved. Muscle-related side effects are the most commonly reported adverse effect, though severe myopathy is rare. Statins are generally considered safe for long-term use in appropriate candidates identified through cardiovascular risk assessment."
+  },
+  {
+    "id": "doc003",
+    "pmid": "PLACEHOLDER-0003",
+    "title": "Aspirin for primary prevention of cardiovascular disease",
+    "source": "Sample corpus (replace with real PubMed data)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "text": "The role of low-dose aspirin in primary prevention (i.e., in people without established cardiovascular disease) has become more limited in recent guidance. While aspirin reduces platelet aggregation and can lower the risk of a first cardiovascular event, this benefit is often offset by an increased risk of gastrointestinal and intracranial bleeding, particularly in older adults. Current guidance generally reserves primary-prevention aspirin for select higher-risk individuals after an individualized discussion of benefits and bleeding risk, whereas aspirin remains firmly recommended for secondary prevention in patients with existing cardiovascular disease."
+  },
+  {
+    "id": "doc004",
+    "pmid": "PLACEHOLDER-0004",
+    "title": "SGLT2 inhibitors and heart failure outcomes",
+    "source": "Sample corpus (replace with real PubMed data)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "text": "Sodium-glucose cotransporter-2 (SGLT2) inhibitors, originally developed as glucose-lowering agents, have demonstrated significant reductions in hospitalization for heart failure and cardiovascular death in patients with heart failure, including those without diabetes. Proposed mechanisms include diuretic effects, reduced cardiac preload and afterload, and favorable effects on cardiac metabolism. Because of this evidence, SGLT2 inhibitors are now incorporated into standard heart failure management guidelines alongside beta-blockers and renin-angiotensin system inhibitors. A notable but uncommon risk is euglycemic diabetic ketoacidosis."
+  },
+  {
+    "id": "doc005",
+    "pmid": "PLACEHOLDER-0005",
+    "title": "ACE inhibitors in the management of hypertension",
+    "source": "Sample corpus (replace with real PubMed data)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "text": "Angiotensin-converting enzyme (ACE) inhibitors lower blood pressure by blocking the conversion of angiotensin I to angiotensin II, reducing vasoconstriction and aldosterone secretion. They are commonly used as first-line antihypertensive agents, particularly in patients with diabetes or chronic kidney disease, because of additional renal protective effects. A dry cough is a well-recognized class side effect due to bradykinin accumulation, and angioedema, while rare, is a serious potential adverse reaction. ACE inhibitors are contraindicated during pregnancy due to risk of fetal harm."
+  },
+  {
+    "id": "doc006",
+    "pmid": "PLACEHOLDER-0006",
+    "title": "Antibiotic stewardship and resistance patterns",
+    "source": "Sample corpus (replace with real PubMed data)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "text": "Antibiotic stewardship programs aim to optimize the selection, dosing, and duration of antimicrobial therapy to improve patient outcomes while minimizing the emergence of resistant organisms. Overuse of broad-spectrum antibiotics for viral or self-limited illnesses is a key driver of resistance. Programs typically combine prospective audit with feedback, formulary restriction, and clinician education. Evidence indicates that well-implemented stewardship programs reduce inappropriate prescribing without worsening clinical outcomes, and are associated with reduced rates of Clostridioides difficile infection."
+  },
+  {
+    "id": "doc007",
+    "pmid": "PLACEHOLDER-0007",
+    "title": "GLP-1 receptor agonists for weight management",
+    "source": "Sample corpus (replace with real PubMed data)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "text": "Glucagon-like peptide-1 (GLP-1) receptor agonists slow gastric emptying, increase satiety, and enhance glucose-dependent insulin secretion, leading to meaningful reductions in body weight in clinical trials, in addition to their established glucose-lowering effects. Common side effects are gastrointestinal, including nausea and vomiting, especially during dose escalation. Cardiovascular outcome trials have shown reductions in major adverse cardiovascular events for several agents in this class among patients with type 2 diabetes and established cardiovascular risk."
+  },
+  {
+    "id": "doc008",
+    "pmid": "PLACEHOLDER-0008",
+    "title": "Screening recommendations for colorectal cancer",
+    "source": "Sample corpus (replace with real PubMed data)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "text": "Colorectal cancer screening reduces both incidence and mortality by enabling detection and removal of precancerous polyps as well as earlier detection of cancer. Screening options include colonoscopy, stool-based tests such as fecal immunochemical testing, and CT colonography, with the optimal choice depending on patient preference, risk factors, and access. Major guideline bodies recommend average-risk individuals begin screening around age 45, with earlier initiation for those with a family history or other risk factors."
+  },
+  {
+    "id": "doc009",
+    "pmid": "PLACEHOLDER-0009",
+    "title": "Anticoagulation strategies in atrial fibrillation",
+    "source": "Sample corpus (replace with real PubMed data)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "text": "In patients with atrial fibrillation and an elevated stroke risk, oral anticoagulation substantially reduces the risk of ischemic stroke. Direct oral anticoagulants are generally preferred over warfarin in eligible patients due to comparable or superior efficacy, a lower risk of intracranial hemorrhage, and no need for routine coagulation monitoring. Stroke risk is commonly estimated using validated risk scores, which help guide the decision of whether anticoagulation is warranted, balanced against individual bleeding risk."
+  },
+  {
+    "id": "doc010",
+    "pmid": "PLACEHOLDER-0010",
+    "title": "Vaccination and herd immunity thresholds",
+    "source": "Sample corpus (replace with real PubMed data)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "text": "Herd immunity occurs when a sufficient proportion of a population is immune to an infectious disease, either through vaccination or prior infection, such that sustained transmission becomes unlikely, indirectly protecting those who are not immune. The immunity threshold required varies by pathogen and is influenced by the basic reproduction number. High and equitable vaccination coverage is generally required to reach and maintain these thresholds, and gaps in coverage in specific communities can permit localized outbreaks even when national averages appear adequate."
+  }
+]

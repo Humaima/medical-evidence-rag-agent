@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pmid_40608200",
+    "pmid": "40608200",
+    "title": "Development of a deep learning-based automated diagnostic system (DLADS) for classifying mammographic lesions - a first large-scale multi-institutional clinical trial in Japan",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40608200/",
+    "text": "BACKGROUND: Recently, western countries have built evidence on mammographic artificial Intelligence-computer-aided diagnosis (AI-CADx) systems; however, their effectiveness has not yet been sufficiently validated in Japanese women. In this study, we aimed to establish a Japanese mammographic AI-CADx system for the first time. METHODS: We retrospectively collected screening or diagnostic mammograms from 63 institutions in Japan. We then randomly divided the images into training, validation, and test datasets in a balanced ratio of 8:1:1 on a case-level basis. The gold standard of annotation for the AI-CADx system is mammographic findings based on pathologic references. The AI-CADx system was developed using SE-ResNet modules and a sliding window algorithm. A cut-off concentration gradient of the heatmap image was set at 15%. The AI-CADx system was considered accurate if it detected the presence of a malignant lesion in a breast cancer mammogram. The primary endpoint of the AI-CADx system was defined as a sensitivity and specificity of over 80% for breast cancer diagnosis in the test dataset. RESULTS: We collected 20,638 mammograms from 11,450 Japanese women with a median age of 55 years. The mammograms included 5019 breast cancer (24.3%), 5026 benign (24.4%), and 10,593 normal (51.3%) mammograms. In the test dataset of 2059 mammograms, the AI-CADx system achieved a sensitivity of 83.5% and a specificity of 84.7% for breast cancer diagnosis. The AUC in the test dataset was 0.841 (DeLong 95% CI; 0.822-0.859). The Accuracy was almost consistent independent of breast density, mammographic findings, type of cancer, and mammography vendors (AUC (range); 0.639-0.906). CONCLUSIONS: The developed Japanese mammographic AI-CADx system diagnosed breast cancer with a pre-specified sensitivity and specificity. We are planning a prospective study to validate the breast cancer diagnostic performance of Japanese physicians using this AI-CADx system as a second reader. TRIAL REGISTRATION: UMIN, trial number UMIN000039009. Registered 26 December 2019, https://www.umin.ac.jp/ctr/."
+  },
+  {
+    "id": "pmid_40992899",
+    "pmid": "40992899",
+    "title": "First mammography screening participation and breast cancer incidence and mortality in the subsequent 25 years: population based cohort study",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40992899/",
+    "text": "Expression of concern in BMJ. 2025 Nov 25;391:r2394. doi: 10.1136/bmj.r2394."
+  },
+  {
+    "id": "pmid_42479629",
+    "pmid": "42479629",
+    "title": "Contrast-Enhanced Mammography for Breast Cancer Screening: A Systematic Review and Meta-Analysis",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42479629/",
+    "text": "OBJECTIVE: To evaluate pathway-specific cancer detection and summarise screening outcomes (recall/biopsy/PPV3) for contrast-enhanced mammography when reported, and to compare them with those for low-energy mammography and breast MRI. METHODS: This systematic review and meta-analysis followed PRISMA guidelines. PubMed (MEDLINE), Embase, Scopus, and Web of Science were searched from January 1, 2011, through August 31, 2025, for studies evaluating contrast-enhanced mammography in screening or surveillance populations (including supplemental/add-on screening and surveillance of patients with a personal history of breast cancer). Diagnostic, recall, and problem-solving studies were excluded. Screening pathways were categorized as: (1) direct comparison with low-energy mammography, (2) direct comparison with MRI, and (3) add-on CEM to mammography-based screening. Random-effects meta-analyses were performed when designs were comparable. Comparisons between CEM and MRI were summarized qualitatively because of heterogeneity and limited cancer events across studies. Single-arm screening studies were summarized descriptively. Risk of bias was assessed using Quality Assessment of Diagnostic Accuracy Studies-2 (QUADAS-2). RESULTS: Fourteen studies met eligibility criteria for qualitative synthesis; seven screening and surveillance studies contributed to the meta-analysis. Compared with low-energy mammography, CEM detected 9.3 additional cancers per 1,000 women screened (risk difference [RD], +9.3 per 1,000; 95% CI, 4.0-14.6; P < 0.01; I2 = 0%). Three studies directly compared CEM with MRI in screening settings and were summarized qualitatively because of heterogeneity and limited cancer events. CONCLUSION: In screening and surveillance populations, contrast-enhanced mammography increases cancer detection compared with low-energy mammography. Evidence from available comparative studies suggests that cancer detection with CEM may be broadly comparable to MRI in selected screening contexts; however, the limited number of studies and heterogeneous designs preclude definitive comparative conclusions. These pathway-specific estimates may inform clinical implementation and the design of prospective screening trials."
+  }
+]

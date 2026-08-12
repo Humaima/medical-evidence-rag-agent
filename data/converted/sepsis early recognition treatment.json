@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pmid_40830514",
+    "pmid": "40830514",
+    "title": "Transforming sepsis management: AI-driven innovations in early detection and tailored therapies",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40830514/",
+    "text": "Sepsis remains a leading cause of mortality worldwide, driven by its clinical complexity and delayed recognition. Artificial intelligence (AI) offers promising solutions to improve sepsis care through earlier detection, risk stratification, and personalized treatment strategies. Key applications include AI-driven early warning systems, subphenotyping based on clinical and biological data, and decision support tools that adapt to real-time patient information. The integration of diverse data types, such as structured clinical data, unstructured notes, waveform signals, and molecular biomarkers, enhances the precision and timeliness of interventions. However, challenges such as algorithmic bias, limited external validation, data quality issues, and ethical considerations continue to hinder clinical implementation. Future directions focus on real-time model adaptation, multi-omics integration, and the development of generalist medical AI capable of personalized recommendations. Successfully addressing these barriers is essential for AI to deliver on its potential to transform sepsis management and support the transition toward precision-driven critical care."
+  },
+  {
+    "id": "pmid_41875253",
+    "pmid": "41875253",
+    "title": "London: National Institute for Health and Care Excellence (NICE); 2025 Nov 19. National Institute for Health and Care Excellence: Clinical Guidelines",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41875253/",
+    "text": "Copyright © NICE 2025."
+  },
+  {
+    "id": "pmid_41849647",
+    "pmid": "41849647",
+    "title": "London: National Institute for Health and Care Excellence (NICE); 2025 Nov. NICE Evidence Reviews Collection",
+    "source": "PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41849647/",
+    "text": "Copyright © NICE 2025."
+  }
+]

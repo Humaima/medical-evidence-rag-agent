@@ -1,0 +1,365 @@
+1. JAMA. 2026 Mar 3;335(9):763-774. doi: 10.1001/jama.2025.24784.
+
+Risk-Based vs Annual Breast Cancer Screening: The WISDOM Randomized Clinical 
+Trial.
+
+Esserman LJ(1), Fiscalini AS(1), Naeim A(2), Van't Veer LJ(1), Kaster A(3), 
+Scheuner MT(1)(4), LaCroix AZ(5), Borowsky AD(1), Anton-Culver H(6), Olopade 
+OI(7), Esserman J(8), Lancaster R(9), Madlensky L(5), Blanco AM(1), Ross KS(1), 
+Goodman DL(6), Tong BS(1), Hogarth M(5), Heditsian D(1), Brain S(1), Lee V(1), 
+Blum K(1), Kim MO(1), Sabacan LP(1), Fergus KB(1), Yau C(1), Park HL(6), Parker 
+BA(5), Kaplan C(1), Rhoads KF(10), Eder S(1), Adduci K(1), Matthews JB(1), 
+Wenger NS(2), Shieh Y(11), Hiatt RA(1), Ziv E(1), Tice JA(1), Eklund M(12).
+
+Author information:
+(1)University of California, San Francisco.
+(2)University of California, Los Angeles.
+(3)Sanford Health, Fargo, North Dakota.
+(4)San Francisco VA Health Care System, San Francisco, California.
+(5)University of California, San Diego.
+(6)University of California, Irvine.
+(7)University of Chicago, Chicago, Illinois.
+(8)Diagnostic Center of Miami, Miami, Florida.
+(9)University of Alabama at Birmingham.
+(10)Virginia Commonwealth University, Richmond.
+(11)Weill Cornell Medicine, New York, New York.
+(12)Karolinska Institutet, Stockholm, Sweden.
+
+Erratum in
+    JAMA. 2026 Apr 21;335(15):1366-1367. doi: 10.1001/jama.2026.3473.
+
+Comment in
+    JAMA. 2026 Mar 3;335(9):758-760. doi: 10.1001/jama.2025.24817.
+    JAMA Oncol. 2026 Apr 1;12(4):351-352. doi: 10.1001/jamaoncol.2025.6568.
+
+IMPORTANCE: Individual breast cancer risk can guide screening initiation, 
+frequency, use of supplemental imaging, and preventive measures to improve 
+breast cancer screening by shifting resources from low-risk women to high-risk 
+women.
+OBJECTIVE: To determine whether risk-based breast cancer screening is a feasible 
+alternative to annual mammography.
+DESIGN, SETTING, AND PARTICIPANTS: Parallel-group, pragmatic, multicenter 
+randomized clinical trial comparing risk-based (n = 14 212) with annual 
+(n = 14 160) breast cancer screening. Women aged 40 to 74 years without prior 
+diagnoses of breast cancer or ductal carcinoma in situ, or prophylactic 
+bilateral mastectomy, were recruited from all 50 US states from September 2016 
+to February 2023, with follow-up through September 5, 2025 (median follow-up, 
+5.1 years). Statistical analysis was conducted between July and November 2025. 
+All study procedures were conducted via an online platform. Women who declined 
+randomization were enrolled in an observational cohort.
+INTERVENTIONS: Risk assessment included sequencing of 9 susceptibility genes, 
+polygenic risk score, and the Breast Cancer Surveillance Consortium version 2 
+model. The risk-based group received 1 of 4 recommendations: (1) highest risk 
+(≥6% 5-year risk, high-penetrance pathogenic variant): alternating mammography 
+and magnetic resonance imaging (MRI) every 6 months and counseling; (2) elevated 
+risk (top 2.5 risk percentile by age): annual mammography and risk-reduction 
+counseling; (3) average risk: biennial mammography; and (4) low risk (aged 40-49 
+years and <1.3% 5-year risk): no screening until risk is 1.3% or greater or age 
+50 years.
+MAIN OUTCOMES AND MEASURES: The coprimary outcomes included noninferiority for 
+stage ≥IIB cancers and superiority in reducing biopsy rates. Secondary outcomes 
+included identification of stage ≥IIA cancers, mammogram rates, uptake of 
+prevention strategies in higher risk cohorts, preference for screening group in 
+the observational cohort, ductal carcinoma in situ, MRI, and stage-specific 
+cancer rates.
+RESULTS: A total of 28 372 women were randomized. The mean (SD) age was 54 (9.6) 
+years and the majority were non-Hispanic White (77%). The rate of stage ≥IIB 
+cancers was noninferior in the risk-based compared with the annual group 
+(risk-based: 30.0 [95% CI, 16.3-43.8] vs annual: 48.0 [95% CI, 30.1-65.5] per 
+100 000 person-years; rate difference, -18.0 per 100 000 person-years [95% CI, 
+-40.2 to 4.1]). The rate of breast biopsies was not lower in the risk-based 
+group (rate difference, 98.7 per 100 000 person-years [95% CI, -17.9 to 215.3]) 
+despite fewer mammograms (rate difference, -3835.9 [95% CI, -4516.8 to 
+-3154.9]). The cumulative incidence of cancer, biopsy, mammogram, and MRI 
+increased as risk category increased. In the observational cohort, 89% of 
+participants (15 980/18 031) chose risk based.
+CONCLUSIONS: Risk-based breast cancer screening that includes population-based 
+genetic testing safely stratified risk and screening intensity, but did not 
+reduce biopsy rates.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT02620852.
+
+DOI: 10.1001/jama.2025.24784
+PMCID: PMC12701531
+PMID: 41385349 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr L. Esserman 
+reported receiving grants from National Cancer Institute (NCI), Patient-Centered 
+Outcomes Research Institute (PCORI), Breast Cancer Research Foundation (BCRF), 
+Safeway Foundation, Mount Zion Health Fund, Robert Wood Johnson Foundation 
+(RWJF), and Bright Pink during the conduct of the study; grants from Quantum 
+Leap Healthcare Collaborative to her institution outside the submitted work; 
+being a member of the Blue Cross and Blue Shield Medical Advisory Panel; and 
+serving as an investigator on a trial funded through her institution by Moderna 
+(ended April 2025). Ms Stover Fiscalini reported receiving grants from NCI, 
+PCORI, BCRF, Safeway Foundation, Mount Zion Health Fund, RWJF, and Bright Pink 
+during the conduct of the study. Dr Naeim reported receiving grants from PCORI 
+during the conduct of the study. Dr van’t Veer reported receiving personal fees 
+from Agendia as a part-time employee and stockholder outside the submitted work. 
+Dr Kaster reported receiving grants from Rising Tide during the conduct of the 
+study. Dr Scheuner reported receiving grants from Veterans Affairs Health 
+Services Research & Development Office; a donation from the Rubin family during 
+the conduct of the study (Rubin Family Foundation at the University of 
+California, San Francisco and the Northern California Institute for Research and 
+Education); and having patents issued (US 7,951,078 B2; US 8,719,045). Dr 
+LaCroix reported receiving grants to her institution from PCORI and BCRF during 
+the conduct of the study. Dr Borowsky reported receiving grants from PCORI, NCI, 
+BCRF, Safeway Foundation, Mount Zion Health Fund, and RWJF during the conduct of 
+the study. Dr Olopade reported being a cofounder of CancerIQ; previously serving 
+on the scientific advisory board of Tempus; and receiving research grant support 
+from Color Foundation. Dr J. Esserman reported receiving grants from NCI during 
+the conduct of the study. Dr Lancaster reported receiving grants from NCI during 
+the conduct of the study. Dr Madlensky reported receiving grants from the 
+National Institutes of Health (NIH) and PCORI during the conduct of the study. 
+Ms Blanco reported receiving grants from PCORI during the conduct of the study. 
+Ms Ross reported receiving grants from NIH/NCI, BCRF, Safeway Foundation, Mount 
+Zion Health Fund, RWJF, and Bright Pink during the conduct of the study; being 
+awarded grant funding by Mount Zion Health Fund outside the submitted work; and 
+being a member of the National Society of Genetic Counselors Genetic Counseling 
+Experience Initiative and a genetic counselor workplace representative for union 
+UPTE-CWA 9119. Dr Goodman reported receiving grants from NCI, PCORI, and BCRF 
+during the conduct of the study. Mr Tong reported receiving grants from PCORI 
+during the conduct of the study. Dr Hogarth reported receiving personal fees 
+from Medeloop and stock options from Virta Health and LifeLink outside the 
+submitted work. Ms Heditsian reported receiving grants from PCORI, R01, and 
+Bright Pink during the conduct of the study. Ms Brain reported receiving grants 
+from PCORI, R01, and Bright Pink (144557A) during the conduct of the study. Ms 
+Lee reported receiving grants from NCI, PCORI, BCRF, Safeway Foundation, Mount 
+Zion Health Fund, RWJF, and Bright Pink during the conduct of the study. Ms Blum 
+reported receiving grants from NCI R01, NCI P01, and US Department of Defense 
+(DoD) during the conduct of the study. Ms Kim reported receiving grants from NCI 
+during the conduct of the study. Ms Sabacan reported receiving grants from 
+PCORI, NCI, DoD, and BCRF during the conduct of the study. Dr Fergus reported 
+receiving an American Society of Clinical Oncology Young Investigator Award and 
+T32 Institutional Training Research Grant in Surgical Oncology (awarded to Dr L. 
+Esserman) during the conduct of the study. Dr Yau reported receiving grants from 
+NCI, PCORI, BCRF, Mount Zion Health Fund, BWJF, and Bright Pink during the 
+conduct of the study. Dr Park reported receiving grants from PCORI and BCRF 
+during the conduct of the study. Dr Parker reported receiving grants from NCI, 
+PCORI, BCRF, and Safeway Foundation; and funding from Breast Cancer Personalized 
+Treatment Research Program Philanthropy Fund during the conduct of the study. Dr 
+Kaplan reported receiving grants from NCI, PCORI, BCRF, Safeway Foundation, 
+Mount Zion Health Fund, RWJF, and Bright Pink during the conduct of the study. 
+Dr Rhoads reported receiving grants from NCI during the conduct of the study. Ms 
+Eder reported receiving grants from NCI, PCORI, BCRF, Safeway Foundation, Mount 
+Zion Health Fund, RWJF, and Bright Pink during the conduct of the study. Ms 
+Adduci reported receiving grants from BCRF, PCORI, NCI, Safeway Foundation, 
+Mount Zion Health Fund, RWJF, and Bright Pink during the conduct of the study. 
+Dr Wenger reported receiving grants from PCORI to his institution during the 
+conduct of the study. Dr Tice reported receiving grants from NCI and PCORI 
+during the conduct of the study; and grants from NCI, Institute for Clinical and 
+Economic Review, and DoD outside the submitted work. Dr Eklund reported 
+receiving grants from PCORI and NCI during the conduct of the study; being a 
+founding shareholder in A3P Biomedical and Clinsight; and receiving speaker 
+honoraria from Johnson & Johnson and Ipsen outside the submitted work. No other 
+disclosures were reported.
+
+
+2. Breast Cancer. 2025 Sep;32(5):1115-1124. doi: 10.1007/s12282-025-01741-3. Epub 
+2025 Jul 3.
+
+Development of a deep learning-based automated diagnostic system (DLADS) for 
+classifying mammographic lesions - a first large-scale multi-institutional 
+clinical trial in Japan.
+
+Yamaguchi T(#)(1), Koyama Y(#)(2), Inoue K(3), Ban K(4), Hirokaga K(5), 
+Kujiraoka Y(6), Okanami Y(7), Shinohara N(8), Tsunoda H(9), Uematsu T(10), Mukai 
+H(11).
+
+Author information:
+(1)Department of Medical Oncology, Toranomon Hospital, Tokyo, Japan.
+(2)Department of Breast Surgical Oncology, Tokyo Medical University Hospital, 
+6-7-1 Nishishinjuku, Shinjuku-Ku, Tokyo, 160-0023, Japan. peach@tokyo-med.ac.jp.
+(3)Breast Cancer Center, Shonan Memorial Hospital, Kanagawa, Japan.
+(4)Yotsuya Medical Cube, Tokyo, Japan.
+(5)Department of Breast Surgery, Hyogo Cancer Center, Hyogo, Japan.
+(6)Department of Radiology, Tsukuba Memorial Hospital, Ibaraki, Japan.
+(7)Yuko Breast Clinic Meieki, Aichi, Japan.
+(8)Department of Radiological Technology, Faculty of Health Sciences, Gifu 
+University of Medical Science, Gifu, Japan.
+(9)Department of Radiology, St. Luke's International Hospital, Tokyo, Japan.
+(10)Department of Breast Imaging and Breast Interventional Radiology, Shizuoka 
+Cancer Center Hospital, Shizuoka, Japan.
+(11)Division of Medical Oncology, National Cancer Center Hospital East, Chiba, 
+Japan.
+(#)Contributed equally
+
+BACKGROUND: Recently, western countries have built evidence on mammographic 
+artificial Intelligence-computer-aided diagnosis (AI-CADx) systems; however, 
+their effectiveness has not yet been sufficiently validated in Japanese women. 
+In this study, we aimed to establish a Japanese mammographic AI-CADx system for 
+the first time.
+METHODS: We retrospectively collected screening or diagnostic mammograms from 63 
+institutions in Japan. We then randomly divided the images into training, 
+validation, and test datasets in a balanced ratio of 8:1:1 on a case-level 
+basis. The gold standard of annotation for the AI-CADx system is mammographic 
+findings based on pathologic references. The AI-CADx system was developed using 
+SE-ResNet modules and a sliding window algorithm. A cut-off concentration 
+gradient of the heatmap image was set at 15%. The AI-CADx system 
+was considered accurate if it detected the presence of a malignant lesion in a 
+breast cancer mammogram. The primary endpoint of the AI-CADx system was defined 
+as a sensitivity and specificity of over 80% for breast cancer diagnosis in the 
+test dataset.
+RESULTS: We collected 20,638 mammograms from 11,450 Japanese women with a median 
+age of 55 years. The mammograms included 5019 breast cancer (24.3%), 5026 benign 
+(24.4%), and 10,593 normal (51.3%) mammograms. In the test dataset of 2059 
+mammograms, the AI-CADx system achieved a sensitivity of 83.5% and a specificity 
+of 84.7% for breast cancer diagnosis. The AUC in the test dataset was 0.841 
+(DeLong 95% CI; 0.822-0.859). The Accuracy was almost consistent independent of 
+breast density, mammographic findings, type of cancer, and mammography vendors 
+(AUC (range); 0.639-0.906).
+CONCLUSIONS: The developed Japanese mammographic AI-CADx system diagnosed breast 
+cancer with a pre-specified sensitivity and specificity. We are planning a 
+prospective study to validate the breast cancer diagnostic performance of 
+Japanese physicians using this AI-CADx system as a second reader.
+TRIAL REGISTRATION: UMIN, trial number UMIN000039009. Registered 26 December 
+2019, https://www.umin.ac.jp/ctr/.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s12282-025-01741-3
+PMCID: PMC12394324
+PMID: 40608200 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: All authors 
+declared no conflicts of interest. Ethical approval and consent to participate: 
+This trial was approved by the institutional review board of National Cancer 
+Center Hospital East (Approval number: 2019–048). The need for signed informed 
+consent was waived because of a retrospective study without patient 
+interactions.
+
+
+3. BMJ. 2025 Sep 24;390:e085029. doi: 10.1136/bmj-2025-085029.
+
+First mammography screening participation and breast cancer incidence and 
+mortality in the subsequent 25 years: population based cohort study.
+
+Ma Z(1), He W(2)(3)(4), Zhang Y(1), Mao X(1), Tapia J(1), Hall P(1)(5), 
+Humphreys K(1), Czene K(1).
+
+Author information:
+(1)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+Stockholm, Sweden.
+(2)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+Stockholm, Sweden zjuhewei@zju.edu.cn.
+(3)Department of Nutrition and Food Hygiene, Children's Hospital, Zhejiang 
+University School of Medicine, National Clinical Research Center for Child 
+Health, Hangzhou, Zhejiang, China.
+(4)Chronic Disease Research Institute, School of Public Health, School of 
+Medicine, Zhejiang University, Hangzhou, Zhejiang, China.
+(5)Department of Oncology, Södersjukhuset, Stockholm, Sweden.
+
+Expression of concern in
+    BMJ. 2025 Nov 25;391:r2394. doi: 10.1136/bmj.r2394.
+
+Comment in
+    AJR Am J Roentgenol. 2025 Dec 3. doi: 10.2214/AJR.25.34296.
+
+OBJECTIVE: To determine whether women who did not attend their first mammography 
+screening invitation have a long term risk of poor screening adherence and 
+breast cancer outcomes.
+DESIGN: Population based cohort study.
+SETTING: Stockholm, Sweden.
+PARTICIPANTS: 432 775 women who received invitations to the Swedish Mammography 
+Screening Programme between 1991 and 2020 and were initially invited at either 
+50 years of age or 40 years of age.
+MAIN OUTCOME MEASURES: Screening adherence, breast cancer incidence, tumour 
+characteristics, and breast cancer mortality tracked through linkage to multiple 
+Swedish national registers, with follow-up until 2023 (up to 25 year follow-up 
+period). Cumulative breast cancer incidences were calculated from first 
+screening participation. Cox proportional hazards models estimated hazard ratios 
+for breast cancer mortality; logistic regression models assessed associations 
+with tumour characteristics by odds ratios.
+RESULTS: During a total of 4 940 375 person years of follow-up, 16 059 new cases 
+of breast cancer were documented. Among women invited to their first mammography 
+screening, 32.1% (n=138 760) did not participate. These non-participants were 
+persistently less likely to attend subsequent screenings and were more likely 
+have symptom detected, advanced stage breast cancer diagnosed. Specifically, 
+compared with first screening participants, non-participants had an odds ratio 
+of 1.53 (95% confidence interval 1.24 to 1.88) for stage III cancer (160 (4.1%) 
+v 266 (2.9%) cases) and 3.61 (2.79 to 4.68) for stage IV cancer (150 (3.9%) v 
+105 (1.2%) cases). During a total of 6 818 686 person years of follow-up, 1603 
+deaths from breast cancer were documented. Non-participation at first screening 
+was also associated with significantly higher breast cancer mortality, with a 25 
+year cumulative mortality of 9.9 per 1000 versus 7.0 per 1000 for participants 
+(adjusted hazard ratio 1.40, 95% confidence interval 1.26 to 1.55). By contrast, 
+the 25 year breast cancer incidence was similar between groups (7.8% in 
+participants versus 7.6% in non-participants), suggesting that the elevated 
+mortality among first screening non-participants likely reflects delayed 
+detection rather than increased incidence.
+CONCLUSIONS: This study shows that first screening non-participants represent a 
+large population at long term risk of dying from breast cancer, providing an 
+opportunity for targeted interventions to improve adherence to screening and 
+thereby decrease mortality risk.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmj-2025-085029
+PMCID: PMC12459011
+PMID: 40992899 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed 
+the ICMJE uniform disclosure form at 
+https://www.icmje.org/disclosure-of-interest/ and declare: support for the 
+submitted work from the Swedish Research Council, Swedish Cancer Society, 
+Stockholm County Council, Cancerföreningen, Stockholm, and Erling-Persson 
+Foundation; no financial relationships with any organisations that might have an 
+interest in the submitted work in the previous three years; no other 
+relationships or activities that could appear to have influenced the submitted 
+work.
+
+
+4. J Breast Imaging. 2026 Jul 28;8(4):354-365. doi: 10.1093/jbi/wbag025.
+
+Contrast-Enhanced Mammography for Breast Cancer Screening: A Systematic Review 
+and Meta-Analysis.
+
+Saluja KV(1), Saxena S(1), Khokhar H(1), Sharma AK(1), Meena D(1), Sharma A(2), 
+Goyal M(3).
+
+Author information:
+(1)Department of Radiology, Government Medical College, RUHS, Kota, Rajasthan, 
+India.
+(2)Department of Surgery, Government Medical College, RUHS, Kota, Rajasthan, 
+India.
+(3)Department of Radiology, All India Institute of Medical Sciences, New Delhi, 
+India.
+
+OBJECTIVE: To evaluate pathway-specific cancer detection and summarise screening 
+outcomes (recall/biopsy/PPV3) for contrast-enhanced mammography when reported, 
+and to compare them with those for low-energy mammography and breast MRI.
+METHODS: This systematic review and meta-analysis followed PRISMA guidelines. 
+PubMed (MEDLINE), Embase, Scopus, and Web of Science were searched from January 
+1, 2011, through August 31, 2025, for studies evaluating contrast-enhanced 
+mammography in screening or surveillance populations (including 
+supplemental/add-on screening and surveillance of patients with a personal 
+history of breast cancer). Diagnostic, recall, and problem-solving studies were 
+excluded. Screening pathways were categorized as: (1) direct comparison with 
+low-energy mammography, (2) direct comparison with MRI, and (3) add-on CEM to 
+mammography-based screening. Random-effects meta-analyses were performed when 
+designs were comparable. Comparisons between CEM and MRI were summarized 
+qualitatively because of heterogeneity and limited cancer events across studies. 
+Single-arm screening studies were summarized descriptively. Risk of bias was 
+assessed using Quality Assessment of Diagnostic Accuracy Studies-2 (QUADAS-2).
+RESULTS: Fourteen studies met eligibility criteria for qualitative synthesis; 
+seven screening and surveillance studies contributed to the meta-analysis. 
+Compared with low-energy mammography, CEM detected 9.3 additional cancers per 
+1,000 women screened (risk difference [RD], +9.3 per 1,000; 95% CI, 4.0-14.6; P 
+< 0.01; I2 = 0%). Three studies directly compared CEM with MRI in screening 
+settings and were summarized qualitatively because of heterogeneity and limited 
+cancer events.
+CONCLUSION: In screening and surveillance populations, contrast-enhanced 
+mammography increases cancer detection compared with low-energy mammography. 
+Evidence from available comparative studies suggests that cancer detection with 
+CEM may be broadly comparable to MRI in selected screening contexts; however, 
+the limited number of studies and heterogeneous designs preclude definitive 
+comparative conclusions. These pathway-specific estimates may inform clinical 
+implementation and the design of prospective screening trials.
+
+© The Author(s) 2026. Published by Oxford University Press on behalf of Society 
+of Breast Imaging.
+
+DOI: 10.1093/jbi/wbag025
+PMID: 42479629 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement None declared.

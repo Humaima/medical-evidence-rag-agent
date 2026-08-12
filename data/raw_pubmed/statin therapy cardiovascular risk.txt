@@ -1,0 +1,482 @@
+1. JAMA. 2026 Jan 13;335(2):129-139. doi: 10.1001/jama.2025.20620.
+
+Efficacy and Safety of Oral PCSK9 Inhibitor Enlicitide in Adults With 
+Heterozygous Familial Hypercholesterolemia: A Randomized Clinical Trial.
+
+Ballantyne CM(1), Gellis L(2), Tardif JC(3), Banka P(2), Navar AM(4), Asprusten 
+EA(5), Scott R(6), Stroes ESG(7), Froman S(2), Mendizabal G(8), Wang F(9), 
+Catapano AL(10)(11).
+
+Author information:
+(1)Texas Heart Institute, Baylor College of Medicine, Houston, Texas.
+(2)Merck & Co, Inc, Rahway, New Jersey.
+(3)Montreal Heart Institute, Université de Montréal, Montreal, Quebec, Canada.
+(4)Department of Medicine, Division of Cardiology, University of Texas 
+Southwestern Medical Center, Dallas.
+(5)Lipid Clinic, Oslo University Hospital, Oslo, Norway.
+(6)NZ Clinical Research, Christchurch, New Zealand.
+(7)Department of Vascular Medicine, Amsterdam Cardiovascular Sciences, Amsterdam 
+UMC, University of Amsterdam, Amsterdam, the Netherlands.
+(8)MSD Argentina, Munro.
+(9)MSD China, Beijing.
+(10)University of Milan, Milan, Italy.
+(11)IRCCS Multimedica, Milan, Italy.
+
+Comment in
+    JAMA. 2026 Jan 13;335(2):124-125. doi: 10.1001/jama.2025.20965.
+
+IMPORTANCE: Persons with heterozygous familial hypercholesterolemia (HeFH) are 
+at increased risk of atherosclerotic cardiovascular disease due to lifelong 
+elevated levels of low-density lipoprotein cholesterol (LDL-C). Many patients 
+with HeFH do not achieve guideline-recommended LDL-C goals with the currently 
+available lipid-lowering therapies.
+OBJECTIVE: To evaluate the efficacy of enlicitide decanoate (an oral proprotein 
+convertase subtilisin/kexin type 9 inhibitor) vs placebo in adults with HeFH 
+requiring further lowering of LDL-C levels despite use of statin therapy.
+DESIGN, SETTING, AND PARTICIPANTS: This phase 3, randomized clinical trial 
+included persons aged 18 years or older with HeFH currently using lipid-lowering 
+therapy (taking at least a moderate- or high-intensity statin) and either an 
+LDL-C level of 55 mg/dL or greater and a history of major atherosclerotic 
+cardiovascular disease or an LDL-C level of 70 mg/dL or greater without a 
+history of major atherosclerotic cardiovascular disease. The trial was conducted 
+at 59 sites across 17 countries; the first participant was screened on August 8, 
+2023, and the last follow-up visit occurred on April 7, 2025.
+INTERVENTIONS: Participants were randomized (2:1) to 20 mg of enlicitide 
+(n = 202) or placebo (n = 101) once daily for 52 weeks.
+MAIN OUTCOMES AND MEASURES: The primary outcome was the mean percentage change 
+in LDL-C level at week 24. The secondary outcomes included the mean percentage 
+change in LDL-C level at week 52, the mean percentage change at week 24 in 
+levels of non-high-density lipoprotein cholesterol (non-HDL-C) and 
+apolipoprotein B, and the median percentage change at week 24 in lipoprotein(a).
+RESULTS: Of the 303 participants (mean age, 52.4 [SD, 13.5] years; 51% were 
+female) randomized, 293 (96.7%) completed the trial. The mean LDL-C level was 
+119.0 mg/dL (SD, 41.0 mg/dL) at baseline, all had statin current use (81.5% were 
+taking a high-intensity statin), and 64.4% were taking ezetimibe. The mean 
+percentage change in LDL-C level at week 24 was -58.2% in the enlicitide group 
+vs 2.6% in the placebo group (between-group difference, -59.4% [95% CI, -65.6% 
+to -53.2%]; P < .001). The mean percentage change in LDL-C level at week 52 was 
+-55.3% in the enlicitide group vs 8.7% in the placebo group (between-group 
+difference, -61.5% [95% CI, -69.4% to -53.7%]; P < .001). At week 24, the mean 
+percentage change in non-HDL-C level was -52.3% in the enlicitide group vs 2.1% 
+in the placebo group (between-group difference, -53.0% [95% CI, -58.5% to 
+-47.4%]; P < .001), the mean percentage change in apolipoprotein B level was 
+-48.2% vs 1.8%, respectively (between-group difference, -49.1% [95% CI, -54.0% 
+to -44.3%]; P < .001), and the median percentage change in lipoprotein(a) level 
+was -24.7% vs -1.6% (between-group difference, -27.5% [95% CI, -34.3% to 
+-20.6%]; P < .001). The incidence of adverse events, serious adverse events, and 
+study discontinuation due to adverse events was similar between groups.
+CONCLUSIONS: Among adults with HeFH, treatment with enlicitide was well 
+tolerated and significantly reduced levels of LDL-C, apolipoprotein B, 
+non-HDL-C, and lipoprotein(a).
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05952869.
+
+DOI: 10.1001/jama.2025.20620
+PMCID: PMC12598580
+PMID: 41206969 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Ballantyne 
+reported receiving institutional grants from Abbott Diagnostic, the American 
+Diabetes Association, the American Heart Association, Akcea Therapeutics, Amgen, 
+Arrowhead, Eli Lilly, Ionis, Merck, the National Institutes of Health, 
+NewAmsterdam Pharma, Novartis, Novo Nordisk, and Roche Diagnostic and receiving 
+personal fees from 89Bio, Abbott Diagnostics, Amgen, Arrowhead, AstraZeneca, 
+Denka Seiken, Esperion, Genentech, Heartflow, Ionis, Eli Lilly, Merck, 
+NewAmsterdam Pharma, Novartis, Novo Nordisk, and Roche Diagnostic. Drs Gellis, 
+Banka, Mendizabal, and Wang and Ms Froman reported being employees of Merck 
+Sharp & Dohme, LLC, a subsidiary of Merck & Co, Inc and may own stock and/or 
+hold stock options in Merck & Co. Dr Tardif reported receiving grants from 
+Boehringer-Ingelheim, Ceapro, DalCor Pharmaceuticals, Merck, Novartis, 
+Novo-Nordisk, Pfizer, and Verve Therapeutics; receiving personal fees from 
+DalCor Pharmaceuticals, Merck, and Pfizer; having a minor equity interest in 
+DalCor Pharmaceuticals; and having a patent on pharmacogenomics-guided 
+cholesteryl ester transfer protein inhibition licensed to DalCor Pharmaceuticals 
+and a patent pending with the Montreal Heart Institute (Institut de Cardiologie 
+de Montreal) on the use of colchicine after myocardial infarction. Dr Navar 
+reported receiving institutional grants from Amgen, Esperion, and Merck and 
+receiving personal fees from the American Medical Association (for serving as a 
+Deputy Editor of JAMA Cardiology), Amgen, Arrowhead, Bayer, Esperion, Janssen, 
+Eli Lilly, Merck, NewAmsterdam Pharma, Novartis, Novo Nordisk, Pfizer, Roche, 
+and Silence Therapeutics. Dr Stroes reported receiving personal fees (paid to 
+his institution) and institutional grants from Amgen, Ionis, Merck, Novartis, 
+Novo Nordisk, and Ultragenyx. Dr Catapano reported receiving grants from 
+Viatris, Ultragenyx, Chiesi, and Amarin and receiving personal fees from Amarin, 
+Amgen, AstraZeneca, Chiesi, Daiichi Sankyo, Eli Lilly, Esperion, Ionis 
+Pharmaceutical, Medscape, Menarini, Merck Sharp & Dohme, NewAmsterdam Pharma, 
+Novartis, Novo Nordisk, Regeneron, Recordati, Sanofi, Ultragenyx, and Viatris. 
+No other disclosures were reported.
+
+
+2. Circulation. 2026 Apr 28;153(17):e1154-e1276. doi: 10.1161/CIR.0000000000001423. 
+Epub 2026 Mar 13.
+
+2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the 
+Management of Dyslipidemia: A Report of the American College of 
+Cardiology/American Heart Association Joint Committee on Clinical Practice 
+Guidelines.
+
+Writing Committee Members(1); Blumenthal RS, Morris PB, Gaudino M(2), Johnson 
+HM(3), Anderson TS(4), Bittner VA(5), Blankstein R, Brewer LC, Cho L(6), de 
+Ferranti SD, Gianos E, Gluckman TJ, Gradney KF(7), Isiadinso I(8), Lloyd-Jones 
+DM, Marrs JC(9), Martin SS, McLain KH, Mehta LS, Mora S, Mulugeta WM(10), 
+Natarajan P, Navar AM, Orringer CE, Polonsky TS, Reynolds HR, Saseen JJ(11), 
+Shapiro MD(12), Soffer DE(3), Tynes SA(13), Villavaso CD(14), Virani SS(15), 
+Wilkins JT.
+
+Collaborators: Rohatgi A, Kim SM, Alexander KP, Anderson C, Benziger CP, Dixon 
+DL, Duprez D, Ferdinand KC, Goldberg AC, Joshi P, Knowles JW, Lavie Jr CJ, 
+Linderbaum JA, McEvoy JW, Mehta A, Bairey Merz CN, Nambi V, Orkaby AR, Peña JM, 
+Rosenson R, Ruisinger J, Sandner SE, Schott SL, Sperling L, Stone NJ, Toth P, 
+Ware AL, Whelton SP, Young II J.
+
+Author information:
+(1)Writing committee members are required to recuse themselves from voting on 
+sections to which their specific relationships with industry and other entities 
+may apply; see Appendix 1 for detailed information.
+(2)ACC/AHA Joint Committee on Clinical Practice Guidelines liaison.
+(3)Former ACC/AHA Joint Committee on Clinical Practice Guidelines member; 
+current member during the writing effort.
+(4)American Geriatrics Society representative.
+(5)American Association of Cardiovascular and Pulmonary Rehabilitation 
+representative.
+(6)ACC/AHA Task Force on Performance Measures liaison.
+(7)Patient representative.
+(8)Association of Black Cardiologists representative.
+(9)American Pharmacists Association representative.
+(10)American College of Preventive Medicine representative.
+(11)National Lipid Association representative.
+(12)American Society for Preventive Cardiology representative.
+(13)AHA/ACC Guidelines Staff Consultant.
+(14)Preventive Cardiovascular Nurses Association representative.
+(15)American Diabetes Association representative.
+
+Erratum in
+    Circulation. 2026 Jun 23;153(25):e1447. doi: 10.1161/CIR.0000000000001457.
+
+AIM: The "2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on 
+the Management of Dyslipidemia" retires and replaces the "2018 
+AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the 
+Management of Blood Cholesterol."
+METHODS: A comprehensive literature search was conducted from October 2024 to 
+December 2024 to identify clinical studies, systematic reviews and 
+meta-analyses, and other evidence conducted on human participants that were 
+published in English from MEDLINE (through PubMed), EMBASE, the Cochrane 
+Library, Agency for Healthcare Research and Quality, and other selected 
+databases relevant to this guideline.
+STRUCTURE: The focus of this clinical practice guideline is to address the 
+evaluation, management, and monitoring of individuals with dyslipidemias, 
+including high blood cholesterol, hypertriglyceridemia, and elevated 
+lipoprotein(a).
+
+DOI: 10.1161/CIR.0000000000001423
+PMID: 41824552 [Indexed for MEDLINE]
+
+
+3. J Am Coll Cardiol. 2026 May 19;87(19):2624-2757. doi: 
+10.1016/j.jacc.2025.11.016. Epub 2026 Mar 13.
+
+2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the 
+Management of Dyslipidemia: A Report of the American College of 
+Cardiology/American Heart Association Joint Committee on Clinical Practice 
+Guidelines.
+
+Blumenthal RS, Morris PB, Gaudino M, Johnson HM, Anderson TS, Bittner VA, 
+Blankstein R, Brewer LC, Cho L, de Ferranti SD, Gianos E, Gluckman TJ, Gradney 
+KF, Isiadinso I, Lloyd-Jones DM, Marrs JC, Martin SS, McLain KH, Mehta LS, Mora 
+S, Mulugeta WM, Natarajan P, Navar AM, Orringer CE, Polonsky TS, Reynolds HR, 
+Saseen JJ, Shapiro MD, Soffer DE, Tynes SA, Villavaso CD, Virani SS, Wilkins JT.
+
+AIM: The "2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on 
+the Management of Dyslipidemia" retires and replaces the "2018 
+AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the 
+Management of Blood Cholesterol."
+METHODS: A comprehensive literature search was conducted from October 2024 to 
+December 2024 to identify clinical studies, systematic reviews and 
+meta-analyses, and other evidence conducted on human participants that were 
+published in English from MEDLINE (through PubMed), EMBASE, the Cochrane 
+Library, Agency for Healthcare Research and Quality, and other selected 
+databases relevant to this guideline.
+STRUCTURE: The focus of this clinical practice guideline is to address the 
+evaluation, management, and monitoring of individuals with dyslipidemias, 
+including high blood cholesterol, hypertriglyceridemia, and elevated 
+lipoprotein(a).
+
+Copyright © 2026. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jacc.2025.11.016
+PMID: 41824590 [Indexed for MEDLINE]
+
+
+4. Lancet. 2026 Feb 14;407(10529):689-703. doi: 10.1016/S0140-6736(25)01578-8. Epub 
+2026 Feb 5.
+
+Assessment of adverse effects attributed to statin therapy in product labels: a 
+meta-analysis of double-blind randomised controlled trials.
+
+Cholesterol Treatment Trialists' (CTT) Collaboration. Electronic address: 
+ctt@ndph.ox.ac.uk; Cholesterol Treatment Trialists' (CTT) Collaboration.
+
+Collaborators: Reith C, Blackwell L, Emberson JR, Preiss D, Spata E, Davies K, 
+Halls H, Harper C, Holland L, Wilson K, Humphrey R, Roddick AJ, Cannon CP, Davis 
+BR, Durrington PN, Goto S, Hitman GA, Hovingh GK, Koenig W, Krane V, Landray MJ, 
+Mihaylova B, Newman C, Probstfield JL, Sabatine MS, Sattar N, Schwartz GG, 
+Tonkin AM, White HD, Armitage J, Keech A, Simes J, Collins R, Baigent C, Barnes 
+E, Fulcher J, Herrington WG, Kirby A, O'Connell R, Amarenco P, Arashi H, Barter 
+P, Betteridge DJ, Blazing M, Blauw GJ, Bonaca M, Bosch J, Bowman L, Braunwald E, 
+Bulbulia R, Byington R, Clarke R, Clearfield M, Cobbe S, Colhoun HM, Dahlöf B, 
+de Lemos J, Downs JR, Fellström B, Fine L, Flather M, Ford I, Franzosi MG, 
+Fuller J, Furberg C, Glynn R, Goldbourt U, Gordon D, Gotto A Jr, Grimm R, Gupta 
+A, Hawkins CM, Haynes R, Holdaas H, Hopewell J, Jardine A, Jukema JW, Kastelein 
+JJ, Kean S, Kearney P, Kitas G, Kjekshus J, Knatterud G, Knopp RH, Kjekshus J, 
+Koren M, LaRosa J, Latini R, Lonn E, Lucci D, MacFadyen J, Macfarlane P, 
+MacMahon S, Maggioni A, Marchioli R, Marschner I, Moyé L, Murray H, Murphy S, 
+Neil A, Nicolis EB, Packard C, Parish S, Pedersen TR, Peto R, Pfeffer M, Poulter 
+N, Pressel S, Rahman M, Ridker PM, Robertson M, Sacks F, Schmieder R, Serruys 
+PW, Sever P, Shaw J, Shepherd J, Simpson L, Sleight P, Smeeth L, Tavazzi L, 
+Tobert J, Tognoni G, Trompet S, Varigos J, Wanner C, Wedel H, Weis S, Welch KM, 
+Wikstrand J, Wilhelmsen L, Wiviott S, Yamaguchi J, Young R, Yusuf S, Zannad F.
+
+BACKGROUND: Statin product labels (eg, Summaries of Product Characteristics 
+[SmPCs]) list certain adverse outcomes as potential treatment-related effects 
+based mainly on non-randomised and non-blinded studies, which might be subject 
+to bias. We aimed to assess the evidence for such undesirable effects more 
+reliably through a meta-analysis of individual participant data from large 
+double-blind trials of statin therapy.
+METHODS: In this meta-analysis of individual participant-level data from 
+double-blind randomised controlled trials, we generated a list of all 
+undesirable effect terms listed in statin SmPCs by searching an electronic 
+medicines compendium for five statins (atorvastatin, fluvastatin, pravastatin, 
+rosuvastatin, and simvastatin). Randomised trials were eligible for 
+meta-analysis of these effects if they involved at least 1000 participants, had 
+a scheduled treatment period of at least 2 years, and involved a double-blind 
+comparison of statin versus placebo or of a more intensive versus a less 
+intensive statin regimen. Event rate ratios (RRs) and 95% CIs were calculated 
+with statistical significance assessed after controlling the false discovery 
+rate (FDR) at 5%.
+FINDINGS: 19 trials compared statin versus placebo (123 940 participants, median 
+follow-up 4·5 years [IQR 3·1-5·4]). In addition to previously reported effects 
+on muscle outcomes and diabetes, only four of 66 further undesirable outcomes 
+that had been attributed to statins were FDR significant: abnormal liver 
+transaminases (783 participants [0·30% per annum] allocated statin vs 556 [0·22% 
+per annum] allocated placebo, RR 1·41 [95% CI 1·26-1·57]) and other liver 
+function test abnormalities (651 participants [0·25% per annum] allocated statin 
+vs 518 [0·20% per annum] allocated placebo, RR 1·26 [1·12-1·41]; absolute annual 
+excess of 0·13% for combined liver function test abnormality), urinary 
+composition alteration (556 [0·21% per annum] allocated statin vs 472 [0·18% per 
+annum] allocated placebo, RR 1·18 [1·04-1·33]), and oedema (3495 [1·38% per 
+annum] allocated statin vs 3299 [1·31% per annum] allocated placebo, RR 1·07 
+[1·02-1·12]). Analysis of the four trials of more intensive versus less 
+intensive statin regimens also found significant excesses for abnormal liver 
+transaminases and other liver function test abnormalities (supporting a 
+dose-dependent effect), but no significant excess was found for urinary 
+composition alteration or oedema.
+INTERPRETATION: Adverse event data from blinded randomised trials do not support 
+causal relationships between statin therapy and most of the conditions 
+(including cognitive impairment, depression, sleep disturbance, and peripheral 
+neuropathy) listed in product labels as potential undesirable effects. In light 
+of these findings, such labelling and other official sources of health 
+information should be revised so that patients and their doctors can make 
+appropriately informed decisions regarding statin therapy.
+FUNDING: British Heart Foundation, UK Medical Research Council, and Australian 
+National Health and Medical Research Council.
+
+Copyright © 2026 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S0140-6736(25)01578-8
+PMCID: PMC7619005
+PMID: 41655587 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests CR, LB, JRE, DP, KD, 
+CH, HH, LH, KW, RH, AJR, MJL, BM, JA, RC, and CB are affiliated with the 
+Nuffield Department of Population Health (NDPH) at the University of Oxford, 
+which has an explicit policy of not accepting any personal honoraria payments 
+directly or indirectly from the pharmaceutical and food industries. NDPH only 
+seeks reimbursement to the University of Oxford for the costs of travel and 
+accommodation to participate in scientific meetings 
+(https://www.ndph.ox.ac.uk/about/independence-of-research). Project and 
+departmental grants have been awarded to NDPH by the British Heart Foundation 
+and the UK Medical Research Council which has helped support NDPH staff working 
+on this project. CR reports previously receiving funding to the University of 
+Oxford (but no personal funding) from Merck–Schering-Plough Pharmaceuticals for 
+the SHARP trial of simvastatin–ezetimibe, the UK National Institute for Health 
+and Care Research Health Technology Assessment (NIHR HTA) programme (17/140/02) 
+and holding unpaid roles on the Clinical Data Interchange Standards Consortium 
+as a board member and WHO as a scientific advisor. JRE declares grant funding 
+from Regeneron Pharmaceuticals and AstraZeneca to the University of Oxford (but 
+no personal funding) to support the Mexico City Prospective Study, and 
+Boehringer Ingelheim and Eli Lilly for the EMPA-KIDNEY trial. DP reports 
+receiving funding to the University of Oxford (but no personal funding) from 
+Novartis for the ORION 4 trial of inclisiran, Novo Nordisk for the ASCEND PLUS 
+trial of semaglutide, and Boehringer Ingelheim and Eli Lilly for the EMPA-KIDNEY 
+trial, and being a committee member for National Institute for Health and Care 
+Excellence Cardiovascular Disease: Risk Assessment and Reduction Including Lipid 
+Modification guideline. ES reports now being an employee of AstraZeneca. CH 
+reports receiving funding to the University of Oxford (but no personal funding) 
+from Novo Nordisk for the ASCEND PLUS trial of semaglutide. AJR reports 
+receiving funding to the University of Oxford (but no personal funding) from the 
+NIHR Oxford Biomedical Research Centre, Boehringer Ingelheim, and Eli Lilly. CPC 
+reports grants or contracts from Amgen, Better Therapeutics, 
+Boehringer-Ingelheim, and Novo Nordisk; salary support from Colorado Prevention 
+Center Clinical Research, which gets research grant support from Amgen, Bayer, 
+Cleerly, Esperion, Lexicon and Silence; consulting fees from Amryt–Chiesi, 
+Amgen, Ascendia, Biogen, Boehringer Ingelheim, Bristol Myers Squibb, CSL 
+Behring, Genomadix, Lilly, Janssen, Lexicon, Milestone, Novartis, Pfizer, and 
+Rhoshan; and participation on a Data and Safety Monitoring Board (DSMB) or 
+Advisory Board for Areteia, Novo Nordisk, ROMTherapy, and the Veterans 
+Administration. SG reports grants or contracts to his institution from MEXT–JSPS 
+KAKENHI 19H03661, AMED (grant number A368TS and A447TR), and the Nakatani 
+Foundation, consulting fees from Jansen Pharma, Amgen, and Merck Sharp and 
+Dohme, payment or honoraria from Sysmex, and roles as Vice President of The 
+Japanese College of Angiology, Associate Editor for Circulation, and Council 
+Member of the International Society of Thrombosis and Haemostasis. GAH reports 
+funding from Pfizer, Diabetes UK, and NHS England for the CARDS trial. GKH 
+reports being an employee of Novo Nordisk and having stock options in Novo 
+Nordisk. WK reports grants and provision of reagents to their institution from 
+Singulex, Dr Beckmann Pharma, Abbott, and Roche Diagnostics, consulting fees 
+from AstraZeneca, Novartis, Amgen, Pfizer, The Medicines Company, DalCor 
+Pharmaceuticals, Kowa, Corvidia Therapeutics, OMEICOS, Daichii Sankyo, Novo 
+Nordisk, New Amsterdam Pharma, TenSixteen Bio, Genentech, and Esperion, and 
+payment or honoraria from Bristol Myers Squibb, Novartis, Amgen, Berlin-Chemie, 
+Sanofi, and AstraZeneca. MJL reports funding to their institution for clinical 
+trials from Novartis, Regeneron, and Boehringer Ingelheim, funding to their 
+institution for trial methodology research from Regeneron, Moderna, GSK, and 
+Sanofi, funding to their institution for consultancy from GSK, Verve, and Marea, 
+and roles as Adviser, Regulatory Affairs Committee for the European Society of 
+Cardiology and Lead for the Good Clinical Trials Collaborative (funded by 
+Wellcome and the Gates Foundation). BM reports a research grant to the 
+University of Oxford and Queen Mary University of London from UK NIHR HTA 
+(17/140/02) and a research grant to Queen Mary University of London from UK NIHR 
+Barts Biomedical Research Centre, and support for attending meetings or travel 
+from the European Society of Cardiology for attending a round table addressing 
+unmet medical needs in cardiology. CN reports royalties for a textbook from 
+Elsevier of less than US$5000 in the past 3 years, support from the Endocrine 
+Society for travel and registration for lecture and for membership on planning 
+committee in relation to the 2024 and 2025 meetings, and an unpaid roles as Vice 
+President of the Medical Women's International Association and a board member 
+for the Women in Medicine Legacy Foundation. MSS reports research grant support 
+through Brigham and Women's Hospital from Abbott, Amgen, Anthos Therapeutics, 
+AstraZeneca, Boehringer Ingelheim, Daiichi-Sankyo, Ionis, Marea, Merck, 
+Novartis, Pfizer, Saghmos Therapeutics, and Verve Therapeutics, consulting fees 
+from Amgen, AMPEL BioSolutions, Anthos Therapeutics, AstraZeneca, Beren 
+Therapeutics, Boehringer Ingelheim, CCRN, Dr Reddy's Laboratories, General 
+Medicines, Merck, NATF, Novo Nordisk, and Precision BioSciences, and reports 
+being a member of the TIMI Study Group, which has also received institutional 
+research grant support through Brigham and Women's Hospital from Abiomed, ARCA 
+Biopharma, Cleerly, Janssen Research and Development, MedImmune, Regeneron 
+Pharmaceuticals, Roche, Softcell Medical, The Medicines Company, and Zora 
+Biosciences. NS reports grants or contracts paid to his institution from 
+AstraZeneca, Boehringer Ingelheim, Novartis, and Roche, consulting fees paid via 
+his institution from AbbVie, Amgen, AstraZeneca, Boehringer Ingelheim, Carmot 
+Therapeutics, Eli Lilly, GSK, Hanmi Pharmaceuticals, Menarini-Ricerche, Metsera, 
+Novo Nordisk, Pfizer, and Roche, personal consulting fees from Novartis, and 
+payment or honoraria paid via his institution from Abbott Laboratories, AbbVie, 
+Amgen, AstraZeneca, Boehringer Ingelheim, Eli Lilly, Novo Nordisk, and Roche. 
+GGS reports research support to the University of Colorado from AstraZeneca, 
+Sanofi, and Silence Therapeutics and support from The University of Oxford for 
+travel to attend clinical trial steering committee meetings. AMT reports 
+payments for chairing a steering committee related to a survey of the adequacy 
+of lipid management in patients in Australian general practice from Novartis and 
+membership of the Data Monitoring Committee of the ORION-4 study of inclisiran 
+supported by Novartis. HDW reports grant support paid to his institution by 
+Sanofi-Aventis, Regeneron Pharmaceuticals for the ODYSSEY OUTCOMES trial, by 
+American Regent for the HEART–FID study, by DalCor Pharma UK for the GenE Study, 
+by CSL Behring for the AEGIS-II trial, by US National Institutes of Health for 
+the ISCHEMIA and MINT studies, by Esperion Therapeutics for the CLEAR Outcomes 
+study, by Omthera Pharmaceuticals for the STRENGTH trial, by Sanofi Aventis 
+Australia for the SOLIST-WHF and SCORED trials, by Janssen Research and 
+Development for the Librexia AF study and Librexia ACS studies, by Merck Sharp & 
+Dohme (New Zealand) for the MK0616 study; fees from DalCor Pharma UK for serving 
+on the steering committee for the GenE Study, CSL Behring for serving on the 
+steering committee for the AEGIS-II trial, Sanofi Aventis Australia for serving 
+on the steering committee for the SOLIST-WHF and SCORED trials, Esperion 
+Therapeutics for serving on the steering committee for the CLEAR Outcomes study, 
+and Janssen Research and Development for serving on the steering committee for 
+the Librexia AF study and Librexia ACS studies; support from the South 
+Australian Health and Medical Research Institute for attendance at the clinical 
+trial forum (2022 and 2023), the National Health and Medical Research Council 
+(NHMRC) Clinical Trials Centre; being the University of Sydney Chair of the DSMB 
+for the EVIDENCE Study; being on the CSL Behring Advisory Board; and receiving 
+VERVE HF advisory board fees (2024). JA reports an unpaid Independent Data 
+Monitoring Committee role for the WOMAN2 trial. AK reports funding from the 
+NHMRC Australia with an NHMRC Programme grant and Senior Research Fellowship to 
+support all research activities; research grant funding from the Australian 
+Medical Research Future Fund; research grants from Amgen, Abbott, and Viatris; 
+being a DSMB member for the Harvard University and Kowa Pharmaceuticals 
+PROMINENT trial; and drug provisions for research from Viatris. JS reports 
+research grant to his institution from NHMRC Australia, Bristol Myers Squibb, 
+Roche, Bayer, Amgen, and MSD, advisory board fees to his institution from 
+FivepHusion, and being an unpaid Chair of the STAREE DSMB. RC declares grants to 
+the University of Oxford from Merck, Novartis, UK Medical Research Council, 
+British Heart Foundation, Cancer Research UK, AstraZeneca, Wellcome Trust, and 
+Regeneron Pharmaceuticals; a patent for a statin-related myopathy genetic test 
+from Boston Heart Diagnostics for which RC waived any personal reward with any 
+share in royalty and other payments waived in favour of the Nuffield Department 
+of Population Health, University of Oxford; and being Deputy Chair of the 
+not-for-profit clinical trial company PROTAS, Chief Executive of UK Biobank, and 
+Chair of the steering committee of the ORION-4 trial of inclisiran. CB declares 
+support from Boehringer Ingelheim through a grant to the University of Oxford 
+for the EMPA-KIDNEY and EASi-KIDNEY trials, being the Medical Research Council 
+Population Health Research Unit Director from 2019–24, being a co-applicant on a 
+Health Data Research UK Substantive Site award from 2018–23, being an unpaid 
+DSMB or Advisory Board Chair for Merck for a phase 2 trial of factor 
+X1-inhibitor for dialysis patients and for the NIHR HTA to prepare for a kidney 
+care trial, and having unpaid roles in the NIHR HTA as Chair of Aspirin To 
+Target Arterial Events in Chronic Kidney Disease (ATTACK) and Desmopressin for 
+Acute Stroke due to Haemorrhage (DASH). All other authors declare no competing 
+interests.
+
+
+5. World J Cardiol. 2026 Feb 26;18(2):114960. doi: 10.4330/wjc.v18.i2.114960.
+
+Residual risk in atherosclerotic cardiovascular disease after statin therapy: 
+Clinical mechanisms and management strategies.
+
+Tan SH(1), Wu JL(2), Zhuo SX(2), Zhang Y(3), Wang M(4).
+
+Author information:
+(1)International Education College, Shanghai University of Traditional Chinese 
+Medicine, Shanghai 201203, China.
+(2)Department of Medical Rehabilitation, Nanmatou Community Health Service 
+Center, Shanghai 200125, China.
+(3)Department of Internal Medicine of Traditional Chinese Medicine, Longhua 
+Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200032, 
+China.
+(4)Department of Internal Medicine of Traditional Chinese Medicine, Longhua 
+Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai 200032, 
+China. wangmiao_126@126.com.
+
+Atherosclerotic is one of the leading causes of death worldwide. Although 
+lowering low-density lipoprotein cholesterol (LDL-C) levels reduces 
+cardiovascular risk, studies have shown that even when LDL-C is well controlled, 
+patients may still develop atherosclerotic cardiovascular disease, a phenomenon 
+known as residual risk. This review synthesizes current research on the 
+definition, pathogenesis, and therapeutic strategies of residual risk, aiming to 
+provide a theoretical basis for future advances in its diagnosis and management. 
+Evidence derived exclusively from human clinical trials, cohort studies, and 
+meta-analyses is summarized, excluding data from animal or in vitro experiments 
+to maintain clinical relevance. We focus on lipid and inflammatory biomarkers 
+beyond LDL-C, including non-high-density lipoprotein (HDL) cholesterol, 
+apolipoprotein B, lipoprotein(a), triglycerides, triglyceride-rich lipoproteins, 
+HDL dysfunction, and systemic inflammatory markers. Therapeutic interventions 
+encompassing lifestyle modification, lipid-lowering agents, anti-inflammatory 
+therapies, and novel gene-silencing approaches are reviewed. Evidence indicates 
+that in patients receiving statin therapy, non-HDL-cholesterol and 
+apolipoprotein B provide superior assessment of residual risk compared with 
+LDL-C. Lipoprotein(a) remains predictive of cardiovascular events even when 
+LDL-C levels are well controlled, while elevated triglycerides and 
+triglyceride-rich lipoproteins consistently associate with higher cardiovascular 
+risk. Inflammatory biomarkers such as high-sensitivity C-reactive protein and 
+interleukin-6 serve as indicators of residual inflammatory risk. Persistent 
+residual risk despite LDL-C control underscores the need for integrated, 
+multi-target strategies to achieve comprehensive cardiovascular protection.
+
+©The Author(s) 2026. Published by Baishideng Publishing Group Inc. All rights 
+reserved.
+
+DOI: 10.4330/wjc.v18.i2.114960
+PMCID: PMC12897005
+PMID: 41694036
+
+Conflict of interest statement: Conflict-of-interest statement: All the authors 
+report no relevant conflicts of interest for this article.

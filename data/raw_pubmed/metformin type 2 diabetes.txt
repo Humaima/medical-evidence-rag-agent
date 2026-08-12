@@ -1,0 +1,211 @@
+1. Adv Ther. 2025 Oct;42(10):5187-5201. doi: 10.1007/s12325-025-03323-3. Epub 2025 
+Aug 19.
+
+Efficacy and Safety of Triple Fixed Dose Combination of 
+Dapagliflozin + Sitagliptin + Metformin IR in Indian Patients with Type 2 
+Diabetes Mellitus: A Randomized, Phase 3 Study in Comparison with Dual FDC 
+Sitagliptin + Metformin IR.
+
+Singh MP(1), Gupta S(2), Singh M(3), Ambrish C(4), Kurmi P(5), Gangwani DK(6), 
+Naganna J(7), Sethuraman R(8), Dhumal V(9), Behera S(9), Patel PM(9), Patil 
+DM(10), Lakhwani LK(9), Ghadge PS(9), Mehta SC(9), Joglekar SJ(11).
+
+Author information:
+(1)GSVM Medical College, Kanpur, India.
+(2)M. V. Hospital & Research Centre, Lucknow, India.
+(3)Maya Hospital and Maternity Centre, Kanpur, India.
+(4)Medstar Speciality Hospital, Bangalore, India.
+(5)Shivam Hospital, Ahmedabad, India.
+(6)Priyadarshani Nursing Home, Virar, Dist. Palghar, India.
+(7)Gandhi Hospital, Secunderabad, India.
+(8)Levin's Diabetes and Dental Specialty Hospital, Madurai, India.
+(9)India Clinical Research, Sun Pharma Laboratories Limited, Sun House, Plot 
+Number 201 B/1, Western Express Highway, Goregaon (East), Mumbai, India.
+(10)India Clinical Research, Sun Pharma Laboratories Limited, Sun House, Plot 
+Number 201 B/1, Western Express Highway, Goregaon (East), Mumbai, India. 
+Dipak.Patil1@sunpharma.com.
+(11)Sun Pharmaceutical Industries Limited, Mumbai, India.
+
+INTRODUCTION: This study aims to evaluate the efficacy and safety of a triple 
+fixed-dose combination (FDC) of dapagliflozin, sitagliptin, and 
+immediate-release metformin (DAPA + SITA + MET IR) compared to dual FDCs in 
+patients with type 2 diabetes mellitus (T2DM).
+METHODS: This Phase 3, randomized, open-label study included eligible patients 
+with T2DM who were randomly assigned in a 1:1 ratio to receive either a triple 
+FDC of DAPA + SITA + MET IR (5 + 50 + 500/1000 mg) or a dual FDC of sitagliptin 
+and MET IR (SITA + MET IR; 50 + 500/1000 mg), administered twice daily for 
+16 weeks. The primary endpoint was the mean change in glycated haemoglobin 
+(HbA1c) from baseline to Week 16.
+RESULTS: The mean baseline HbA1c was ~ 9% in both arms. Adjusted mean reduction 
+in HbA1c from baseline to Week 16 was significantly greater in triple FDC of 
+DAPA + SITA + MET IR (- 2.08%) versus dual FDC of SITA + MET IR  (- 1.38%) 
+P < 0.0001. A significantly greater reduction in HbA1c was observed with triple 
+FDC compared to the dual FDC at Week 12 (P < 0.0001). At Week 16, a 
+significantly higher proportion of patients achieved HbA1c < 7% with triple FDC 
+than with dual FDC (48.9% versus 31.1%; P = 0.0029). Both treatments were well 
+tolerated.
+CONCLUSION: Triple FDC of DAPA + SITA + MET IR demonstrated superior efficacy in 
+achieving glycaemic control in patients with T2DM compared to dual FDC. There 
+were no major safety concerns.
+CLINICAL TRIAL REGISTRATION NUMBER: CTRI/2022/04/041817.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s12325-025-03323-3
+PMCID: PMC12474733
+PMID: 40828352 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of Interest: Mahendra Pal 
+Singh, Sandeep Gupta, Manish Singh, Ambrish C, Prakash Kurmi, Dinesh Kumar 
+Gangwani, J Naganna, and Ravikumar Sethuraman were the study investigators and 
+they received grants from sponsors for conducting the study at their respective 
+sites. Dipak M Patil, Pravin S Ghadge, and Suyog C Mehta are full-time employees 
+of Sun Pharma Laboratories Ltd. Vrindavani Dhumal, Sapan Behera, Piyush M Patel, 
+and Lalit K Lakhwani were full-time employees of Sun Pharma Laboratories Ltd. 
+when conducting the study. Sadhna J Joglekar was an employee at Sun Pharma when 
+conducting this study. She is currently employed by Novartis. The views 
+expressed in the article are authors' views and do not necessarily reflect the 
+views or official position of Novartis. Ethical Approval: The study protocol was 
+approved by institutional ethics committees at all participating sites. The 
+sponsor ensured that all the necessary ethics reviews and approvals were 
+obtained and that the clinical study was conducted in accordance with Good 
+Clinical Practice (GCP) guidelines as defined by the International Council for 
+Harmonisation (ICH), the Declaration of Helsinki, the New Drugs and Clinical 
+Trials Rules, 2019, and the 2017 guidelines issued by the Indian Council of 
+Medical Research. Informed consent was obtained in writing from all participants 
+before any screening procedures took place.
+
+
+2. JAMA. 2025 Sep 16;334(11):984-1002. doi: 10.1001/jama.2025.5956.
+
+Diagnosis and Treatment of Type 2 Diabetes in Adults: A Review.
+
+Kalyani RR(1), Neumiller JJ(2), Maruthur NM(3), Wexler DJ(4).
+
+Author information:
+(1)Division of Endocrinology, Diabetes, and Metabolism, The Johns Hopkins 
+University School of Medicine, Baltimore, Maryland.
+(2)College of Pharmacy and Pharmaceutical Sciences, Washington State University, 
+Spokane.
+(3)Division of General Internal Medicine, The Johns Hopkins University School of 
+Medicine, Baltimore, Maryland.
+(4)Diabetes Unit, Department of Medicine, Massachusetts General Hospital, 
+Harvard Medical School, Boston.
+
+IMPORTANCE: Type 2 diabetes involves progressive loss of insulin secretion from 
+pancreatic β cells in the setting of insulin resistance and manifests clinically 
+as hyperglycemia. Type 2 diabetes accounts for 90% to 95% of all cases of 
+diabetes globally, with estimates ranging from 589 million to 828 million people 
+worldwide. In the US, type 2 diabetes affects approximately 1 in 6 adults.
+OBSERVATIONS: Risk factors for type 2 diabetes include older age, family 
+history, overweight or obesity, physical inactivity, gestational diabetes, 
+Hispanic ethnicity, and American Indian or Alaska Native, Asian, or Black race. 
+Diabetes is diagnosed if fasting plasma glucose is greater than or equal to 126 
+mg/dL, hemoglobin A1C is greater than or equal to 6.5%, or 2-hour glucose during 
+75-g oral glucose tolerance testing is greater than or equal to 200 mg/dL. 
+Approximately one-third of adults with type 2 diabetes have cardiovascular 
+disease and 10.1% have severe vision difficulty or blindness. The prevalence of 
+type 2 diabetes is 39.2% among patients with kidney failure. Although weight 
+management is an important component of treatment for type 2 diabetes, no 
+specific diet has been proven to be most effective for improving health 
+outcomes. Physical activity can reduce hemoglobin A1C by 0.4% to 1.0% and 
+improve cardiovascular risk factors (ie, hypertension and dyslipidemia). 
+Randomized clinical trials have reported absolute reductions in microvascular 
+disease (3.5%), such as retinopathy and nephropathy, myocardial infarction 
+(3.3%-6.2%), and mortality (2.7%-4.9%), with intensive glucose-lowering 
+strategies (hemoglobin A1C <7%) vs conventional treatment 2 decades after trial 
+completion. First-line medications for type 2 diabetes include metformin and, in 
+patients with cardiovascular or kidney comorbidities or at high cardiovascular 
+risk, glucagon-like peptide-1 receptor agonists (GLP-1RAs) or sodium-glucose 
+cotransporter 2 inhibitors (SGLT2is). Common add-on medications include dual 
+glucose-dependent insulinotropic polypeptide (GIP)/GLP-1RAs, dipeptidyl 
+peptidase-4 inhibitors, sulfonylureas, and thiazolidinediones. Approximately 
+one-third of patients with type 2 diabetes require treatment with insulin during 
+their lifetime. Several randomized clinical trials have demonstrated benefits of 
+specific SGLT2i and GLP-1RA medications compared with placebo for 
+atherosclerotic cardiovascular disease (12%-26% risk reduction), heart failure 
+(18%-25% risk reduction), and kidney disease (24%-39% risk reduction) over 2 to 
+5 years. Most trial participants with type 2 diabetes were taking metformin. 
+High-potency GLP-1RA and dual GIP/GLP-1RA medications result in weight loss of 
+greater than 5% in most individuals with type 2 diabetes, and weight loss may 
+exceed 10%.
+CONCLUSIONS: Type 2 diabetes affects up to 14% of the global population and is 
+associated with preventable long-term complications, such as cardiovascular 
+disease, kidney failure, vision loss, and increased mortality. In addition to 
+lifestyle modifications including diet, exercise, and weight management, 
+metformin is generally first-line therapy for attainment of hemoglobin A1C 
+targets. For individuals with type 2 diabetes and cardiovascular or kidney 
+disease or at high cardiovascular risk, guidelines recommend early treatment 
+with SGLT2i and/or GLP-1RA medications.
+
+DOI: 10.1001/jama.2025.5956
+PMCID: PMC13014273
+PMID: 40549398 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Kalyani 
+reported serving as a member of the National Board of Directors and President of 
+Medicine and Science of the American Diabetes Association. Dr Neumiller reported 
+receiving personal fees from Bayer, Proteomics International, PowerPak, and Med 
+Learning Group outside the submitted work and serving as a member of the board 
+of directors of the American Diabetes Association. Dr Maruthur reported 
+receiving grants from Maryland Health Services outside the submitted work. Dr 
+Wexler reported serving on data monitoring committees for Novo Nordisk for 
+trials concluding in 2024 outside the submitted work.
+
+
+3. Gut Microbes. 2025 Dec;17(1):2558071. doi: 10.1080/19490976.2025.2558071. Epub 
+2025 Sep 29.
+
+Systemic and gut microbiome changes with metformin and liraglutide in 
+youth-onset type 2 diabetes: the MIGHTY study.
+
+Glaros SB(1), Mishra SP(2)(3), Jain S(2)(3), Davis FS(1), Gabel SA(4), Mueller 
+GA(4), Jarmusch AK(5), Mabundo L(1), Courville AB(1), Walter MF(6), Walter 
+PJ(7), Overdahl KE(5), Yadav H(2)(3), Chung ST(1)(8).
+
+Author information:
+(1)Diabetes, Endocrinology, and Obesity Branch, National Institute of Diabetes 
+and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, MD, 
+USA.
+(2)USF Center for Microbiome Research, Microbiomes Institute, University of 
+South Florida Morsani College of Medicine, Tampa, FL, USA.
+(3)Department of Neurosurgery and Brain Repair, University of South Florida 
+Morsani College of Medicine, Tampa, FL, USA.
+(4)Nuclear Magnetic Resonance Group, National Institute of Environmental Health 
+Sciences, Durham, NC, USA.
+(5)Metabolomics Core Facility, Inflammation, Immunity and Disease Laboratory, 
+National Institute of Environmental Health Sciences, Durham, NC, USA.
+(6)Clinical Laboratory Services Core, National Institute of Diabetes and 
+Digestive and Kidney Diseases, National Institutes of Health, Bethesda, MD, USA.
+(7)Clinical Mass Spectrometry Core, National Institute of Diabetes and Digestive 
+and Kidney Diseases, National Institutes of Health, Bethesda, MD, USA.
+(8)Division of Diabetes and Endocrinology, Children's National Hospital, 
+Washington, DC, USA.
+
+Metformin (Met) and liraglutide (Lira) are preferred diabetes therapies that may 
+improve glycemia by modulating the gut microbiome, but the mechanisms and 
+pathways are unknown and few data exist in youth-onset type 2 diabetes (Y-T2D). 
+In a 3-month parallel clinical trial in African American Y-T2D randomized to Met 
+(n = 14) or Met+Lira (n = 11), we compared gut microbial composition and 
+metabolomic profiles and determined the relationship of changes in microbial 
+abundance with glycemia and plasma metabolites. After 3 months, Met was 
+associated with greater relative abundance of Eubacterium and Eubacterium 
+rectale and lower Bacteroides ovates (p < 0.05). Met+Lira was associated with 
+greater Bacteroides fragilis and lower Streptococcus thermophilus (p < 0.05). 
+Met group had increased (>1.5-fold) plasma cholic secondary bile acids 
+(sulfochenodeoxycholic acid, nutriacholic acid, alpha-muricholic acid, and C24 
+dihydroxy bile acid; p ≤ 0.002). The change in nutriacholic acid correlated with 
+lower fasting glucose (r = -0.7, p < 0.05). Shifts in microbiota taxa were not 
+associated with plasma short-chain fatty acids (SCFA), hemoglobin A1c or 
+glucose. Short-term Met and Met+Lira in Y-T2D were related to distinct shifts 
+toward bile acid and SCFA-producing gut microbiota taxa, and secondary bile acid 
+metabolites correlated with improved glycemia, suggesting bile acid pathways may 
+be important modulators of glycemia in youth on metformin.Clinical trials.gov 
+identifier: NCT02960659.
+
+DOI: 10.1080/19490976.2025.2558071
+PMCID: PMC12482426
+PMID: 41020378 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s).

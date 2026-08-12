@@ -1,0 +1,391 @@
+1. Eur Respir J. 2026 Jul 23;68(1):2502611. doi: 10.1183/13993003.02611-2025. Print 
+2026 Jul.
+
+Clinical practice guideline for long COVID prevention and treatment.
+
+Cao B(1)(2), Soriano JB(3)(4), Wang Q(5), Al-Aly Z(6), Gu X(7)(8), Wang G(9), 
+Leo YS(10)(11), Jin Y(12)(13), Shi Q(14)(8), Ohmagari N(15), Liu E(16), Paredes 
+R(17), Lu H(18), Kim ES(19)(20), Zhang D(21), Estill J(22)(23), Li L(24), Spruyt 
+K(25), Yang W(26), Wang Y(27), Ran MS(28), Luo X(29)(8), Zhang H(30)(8), Xu 
+J(31)(8), Zhang R(30)(8), Zhao J(31)(8), Zhao J(32)(8), Evans RA(33)(34), Jeon 
+J(35), Peluso MJ(36), Errett LE(37), Zhang W(38), Chalmers JD(39), Chen 
+Y(31)(32)(40)(41)(2); Multidisciplinary Working Group on Long COVID Practice 
+Guidelines (MWG-LCPG).
+
+Author information:
+(1)National Center for Respiratory Medicine, State Key Laboratory of Respiratory 
+Health and Multimorbidity, National Clinical Research Center for Respiratory 
+Diseases, Department of Respiratory Medicine, Capital Medical University, 
+Institute of Respiratory Medicine, Chinese Academy of Medical Sciences, New 
+Cornerstone Science Laboratory, Department of Pulmonary and Critical Care 
+Medicine, Center of Respiratory Medicine, China-Japan Friendship Hospital, 
+Tsinghua University-Peking University Joint Center for Life Sciences, Beijing, 
+China caobin_ben@163.com.
+(2)Equally contributing authors.
+(3)Facultat de Medicina, Universitat de les Illes Balears, Palma, Spain.
+(4)Centro de Investigación en Red de Enfermedades Respiratorias (CIBERES), 
+Instituto de Salud Carlos III (ISCIII), Madrid, Spain.
+(5)Beijing Key Laboratory of Surveillance, Early Warning and Pathogen Research 
+on Emerging Infectious Diseases, Beijing Research Center for Respiratory 
+Infectious Diseases, Beijing Center for Disease Prevention and Control, Beijing, 
+China.
+(6)VA St. Louis Health Care System, St. Louis, MO, USA.
+(7)National Center for Respiratory Medicine, State Key Laboratory of Respiratory 
+Health and Multimorbidity, National Clinical Research Center for Respiratory 
+Diseases, Institute of Respiratory Medicine, Chinese Academy of Medical 
+Sciences, Department of Clinical Research and Data Management, Center of 
+Respiratory Medicine, China-Japan Friendship Hospital, Beijing, China.
+(8)Not panel members, but core evidence synthesis and evaluation group members.
+(9)Department of Infectious Disease, Center for Liver Disease, Peking University 
+First Hospital, Beijing, China.
+(10)National Center for Infectious Disease, Tan Tock Seng Hospital, Singapore, 
+Singapore.
+(11)Lee Kong Chien School of Medicine, Nanyang Technological University, 
+Singapore, Singapore.
+(12)Department of Respiratory and Critical Care Medicine, Hubei Province 
+Clinical Research Center for Major Respiratory Diseases, NHC Key Laboratory of 
+Pulmonary Diseases, Union Hospital, Tongji Medical College, Huazhong University 
+of Science and Technology, Wuhan, Hubei, China.
+(13)Hubei Provincial Key Laboratory of Biological Targeted Therapy, MOE Key 
+Laboratory of Biological Targeted Therapy, Union Hospital, Tongji Medical 
+College, Huazhong University of Science and Technology, Wuhan, Hubei, China.
+(14)The First School of Clinical Medicine, Lanzhou University, Lanzhou, China.
+(15)Disease Control and Prevention Center, Japan Institute for Health Security, 
+Tokyo, Japan.
+(16)Department of Respiratory Medicine, Children's Hospital of Chongqing Medical 
+University, Chongqing, China.
+(17)Department of Infectious Diseases, Hospital Germans Trias i Pujol, 
+Barcelona, Spain.
+(18)National Clinical Research Center for Infectious Diseases, The Third 
+People's Hospital of Shenzhen and The Second Affiliated Hospital of Southern 
+University of Science and Technology, Shenzhen, China.
+(19)Seoul National University Bundang Hospital, Seongnam, South Korea.
+(20)Seoul National University Bundang Hospital, Seoul National University 
+College of Medicine, Seongnam, Korea.
+(21)Department of Critical Care Medicine, Union Hospital, Tongji Medical 
+College, Huazhong University of Science and Technology (HUST), Wuhan, China.
+(22)School of Basic Medical Sciences, Lanzhou University, Lanzhou, China.
+(23)Institute of Global Health, University of Geneva, Geneva, Switzerland.
+(24)Department of Respiratory Medicine, Daping Hospital, Third Military Medical 
+University, Chongqing, China.
+(25)NeuroDiderot-INSERM, Université de Paris, Paris, France.
+(26)School of Population Medicine and Public Health, Chinese Academy of Medical 
+Sciences and Peking Union Medical College, State Key Laboratory of Respiratory 
+Health and Multimorbidity, Key Laboratory of Pathogen Infection Prevention and 
+Control (Peking Union Medical College), Ministry of Education, Beijing, China.
+(27)Department of Neurology and Centre for Clinical Neuroscience, Daping 
+Hospital, Third Military Medical University, Chongqing, China.
+(28)National Center for Mental Disorders, and Mental Health Center, West China 
+Hospital, Sichuan University, China.
+(29)Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou 
+University, Lanzhou, China.
+(30)National Center for Respiratory Medicine, State Key Laboratory of 
+Respiratory Health and Multimorbidity, National Clinical Research Center for 
+Respiratory Diseases, Institute of Respiratory Medicine, Chinese Academy of 
+Medical Sciences, Department of Pulmonary and Critical Care Medicine, Center of 
+Respiratory Medicine, China-Japan Friendship Hospital, Beijing, China.
+(31)Department of Pediatric Research Institute, Children's Hospital of Chongqing 
+Medical University, National Clinical Research Center for Child Health and 
+Disorders, Ministry of Education Key Laboratory of Child Development and 
+Disorders, China International Science and Technology Cooperation Base of Child 
+Development and Critical Disorders, Chevidence Lab Child and Adolescent Health, 
+Department of Pediatric Research Institute, Children's Hospital of Chongqing 
+Medical University, Chongqing, China.
+(32)Research Center for Clinical Medicine, The First Hospital of Lanzhou 
+University, Lanzhou, China.
+(33)The Institute for Lung Health, NIHR Leicester Biomedical Research Centre, 
+University Hospitals of Leicester, Leicester, UK.
+(34)Department of Respiratory Sciences, University of Leicester, Leicester, UK.
+(35)Division of Infectious Diseases, Department of Internal Medicine, National 
+Medical Center, Seoul, Korea.
+(36)Division of HIV, Infectious Diseases, and Global Medicine, University of 
+California, University of California San Francisco, San Francisco, CA, USA.
+(37)Department of Nutritional Sciences, University of Toronto, Toronto, ON, 
+Canada.
+(38)Department of Infectious Diseases, Shanghai Key Laboratory of Infectious 
+Diseases and Biosafety Emergency Response, National Medical Center for 
+Infectious Diseases, Huashan Hospital, Fudan University, Shanghai, China.
+(39)Scottish Centre for Respiratory Research, Ninewells Hospital and Medical 
+School, Dundee, UK.
+(40)Research Unit of Evidence-Based Evaluation and Guidelines, Chinese Academy 
+of Medical Sciences (2021RU017), School of Basic Medical Sciences, Lanzhou 
+University, Lanzhou, China.
+(41)Key Laboratory of Evidence Based Medicine of Gansu Province, Lanzhou 
+University, Lanzhou, China.
+
+BACKGROUND: This guideline aims to address key clinical questions of long COVID, 
+and to provide evidence-based recommendations. The target population is adults 
+with long COVID. The primary users of the guideline are clinical physicians, 
+clinical pharmacists, nurses and general practitioners in community healthcare 
+institutions worldwide.
+METHODS: The guideline was registered at the Practice guideline REgistration for 
+transPAREncy platform (PREPARE-2024CN123) and followed a pre-specified protocol. 
+A multidisciplinary working group was established and comprised 60 members from 
+10 countries and 10 areas of expertise, with a strong background in long COVID 
+research and clinical practice, and methodology of guideline development. 
+Through a two-step process, we determined eight PICO (Population, Intervention, 
+Comparator, Outcome) questions focusing on prevention and treatment of long 
+COVID. After comprehensively searching literature, conducting systematic reviews 
+and investigating patients' values and preferences, three rounds of Delphi 
+survey were conducted among 24 international experts to reach consensus. The 
+GRADE (Grading of Recommendations Assessment, Development, and Evaluation) 
+approach was applied to rate the certainty of evidence and determine the 
+strength of recommendations.
+RESULTS: The guideline presents 10 specific recommendations, each supported by 
+existing, updated or newly conducted systematic reviews. The key recommendations 
+are pertinent to the following issues: 1) suggestion of vaccination or use of 
+antiviral agents during the acute phase of COVID-19 to prevent long COVID; 2) 
+suggestions against the use of nirmatrelvir/ritonavir and glucocorticoids 
+(patients with persistent respiratory symptoms and olfactory disorders) for long 
+COVID treatment; 3) suggestions supporting the use of multispecies probiotics, 
+cognitive behavioural therapy (patients with fatigue), and personalised 
+rehabilitation (after ruling out post-exertional malaise) for long COVID 
+treatment.
+CONCLUSIONS: This guideline provides evidence-based recommendations for the 
+prevention and treatment of long COVID. Given the limited and often 
+low-methodological-quality evidence, all recommendations are supported by very 
+low to moderate certainty. Further high-quality studies are needed to strengthen 
+the evidence base.
+
+Copyright ©The authors 2026.
+
+DOI: 10.1183/13993003.02611-2025
+PMCID: PMC13392456
+PMID: 41856572 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: B. Cao is a member of the 
+European Respiratory Journal editorial board. J.B. Soriano reports grants from 
+Linde via Hospital Universitario de La Princesa, consultancy fees from ERS and 
+SEPAR, participation in speaking activities, advisory committees and 
+consultancies for Air Liquide, Almirall, AstraZeneca, Boehringer Ingelheim, 
+Chiesi, ERS, Grifols, GSK, Linde, Lipopharma, Mundipharma, Novartis, Pfizer, 
+RiRL, Rovi, SEPAR and Takeda, a leadership role for the Spanish Network of 
+Research in Long COVID (REiCOP), and is an Associate Editor for the European 
+Respiratory Journal. R. Paredes reports participation in an advisory board with 
+Pfizer, Gilead and AstraZeneca. R.A. Evans reports grants from Genentech/Roche, 
+lecture fees from Moderna, and fees for participation on an advisory board for 
+the UK National COVID Inquiry. M.J. Peluso reports consultancy fees from Gilead 
+Sciences and AstraZeneca. J.D. Chalmers reports grants or contracts from 
+AstraZeneca, Chiesi, Genentech, Gilead Sciences, GlaxoSmithKline, Insmed, 
+Grifols, Trudell, Verona and Boehringer Ingelheim, and consulting fees from 
+AstraZeneca, Biomx, Chiesi, CSL Behring, Expedition, GlaxoSmithKline, Insmed, 
+Grifols, Boehringer Ingelheim, Pfizer, Sanofi/Regeneron and Zambon, and is the 
+Chief Editor of the European Respiratory Journal. Y. Chen is the co-founder and 
+co-chair of the RIGHT (Reporting Items for Practice Guidelines in Healthcare) 
+working group. The remaining authors have no potential conflicts of interest to 
+disclose.
+
+
+2. Cell Rep Med. 2025 Aug 19;6(8):102259. doi: 10.1016/j.xcrm.2025.102259. Epub 
+2025 Jul 30.
+
+Causes of symptoms and symptom persistence in long COVID and myalgic 
+encephalomyelitis/chronic fatigue syndrome.
+
+Komaroff AL(1), Dantzer R(2).
+
+Author information:
+(1)Department of Medicine, Division of General Medicine, Brigham and Women's 
+Hospital, Boston, MA, USA; Harvard Medical School, Boston, MA, USA. Electronic 
+address: komaroff@hms.harvard.edu.
+(2)Department of Internal Medicine, University of Texas MD Anderson Cancer 
+Center, Houston, TX, USA.
+
+Debilitating symptoms for many years can follow acute COVID-19 ("long COVID"), 
+myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), and various 
+post-acute infection syndromes (PAISs). Together, long COVID and ME/CFS affect 
+60-400 million individuals, globally. Many similar underlying biological 
+abnormalities have been identified in both conditions including autoantibodies 
+against neural targets, endothelial dysfunction, acquired mitochondrial 
+dysfunction, and a pro-inflammatory gut microbiome. Each of these abnormalities 
+may directly cause some of the symptoms. In addition, the symptoms also may be 
+caused by ancient, evolutionarily conserved symptomatic and metabolic responses 
+to vital threats-sickness behavior and torpor-responses mediated by specific, 
+recently discovered neural circuits. These neural circuits constitute a 
+symptom-generating pathway, activated by neuroinflammation, which may be 
+targeted by therapeutics to quell neuroinflammation. Many factors cause the 
+symptoms to become chronic, including persistent infectious agents (and/or their 
+nucleic acids and antigens) and the fact that many of the underlying biological 
+abnormalities reinforce each other, creating ongoing physiological vicious 
+cycles.
+
+Copyright © 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.xcrm.2025.102259
+PMCID: PMC12432373
+PMID: 40744021 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.
+
+
+3. Gut Microbes. 2025 Dec;17(1):2457495. doi: 10.1080/19490976.2025.2457495. Epub 
+2025 Jan 24.
+
+Long COVID and gut microbiome: insights into pathogenesis and therapeutics.
+
+Lau RI(1)(2), Su Q(1)(2), Ng SC(1)(2)(3).
+
+Author information:
+(1)Department of Medicine and Therapeutics, Faculty of Medicine, The Chinese 
+University of Hong Kong, Hong Kong SAR, China.
+(2)Microbiota I-Center (MagIC), Hong Kong SAR, China.
+(3)Li Ka Shing Institute of Health Sciences, State Key Laboratory of Digestive 
+Disease, Institute of Digestive Disease, The Chinese University of Hong Kong, 
+Hong Kong SAR, China.
+
+Post-acute coronavirus disease 2019 syndrome (PACS), following severe acute 
+respiratory syndrome coronavirus 2 (SARS-CoV-2) infection or coronavirus disease 
+2019 (COVID-19), is typically characterized by long-term debilitating symptoms 
+affecting multiple organs and systems. Unfortunately, there is currently a lack 
+of effective treatment strategies. Altered gut microbiome has been proposed as 
+one of the plausible mechanisms involved in the pathogenesis of PACS; extensive 
+studies have emerged to bridge the gap between the persistent symptoms and the 
+dysbiosis of gut microbiome. Recent clinical trials have indicated that gut 
+microbiome modulation using probiotics, prebiotics, and fecal microbiota 
+transplantation (FMT) led to improvements in multiple symptoms related to PACS, 
+including fatigue, memory loss, difficulty in concentration, gastrointestinal 
+upset, and disturbances in sleep and mood. In this review, we highlight the 
+latest evidence on the key microbial alterations observed in PACS, as well as 
+the use of microbiome-based therapeutics in managing PACS symptoms. These novel 
+findings altogether shed light on the treatment of PACS and other chronic 
+conditions.
+
+DOI: 10.1080/19490976.2025.2457495
+PMCID: PMC11776476
+PMID: 39854158 [Indexed for MEDLINE]
+
+Conflict of interest statement: SCN has served as an advisory board member for 
+Pfizer, Ferring, Janssen, and AbbVie and received honoraria as a speaker for 
+Ferring, Tillotts, Menarini, Janssen, AbbVie, and Takeda; has received research 
+grants through her affiliated institutions from Olympus, Ferring, and AbbVie; is 
+a founder member, non-executive director, non-executive scientific advisor, and 
+shareholder of GenieBiome Ltd; and receives patent royalties through her 
+affiliated institutions. RIL is a Medical Affairs Manager of GenieBiome Ltd. QS 
+is a Scientist (Diagnostics) of GenieBiome Ltd. RIL, QS, and SCN are named 
+inventors of patent applications held by Microbiota I-Center (MagIC) that cover 
+the therapeutic and diagnostic use of microbiome.
+
+
+4. Wien Med Wochenschr. 2026 Apr;176(5-6):130-148. doi: 10.1007/s10354-025-01113-8. 
+Epub 2025 Oct 29.
+
+[Herbal treatment options for post-viral symptoms and long COVID].
+
+[Article in German; Abstract available in German from the publisher]
+
+Krassnig K(1), Bauer R(2), Glasl S(3), Haubenberger P(4), Evanzin HJ(5), 
+Schneider K(3), Margotti D(6).
+
+Author information:
+(1)Wiener Schule für Traditionelle Chinesische Medizin, Wien, Österreich.
+(2)Institut für Pharmazeutische Wissenschaften, Universität Graz, Graz, 
+Österreich.
+(3)Abteilung für Pharmakognosie, Dpt. für Pharmazeutische Wissenschaften, 
+Universität Wien, Wien, Österreich.
+(4)Primärversorgungseinheit Wien West, Wien, Österreich.
+(5)Landesklinikum Mistelbach-Gänserndorf, Mistelbach, Österreich.
+(6)Österreichische Gesellschaft für Phytotherapie (ÖGPHYT), Wien, Österreich. 
+info@phytotherapie.at.
+
+BACKGROUND: Long COVID and post-viral symptom complexes have become 
+a significant focus in medical practice. There is an urgent need to provide 
+evidence-based treatment options to those patients. The aim of the literature 
+review was to summarize herbal medicinal products as a treatment option for 
+post-viral conditions, particularly long COVID.
+METHODS: A working group of the Austrian Society for Phytotherapy conducted 
+a narrative review between 2022 and 2024, based on external literature from the 
+PubMed, PubPharm and Scopus databases and clinical experience from practice. The 
+review identified the most relevant medicinal plants and their preparations for 
+the most common symptom complexes of long COVID.
+RESULTS: A total of 98 publications and 24 monographs were included in the 
+literature review. The symptom complexes (+ relevant phytopharmaceuticals) 
+include neurological complaints, such as myalgic encephalomyelitis/chronic 
+fatigue syndrome (ME/CFS) (Ginseng radix, Panax quinquefolii radix, Eleutherocci 
+radix, Rhodiolae rhizoma et radix, Schisandrae fructus), nootropics (Ginkgo 
+folium, Lavandulae flos), irritations of the respiratory tract (Liquiritiae 
+radix, Nigellae semen, Eucalypti folium), gastrointestinal complaints (Gentianae 
+radix, Centauri herba, Artemisii herba, Galangae rhizoma, Zingiberis rhizoma, 
+Boswellia serrata, Curcuma longae rhizoma), circulatory weakness (Crataegi 
+folium cum flore, Rosmarini folium, Salviae officinalis folium) and loss of 
+smell (Rosae flos, Citri pericarpium, Caryophylli flos, Eucalypti folium). 
+External evidence and clinical experience in medical practice show that many 
+important symptoms of post-viral conditions can be successfully treated with 
+herbal preparations.
+CONCLUSION: Phytopharmaceuticals can provide evidence-based support for the 
+therapeutic portfolio for viral diseases and their consequences in current and 
+future viral epidemics.
+
+Publisher: ZUSAMMENFASSUNG: HINTERGRUND: Long-COVID bzw. postvirale 
+Symptomenkomplexe sind im medizinischen Alltag deutlich in den Fokus gerückt. Es 
+besteht die dringende Notwendigkeit, Patienten aus dieser Symptomengruppe 
+evidenzbasierte Behandlungsoptionen anzubieten. Ziel der Literaturrecherche war, 
+pflanzliche Arzneimittel als Therapieoption bei postviralen Zuständen, 
+insbesondere Long-COVID, zusammenzufassen.
+METHODEN: Eine Arbeitsgruppe der Österreichischen Gesellschaft für Phytotherapie 
+hat im Zeitraum von 2022 bis 2024 ein narratives Review basierend auf der 
+externen Literatur der Datenbanken PubMed, PubPharm und Scopus und der 
+klinischen Erfahrungen aus der Praxis erstellt, die relevantesten Arzneipflanzen 
+bzw. deren Zubereitungen den häufigsten Symptomenkomplexen zugeordnet und einen 
+therapeutischen Einsatz bei Long-COVID diskutiert.
+RESULTATE: Insgesamt wurden 98 Publikationen und 24 Monografien in die 
+Literaturübersicht inkludiert. Die Symptomkomplexe (+ relevante Phytopharmaka) 
+umfassen neurologische Beschwerden wie myalgische Enzephalomyelitis/chronisches 
+Fatigue-Syndrom (ME/CFS) (Ginseng radix, Panax quinquefolii radix, Eleutherocci 
+radix, Rhodiolae rhizoma et radix, Schisandrae fructus), Nootropika (Ginkgo 
+folium, Lavandulae flos), Reizzustände der Atemwege (Liquiritiae radix, Nigellae 
+semen, Eucalypti folium), gastrointestinale Beschwerden (Gentianae radix, 
+Centauri herba, Artemisii herba, Galangae rhizoma, Zingiberis rhizoma, Boswellia 
+serrata, Curcumae longae rhizoma), Kreislaufschwäche (Crataegi folium cum flore, 
+Rosmarini folium, Salviae officinalis folium) und Geruchsverlust (Rosae flos, 
+Citri pericarpium, Caryophylli flos, Eucalypti folium). Die externe Evidenz und 
+die klinischen Erfahrungen in der medizinischen Praxis zeigen, dass viele 
+wichtige Symptome postviraler Zustände mit pflanzlichen Zubereitungen 
+erfolgreich behandelt werden können.
+SCHLUSSFOLGERUNGEN: Phytopharmaka können das therapeutische Portfolio bei 
+viralen Erkrankungen und deren Folgen bei aktuellen und zukünftigen 
+Virusepidemien evidenzbasiert erweitern.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s10354-025-01113-8
+PMCID: PMC13013262
+PMID: 41160239 [Indexed for MEDLINE]
+
+Conflict of interest statement: Interessenkonflikt: K. Krassnig, R. Bauer, 
+S. Glasl, P. Haubenberger, H.J. Evanzin, K. Schneider und D. Margotti geben an, 
+dass kein Interessenkonflikt besteht.
+
+
+5. Immunol Med. 2026 Mar;49(1):35-58. doi: 10.1080/25785826.2025.2570902. Epub 2025 
+Oct 21.
+
+Long COVID: mechanisms of disease, multisystem sequelae, and prospects for 
+treatment.
+
+Oba S(1), Hosoya T(1), Iwai H(1), Yasuda S(1).
+
+Author information:
+(1)Department of Rheumatology, Institute of Science Tokyo, Tokyo, Japan.
+
+Long COVID has emerged as a significant global health issue, affecting 
+individuals across a wide spectrum of initial disease severity. While its 
+definition and prevalence vary across studies, persistent symptoms such as 
+fatigue, cognitive dysfunction, respiratory difficulties, and cardiovascular 
+complications have been widely reported. Multiple pathophysiological mechanisms 
+have been proposed, including incomplete viral clearance, reactivation of latent 
+viruses, immune dysregulation, autoimmunity, endothelial dysfunction, microbiome 
+alterations, and mitochondrial impairment. These interconnected processes are 
+thought to contribute to chronic inflammation and multi-organ disease. To date, 
+there are no established therapies for Long COVID, and management primarily 
+focuses on symptomatic relief and rehabilitation. Vaccination has been shown to 
+reduce the incidence of Long COVID, and emerging strategies, including antiviral 
+agents, immune-modulating therapies, microbiome restoration, and 
+mitochondria-targeted interventions, are under investigation. This review 
+summarizes the current understanding of the epidemiology, pathophysiology, 
+organ-specific manifestations, and potential therapeutic approaches for Long 
+COVID, aiming to provide insights into future research directions and clinical 
+management strategies.
+
+DOI: 10.1080/25785826.2025.2570902
+PMID: 41117273 [Indexed for MEDLINE]

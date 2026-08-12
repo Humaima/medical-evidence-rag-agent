@@ -1,0 +1,342 @@
+1. Emerg Infect Dis. 2026 Jun;32(6):839-843. doi: 10.3201/eid3206.260378.
+
+Limitations of Global Surveillance for Neisseria gonorrhoeae Antimicrobial 
+Resistance.
+
+van Hal SJ, Fifer H, Lahra MM.
+
+Neisseria gonorrhoeae bacteria cause ≈82 million infections annually worldwide. 
+As antimicrobial resistance (AMR) accelerates, the actual prevalence of 
+antimicrobial-resistant infections remains obscured because of fragmented, 
+heterogeneous, and often absent surveillance systems. The efficacy of 
+ceftriaxone, widely used as first-line therapy, is increasingly threatened by 
+the expansion of strains harboring the mosaic penA 60.001 allele, first 
+documented in 2015 and now recognized globally as the dominant determinant of 
+AMR. Our systematic search of the published literature identified 212 such 
+isolates; nearly half were detected after 2022 in England and Australia, and 
+epidemiologic data frequently linked acquisition of infection to the 
+Asia-Pacific region. The substantially higher case numbers reported in those 
+countries reflect the strength of their gonococcal AMR surveillance systems and 
+more timely public data sharing. Our findings suggest that underreporting of the 
+actual prevalence of ceftriaxone resistance is likely and that the opportunity 
+for action is limited.
+
+DOI: 10.3201/eid3206.260378
+PMCID: PMC13245209
+PMID: 42230160 [Indexed for MEDLINE]
+
+
+2. BMC Infect Dis. 2026 Jan 24;26(1):385. doi: 10.1186/s12879-025-12420-1.
+
+The use of WHONET for antimicrobial resistance surveillance: a systematic 
+review.
+
+Aboushady AT(1)(2)(3), Chen-Xu J(4), Elfakharany A(5), Mansour F(5), Eissa 
+M(5)(6), Weber S(6), O'Brien TF(7), Stelling J(7).
+
+Author information:
+(1)Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA. 
+a.taboushady@gmail.com.
+(2)Faculty of Medicine, Alexandria University, Alexandria, Egypt. 
+a.taboushady@gmail.com.
+(3)Ineos Oxford Institute, Department of Biology, University of Oxford, Oxford, 
+UK. a.taboushady@gmail.com.
+(4)Comprehensive Health Research Centre (CHRC), Public Health Research Center, 
+LA-REAL, National School of Public Health, Universidade NOVA de Lisboa, Lisboa, 
+Portugal.
+(5)Faculty of Medicine, Alexandria University, Alexandria, Egypt.
+(6)London School of Hygiene and Tropical Medicine, London, UK.
+(7)Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.
+
+Antimicrobial Resistance (AMR) is a global public health threat. Several 
+surveillance systems/networks were established to provide critical data to 
+detect resistance patterns, guide treatments, and inform policies to mitigate 
+AMR’s public health impact. WHONET software was developed in 1989 as a free 
+software that manages and analyses microbiology laboratory data, entirely 
+dedicated to antimicrobial susceptibility test results. A systematic search was 
+conducted in five electronic databases, PubMed, ScienceDirect, Web of Science, 
+Scopus, and Embase, from their inception until December 31st, 2024. It included 
+all articles that reported using WHONET. From the initial 4,636 articles 
+retrieved, 511 were included. Most studies were cross-sectional or prevalence 
+studies (72.4%), with the majority utilizing secondary data sources (83.2%). 
+Articles included data from 110 countries, with the highest amount coming from 
+China, and the number of publications increased over time. Additionally, most 
+articles included data from 2 to 3 years before publication. Of the 2160 
+organisms examined across the studies, Enterobacterales (43.8%), Staphylococcus 
+spp. (12.5%) and Pseudomonas spp. (9.3%) were the most covered microorganisms. 
+In conclusion, the review highlights the growing interest in WHONET and AMR. 
+WHONET’s ability to leverage routine and secondary data for AMR monitoring is 
+advantageous compared to other systems. However, expanding WHONET’s application 
+and integrating advanced analytics are essential for enhancing its role in a 
+comprehensive One Health approach to combat AMR, particularly in LMICs.
+
+Not applicable.
+
+DOI: 10.1186/s12879-025-12420-1
+PMCID: PMC12910943
+PMID: 41580659 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethical approval: Ethics approval 
+was not required for this study, as it is based on published work and it did not 
+collect primary data. Competing interests: TFB and JS are the founders of the 
+WHONET software. ATA has a prior professional affiliation with the WHONET group 
+at Brigham and Women’s Hospital, during which most of the research work was 
+conducted, and JS has a current professional affiliation with the same group. 
+All other authors declare no conflict of interest.
+
+
+3. Br J Biomed Sci. 2026 Feb 6;83:15559. doi: 10.3389/bjbs.2026.15559. eCollection 
+2026.
+
+Antimicrobial Resistance: The Answers.
+
+Millar BC(1)(2), Cates MJ(2), Torrisi MS(2), Round AJ(2), Warde A(2), Lowery 
+CJ(2), Moore JE(1)(2).
+
+Author information:
+(1)Northern Ireland Public Health Laboratory, Belfast City Hospital, Belfast, 
+Northern Ireland, United Kingdom.
+(2)School of Biomedical Sciences, Ulster University, Coleraine, Northern 
+Ireland, United Kingdom.
+
+Antimicrobial resistance (AMR) has caused a global public health crisis, 
+contributing to approximately five million deaths in 2019 and predicted deaths 
+of approximately ten million annually by 2050. This equates to approximately 
+1.4-fold more deaths annually from AMR in 2050 than the entire COVID-19 pandemic 
+to date. To tackle this AMR pandemic, regulatory and policy frameworks have been 
+prepared at local, national and international levels with multi-faceted 
+proposals and advances encompassing surveillance, diagnostics, infection 
+prevention, antibiotic prescribing and variation of existing and novel treatment 
+approaches. This narrative review primarily focuses on research and development 
+which have been documented over the last five years in relation to therapeutic 
+approaches at various stages in clinical development and the potential role that 
+vaccines can play in the fight against AMR. This review provides an overview on 
+antibacterial drugs, including novel classes of antibiotics, which have been 
+recently approved, as well as combination antibiotic therapy and the potential 
+of repurposed drugs. The potential role of novel antimicrobial, antibiofilm and 
+quorum sensing inhibitors, such as antimicrobial peptides, nanomaterials and 
+compounds from the extreme and natural environments, as well as 
+ethnopharmacology including the antimicrobial effects of plants, spices, honey 
+and venoms are explored. Novel therapeutic approaches are critically discussed 
+in terms of their realistic clinical potential, detailing recent and ongoing 
+trials to highlight the current interest of these approaches, including 
+immunotherapy, bacteriophage therapy, antimicrobial photodynamic therapy (aPDT), 
+antimicrobial sonodynamic therapy (aSDT), nitric oxide therapy and microbiome 
+manipulation including faecal microbiota transplantation (FMT). The potential of 
+predatory bacteria as living antimicrobial agents is also discussed. 
+Importantly, there have been many technological developments which have enhanced 
+bioprospecting and research and development of novel antimicrobials which this 
+review draws attention to, including artificial intelligence, machine learning 
+and Organ-on-a-Chip devices. Finally, key messages from the recent World Health 
+Organization report into the role of vaccines against AMR provides an 
+interesting perspective relating to prevention which can be of significance in 
+tackling the AMR burden.
+
+Copyright © 2026 Millar, Cates, Torrisi, Round, Warde, Lowery and Moore.
+
+DOI: 10.3389/bjbs.2026.15559
+PMCID: PMC12922517
+PMID: 41727556 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+4. Bull World Health Organ. 2026 Apr 1;104(4):259-273. doi: 10.2471/BLT.25.294384. 
+Epub 2026 Feb 9.
+
+Surveillance of antimicrobial resistance by a global network of WHO 
+collaborating centres.
+
+Harant A(1), Zanuzdana A(1), Tomczyk S(1), Eckmanns T(1), Kong I(2), Lahra M(3), 
+Gill S(3), Hendriksen R(4), Perovic O(5), Corso A(6), Löfmark Behrendtz S(7), 
+Kreienbrock L(8), Alshamrani M(9), Harbarth S(10), de Kraker M(10), Ekelund 
+O(11), Karatuna O(11), Ruesen C(12), Bertagnolio S(2), Hutin Y(2); WHO AMR 
+Surveillance and Quality Assessment Collaborating Centres Network group.
+
+Author information:
+(1)Department of Infectious Disease Epidemiology, Robert Koch Institute, WHO 
+Collaborating Centre for Antimicrobial Resistance, Consumption and Health 
+Care-Associated Infections, Seestraße 10, Berlin, 13353, Germany.
+(2)Antimicrobial Resistance Department, World Health Organization, Geneva, 
+Switzerland.
+(3)Department of Microbiology, New South Wales Health Pathology Randwick, 
+Sydney, Australia.
+(4)National Food Institute, Technical University of Denmark, Copenhagen, 
+Denmark.
+(5)Centre for Healthcare-Associated Infections, Antimicrobial Resistance and 
+Mycoses, National Institute for Communicable Diseases, Johannesburg, South 
+Africa.
+(6)National and Regional Reference Laboratory for Antimicrobial Resistance, 
+National Institute of Infectious Diseases, Buenos Aires, Argentina.
+(7)Department of Communicable Disease Control and Preparedness, Public Health 
+Agency of Sweden, Solna, Sweden.
+(8)Institute for Biometry, Epidemiology and Information Processing, University 
+of Veterinary Medicine, Hanover, Germany.
+(9)Department of Infection Prevention and Control, Ministry of National Guard 
+Health Affairs, Riyadh, Saudi Arabia.
+(10)Infection Control Program, Geneva University Hospitals and Faculty of 
+Medicine, Geneva, Switzerland.
+(11)Department of Clinical Microbiology, Central Hospital, Växjö, Sweden.
+(12)Centre for Epidemiology and Surveillance of Infectious Disease Control, 
+National Institute for Public Health and the Environment, Bilthoven, Kingdom of 
+the Netherlands.
+
+Antimicrobial resistance remains one of the most pressing threats to health 
+globally, with inappropriate antimicrobial use and inequitable access to 
+quality-assured medicines compounding the challenge. In 2015, the World Health 
+Organization (WHO) launched the Global Antimicrobial Resistance Surveillance 
+System to strengthen global surveillance and provide data to inform responses. 
+In support, in 2016 WHO established the AMR Surveillance and Quality Assessment 
+Collaborating Centres Network, a global group of expert institutions that 
+provide technical support and help WHO Member States build surveillance 
+capacity. Between 2016 and 2025, the Network expanded from 18 to 36 institutions 
+across 20 countries and its technical scope has grown to cover antimicrobial use 
+surveillance, emerging antimicrobial resistance, fungal antimicrobial resistance 
+and national action plans. This paper presents a process evaluation of the 
+network, focusing on its development between 2016 and 2025, its contribution to 
+tackling antimicrobial resistance and the challenges faced. Information from 
+documentation and structured interviews indicate that the network played a 
+central role in developing surveillance standards, strengthening laboratory and 
+epidemiology capacity, and helping countries implement surveillance. Challenges 
+persist: network representation is uneven across geographical regions, 
+coordination of resources is limited, and the network's impact is incompletely 
+documented. To maximize its potential, the network must improve output tracking, 
+expand membership from low- and middle-income countries and create subnetworks 
+for specific topics and regions. The analysis offers lessons on how WHO 
+collaborating centre networks can serve as strategic enablers of actions on 
+global health, provided they are adequately supported and integrated into 
+broader implementation frameworks.
+
+Publisher: La résistance aux antimicrobiens (RAM) reste l’une des menaces les 
+plus préoccupantes pour la santé mondiale, et l’utilisation inappropriée des 
+antimicrobiens ainsi que l’accès inégal à des médicaments de qualité garantie 
+aggravent encore le problème. En 2015, l’Organisation mondiale de la Santé (OMS) 
+a lancé le Système mondial de surveillance de la résistance aux antimicrobiens 
+afin de renforcer la surveillance mondiale et de fournir des données pour 
+éclairer les procédures de réaction à ce problème. À cet effet, l’OMS a créé 
+en 2016 le Réseau de centres collaborateurs pour la surveillance et l’évaluation 
+de la qualité de la RAM, un groupe mondial d’institutions expertes qui 
+fournissent un soutien technique et aident les États membres de l’OMS à 
+renforcer leurs capacités de surveillance. Entre 2016 et 2025, ce réseau est 
+passé de 18 à 36 institutions dans 20 pays, et son champ d’action technique 
+s’est élargi pour couvrir la surveillance de l’utilisation des antimicrobiens, 
+la résistance émergente aux antimicrobiens, la résistance fongique aux 
+antimicrobiens et les plans d’action nationaux. Cet article présente une 
+évaluation du processus du réseau, en mettant l’accent sur son évolution 
+entre 2016 et 2025, sa contribution à la lutte contre la résistance aux 
+antimicrobiens et les défis rencontrés. Les informations issues de la 
+documentation et des entretiens structurés indiquent que le réseau a joué un 
+rôle central dans l’élaboration de normes de surveillance, le renforcement des 
+capacités des laboratoires et de l’épidémiologie et l’aide apportée aux pays 
+pour mettre en œuvre la surveillance. Des défis persistent toutefois: la 
+représentation du réseau est inégale entre les régions géographiques, la 
+coordination des ressources est limitée et l’impact du réseau n’est pas 
+entièrement documenté. Pour maximiser son potentiel, le réseau doit améliorer le 
+suivi des résultats, élargir sa composition aux pays à revenu faible et 
+intermédiaire et créer des sous-réseaux pour des thèmes et régions spécifiques. 
+L’analyse offre des enseignements sur la manière dont les réseaux de centres 
+collaborateurs de l’OMS servent de catalyseurs stratégiques pour les actions en 
+matière de santé mondiale, à condition qu’ils soient suffisamment soutenus et 
+intégrés dans des cadres de mise en œuvre plus larges.
+
+Publisher: La resistencia a los antimicrobianos (RAM) sigue siendo una de las 
+amenazas más apremiantes para la salud a nivel mundial. Además, el uso 
+inadecuado de antimicrobianos y el acceso inequitativo a medicamentos con 
+garantía de calidad agravan el desafío. En 2015, la Organización Mundial de la 
+Salud (OMS) puso en marcha el Sistema Mundial de Vigilancia de la Resistencia a 
+los Antimicrobianos para reforzar la vigilancia mundial y proporcionar datos que 
+orienten las respuestas. Como apoyo, en 2016 la OMS estableció la Red de Centros 
+Colaboradores para la Vigilancia de la RAM y la Evaluación de la Calidad, un 
+grupo mundial de instituciones expertas que brindan apoyo técnico y ayudan a los 
+Estados Miembros de la OMS a fortalecer la capacidad de vigilancia. Entre 2016 y 
+2025, la Red se amplió de 18 a 36 instituciones en 20 países, y su alcance 
+técnico se extendió para abarcar la vigilancia del uso de antimicrobianos, la 
+resistencia emergente a los antimicrobianos, la resistencia a los 
+antimicrobianos en hongos y los planes de acción nacionales. En este artículo, 
+se presenta una evaluación de procesos de la red, centrada en su desarrollo 
+entre 2016 y 2025, su contribución para abordar la resistencia a los 
+antimicrobianos y los desafíos enfrentados. La información procedente de la 
+documentación y de entrevistas estructuradas indica que la red desempeñó un rol 
+central en el desarrollo de normas de vigilancia, el fortalecimiento de la 
+capacidad de laboratorio y epidemiología, y el apoyo a los países para 
+implementar la vigilancia. Persisten desafíos: la representación de la red es 
+desigual entre regiones geográficas, la coordinación de recursos es limitada y 
+el impacto de la red está documentado de manera incompleta. Para maximizar su 
+potencial, la red debe mejorar el seguimiento de productos, ampliar la membresía 
+de países de ingresos bajos y medios y crear subredes para temas y regiones 
+específicos. El análisis ofrece lecciones sobre cómo las redes de centros 
+colaboradores de la OMS pueden actuar como habilitadores estratégicos de 
+acciones en salud mundial, siempre que cuenten con el apoyo adecuado y se 
+integren en marcos de implementación más amplios.
+
+Publisher: لا تزال مقاومة مضادات الميكروبات تُشكل أحد أخطر التهديدات الصحية على 
+مستوى العالم، حيث أن الاستخدام غير المناسب لمضادات الميكروبات، وعدم المساواة في 
+الحصول على الأدوية مضمونة الجودة، يؤديان لمضاعفة هذا التحدي. في عام 2015، أطلقت 
+منظمة الصحة العالمية النظام العالمي لمراقبة مقاومة مضادات الميكروبات، بهدف تعزيز 
+المراقبة العالمية وتوفير البيانات اللازمة لتوجيه الاستجابات. ودعمًا لذلك، أنشأت 
+منظمة الصحة العالمية في عام 2016 شبكة المراكز المتعاونة لمراقبة مقاومة مضادات 
+الميكروبات وتقييم الجودة، وهي مجموعة عالمية من المؤسسات ذات الخبرة التي تُقدم 
+الدعم الفني وتُساعد الدول الأعضاء في منظمة الصحة العالمية على بناء قدراتها في 
+مجال المراقبة. بين عامي 2016 و2025، توسعت الشبكة من 18 إلى 36 مؤسسة في 20 دولة، 
+وتوسع نطاقها الفني ليشمل مراقبة استخدام مضادات الميكروبات، وظهور مقاومة جديدة 
+لها، ومقاومة مضادات الميكروبات الفطرية لها، وخطط العمل الوطنية. تقدم هذه الورقة 
+تقييمًا إجرائيًا للشبكة، مع التركيز على تطورها بين عامي 2016 و2025، ومساهمتها في 
+التصدي لمقاومة مضادات الميكروبات، والتحديات التي واجهتها. تشير المعلومات من 
+الوثائق والمقابلات الشخصية المنظمة إلى أن الشبكة لعبت دورًا محوريًا في وضع 
+معايير المراقبة، وتعزيز القدرات المختبرية والوبائية، ومساعدة الدول على تطبيق 
+المراقبة. ولا تزال هناك تحديات قائمة: فالتمثيل الشبكي غير متعادل بين المناطق 
+الجغرافية، وتنسيق الموارد محدود، وتأثير الشبكة غير موثق بشكل كامل. ولتحقيق أقصى 
+استفادة من إمكاناتها، يجب على الشبكة تحسين تتبع المخرجات، وتوسيع عضويتها لتشمل 
+الدول ذات الدخل المنخفض والدخل المتوسط، وإنشاء شبكات فرعية لمواضيع ومناطق محددة. 
+يقدم التحليل دروسًا حول كيفية مساهمة شبكات المراكز المتعاونة مع منظمة الصحة 
+العالمية، في تمكين الإجراءات المتعلقة بالصحة العالمية بشكل استراتيجي، شريطة أن 
+تحظى بالدعم الكافي وأن تتكامل في أطر أكثر وسعًا للتنفيذ.
+
+Publisher: 
+抗微生物药物耐药性仍然是全球最紧迫的健康威胁之一，而抗微生物药物的不合理使用及有质量保证的药品的获取机会不均等进一步加大了此类挑战。世卫组织 (WHO) 于 
+2015 年启动了全球抗微生物药物耐药性监测系统，以加强全球监测并为制定应对措施提供数据支持。为了提供支持，通过汇集全球众多专家机构的力量，世卫组织于 
+2016 年设立了抗微生物药物耐药性 (AMR) 监测和质量评估合作中心网络，以提供技术支持和帮助世卫组织成员国建设监测能力。在 
+2016-2025 年期间，该网络从原先的 18 个机构扩展至遍及 20 个国家的 
+36 个机构，且其技术范畴也已扩大至涵盖抗微生物药物使用监测、新发抗微生物药物耐药性、真菌类抗微生物药物耐药性和国家行动计划。本文开展了针对该网络的过程评估，重点分析该网络在 
+2016-2025 年期间的发展情况、该网络在应对抗微生物药物耐药性问题方面的贡献及其所面临的各类挑战。从文件资料和结构化访谈中提取的信息表明，该网络在制定监测标准、提升实验室和流行病学能力并帮助各国落地监测工作方面发挥了核心作用。目前该网络仍面临诸多挑战：各区域的网络布局不均；资源协调能力有限；且网络的实际成效尚未形成完整记录。为了最大程度地发挥其潜能，该网络必须完善成果追踪机制、吸纳中低收入国家的机构以扩大成员规模并针对特定主题和区域设立分支网络。本次分析表明了世卫组织合作中心网络如何能够成为全球卫生行动的战略性赋能者——只要获得足够的支持并融入范围更广的实施框架之中。.
+
+Publisher: Устойчивость к антимикробным препаратам является одной из наиболее 
+серьезных угроз всемирному здравоохранению, при этом тяжесть проблемы 
+усугубляется нерациональным использованием антимикробных препаратов и неравным 
+доступом к качественным лекарственным средствам. В 2015 году Всемирная 
+организация здравоохранения (ВОЗ) ввела в действие глобальную систему 
+эпиднадзора за устойчивостью к антимикробным препаратам, чтобы укрепить 
+глобальный эпиднадзор и обеспечить сбор данных для информированного 
+реагирования. В качестве поддержки этой инициативы в 2016 году ВОЗ основала сеть 
+сотрудничающих центров по эпиднадзору за устойчивостью к антимикробным 
+препаратам (УПП) и оценке качества – международную группу специализированных 
+учреждений, которые обеспечивают техническую поддержку и помогают 
+государствам-членам ВОЗ наращивать потенциал надзорной структуры. В период 
+с 2016 по 2025 год эта сеть расширилась с 18 до 36 учреждений в 20 странах. Ее 
+технические возможности выросли и охватывают теперь надзор за использованием 
+антимикробных препаратов, вновь возникающей устойчивостью к антимикробным 
+препаратам и противогрибковым препаратам, а также отслеживание национальных 
+планов действия. В данной статье представлена оценка процесса деятельности сети 
+с особым вниманием к развитию в период между 2016 и 2025 годами, описан ее вклад 
+в борьбу с устойчивостью к антимикробным препаратам и проблемы, с которыми 
+пришлось столкнуться. Данные, полученные из документации и структурированных 
+интервью, свидетельствуют о том, что сеть играла центральную роль в разработке 
+стандартов надзора, укреплении лабораторного и эпидемиологического потенциала, а 
+также в оказании помощи странам во внедрении систем надзора. Сохраняются, 
+однако, и проблемы: представленность сети неравномерна по географическим 
+регионам, координация ресурсов ограничена, а влияние сети задокументировано не в 
+полной мере. Для максимального раскрытия своего потенциала сети необходимо 
+улучшить отслеживание результатов деятельности, расширить участие стран с низким 
+и средним уровнем дохода, а также создать подсети по отдельным тематическим 
+направлениям и регионам. Анализ предлагает выводы о том, каким образом сети 
+сотрудничающих центров ВОЗ могут выступать в роли стратегических факторов, 
+способствующих действиям в области глобального здравоохранения, при условии их 
+надлежащей поддержки и интеграции в более широкие рамки реализации.
+
+(c) 2026 The authors; licensee World Health Organization.
+
+DOI: 10.2471/BLT.25.294384
+PMCID: PMC13037244
+PMID: 41924339 [Indexed for MEDLINE]

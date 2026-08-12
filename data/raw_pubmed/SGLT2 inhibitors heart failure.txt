@@ -1,0 +1,773 @@
+1. Circulation. 2025 Nov 18;152(20):1411-1422. doi: 
+10.1161/CIRCULATIONAHA.125.076575. Epub 2025 Aug 29.
+
+Dapagliflozin in Patients Hospitalized for Heart Failure: Primary Results of the 
+DAPA ACT HF-TIMI 68 Randomized Clinical Trial and Meta-Analysis of 
+Sodium-Glucose Cotransporter-2 Inhibitors in Patients Hospitalized for Heart 
+Failure.
+
+Berg DD(1)(2), Patel SM(1)(2), Haller PM(1)(2)(3), Cange AL(1)(2), Palazzolo 
+MG(1)(2), Bellavia A(1)(2), Kuder JF(1)(2), Desai AS(2), Inzucchi SE(4), 
+McMurray JJV(5), O'Meara E(6), Verma S(7), Bělohlávek J(8)(9), Drożdż J(10), 
+Merkely B(11), Ogunniyi MO(12), Drasnar T(13), Izzo JL(14), Sarman B(15), 
+McGinty JE(16), Ramanathan K(17), Mulkay AJ(18), Przybylski A(19), Ruff 
+CT(1)(2), O'Donoghue ML(1)(2), Murphy SA(1)(2), Sabatine MS(#)(1)(2), Wiviott 
+SD(#)(2)(20); DAPA ACT HF-TIMI 68 Trial Committees and Investigators.
+
+Author information:
+(1)TIMI Study Group, Brigham and Women's Hospital, Boston, MA (D.D.B., S.M.P., 
+P.M.H., A.L.C., M.G.P., A.B., J.F.K., C.T.R., M.L.O., S.A.M., M.S.S.).
+(2)Cardiovascular Division, Department of Medicine, Brigham and Women's 
+Hospital, Harvard Medical School, Boston, MA (D.D.B., S.M.P., P.M.H., A.L.C., 
+M.G.P., A.B., J.F.K., A.S.D., C.T.R., M.L.O., S.A.M., M.S.S., S.D.W.).
+(3)Department of Cardiology, University Medical Center Hamburg-Eppendorf, 
+Hamburg, Germany (P.M.H.).
+(4)Section of Endocrinology, Yale University School of Medicine, New Haven, CT 
+(S.E.I.).
+(5)British Heart Foundation Cardiovascular Research Centre, University of 
+Glasgow, Glasgow, Scotland, United Kingdom (J.J.V.M.).
+(6)Department of Cardiology, Université de Montréal, Montreal, Canada (E.O.).
+(7)Division of Cardiac Surgery, Li Ka Shing Knowledge Institute of St. Michael's 
+Hospital, Unity Health Toronto, University of Toronto, Toronto, Canada (S.V.).
+(8)Second Department of Internal Medicine, Cardiovascular Medicine, General 
+University Hospital and First Faculty of Medicine, Charles University, Prague, 
+Czech Republic (J.B.).
+(9)Institute for Heart Diseases, Wroclaw Medical University, Wrocław, Poland 
+(J.B.).
+(10)Department of Cardiology, Medical University of Lodz, Lodz, Poland (J.D.).
+(11)Heart and Vascular Center, Semmelweis University, Budapest, Hungary (B.M.).
+(12)Department of Medicine, Emory University School of Medicine, Atlanta, GA 
+(M.O.O.).
+(13)Slaný Municipal Hospital, Slaný, Czech Republic (T.D.).
+(14)Jacobs School of Medicine, University at Buffalo, Erie County Medical 
+Center, Buffalo, NY (J.L.I.).
+(15)Department of Cardiology, Uzsoki Hospital, Budapest, Hungary (B.S.).
+(16)Reid Health, Reid Physician Associates, Richmond, IN (J.E.M.).
+(17)Department of Medicine, St Paul's Hospital and the University of British 
+Columbia, Vancouver, BC, Canada (K.R.).
+(18)Holy Name Medical Center, Teaneck, NJ (A.J.M.).
+(19)Kliniczny Szpital Wojewódzki nr 2 im. Św. Jadwigi Królowej w Rzeszowie; 
+Kolegium Nauk Medycznych Uniwersytet Rzeszowski, Rzeszów, Poland (A.P.).
+(20)Late-Stage Development, Cardiovascular, Renal and Metabolism 
+BioPharmaceuticals Research and Development, AstraZeneca, Boston, MA (S.D.W.).
+(#)Contributed equally
+
+BACKGROUND: SGLT2 (sodium-glucose cotransporter-2) inhibitors reduce the risk of 
+cardiovascular death or worsening heart failure (HF) in outpatients with HF. 
+Data on initiation in patients hospitalized for HF are limited.
+METHODS: We conducted a randomized, double-blind, placebo-controlled trial 
+evaluating the efficacy and safety of in-hospital initiation of dapagliflozin 
+(10 mg daily) in patients hospitalized for HF. The primary efficacy outcome was 
+a composite of time to cardiovascular death or worsening HF through 2 months. 
+Key safety outcomes included symptomatic hypotension and worsening kidney 
+function. A prespecified meta-analysis of randomized trials evaluating 
+initiation of SGLT2 inhibitors in patients hospitalized for HF was performed.
+RESULTS: Of 2401 patients (median age, 69 [Q1-Q3, 58-77] years, 815 [33.9%] 
+women, 448 [18.7%] Black race, 1717 [71.5%] left ventricular ejection fraction 
+≤40%, 1074 [44.7%] newly diagnosed HF) randomized between September 2020 and 
+March 2025, 1218 were assigned to dapagliflozin and 1183 to placebo. The primary 
+outcome occurred in 133 patients (10.9%) in the dapagliflozin group and 150 
+(12.7%) in the placebo group (hazard ratio [HR], 0.86 [95% CI, 0.68-1.08]; 
+P=0.20). A worsening HF event occurred in 115 (9.4%) and 122 (10.3%) patients in 
+the dapagliflozin and placebo groups, respectively (HR, 0.91 [95% CI, 
+0.71-1.18]). Cardiovascular death occurred in 30 (2.5%) and 37 (3.1%) patients 
+(HR, 0.78 [95% CI, 0.48-1.27]), and death from any cause occurred in 36 (3.0%) 
+and 53 (4.5%) patients in the dapagliflozin and placebo groups, respectively 
+(HR, 0.66 [95% CI, 0.43-1.00]). The rates of symptomatic hypotension were 3.6% 
+and 2.2%, and the rates of worsening kidney function were 5.9% and 4.7% with 
+dapagliflozin and placebo, respectively. In a meta-analysis of patients 
+hospitalized for HF, SGLT2 inhibitors reduced the early risk of cardiovascular 
+death or worsening HF (HR, 0.71 [95% CI, 0.54-0.93] P=0.012) and of all-cause 
+death (HR, 0.57 [95% CI, 0.41-0.80]; P=0.001).
+CONCLUSIONS: In this trial, in-hospital initiation of dapagliflozin did not 
+significantly reduce the risk of cardiovascular death or worsening HF through 2 
+months in hospitalized HF patients. However, the totality of randomized clinical 
+trial data suggests that in-hospital initiation of SGLT2 inhibitors may reduce 
+the early risk of cardiovascular death or worsening HF and of all-cause 
+mortality.
+REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: 
+NCT04363697.
+
+DOI: 10.1161/CIRCULATIONAHA.125.076575
+PMCID: PMC12910484
+PMID: 40884036 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr Berg, Dr Patel, Dr Haller, Ms Cange, Mr 
+Palazzolo, Dr Bellavia, Ms Kuder, Dr Ruff, Dr O’Donoghue, Ms Murphy, and Dr 
+Sabatine are members of the TIMI Study Group, which has received institutional 
+research grant support through Brigham and Women’s Hospital from Abbott; 
+Abiomed, Inc; Amgen; Anthos Therapeutics; ARCA Biopharma, Inc; AstraZeneca; 
+Boehringer Ingelheim; Cleerly, Inc; Daiichi-Sankyo; Ionis Pharmaceuticals, Inc; 
+Janssen Research and Development, LLC; MedImmune; Merck; Novartis; Pfizer; 
+Regeneron Pharmaceuticals, Inc; Roche; Saghmos Therapeutics, Inc; Softcell 
+Medical Limited; The Medicines Company; Verve Therapeutics, Inc; and Zora 
+Biosciences. Dr Berg has received institutional research grant support through 
+Brigham and Women’s Hospital from AstraZeneca, Merck, and Pfizer; consulting 
+fees from AstraZeneca, Pfizer, Mobility Bio, and Youngene Therapeutics; and 
+honoraria from the Metabolic Endocrine Education Foundation, Pri-Med, and USV 
+Private Limited and has served on clinical end point committees for studies 
+sponsored by Beckman Coulter, CeleCor Therapeutics, Kowa Pharmaceuticals, Novo 
+Nordisk, and Tosoh Biosciences. Dr Patel is supported by a K12TR004381 award 
+through Harvard Catalyst, The Harvard Clinical and Translational Science Center 
+(National Center for Advancing Translational Sciences, National Institutes of 
+Health), and has received consultant advisory fees from Janssen. Dr Haller is 
+funded by the Deutsche Forschungsgemeinschaft (German Research Foundation, 
+10086/1-1) and has received travel grants from the German Center of 
+Cardiovascular Research and project grants from the German Heart Foundation. Dr 
+Bellavia has received consultancy fees from Arboretum LifeSciences and 
+MarvelBiome and honoraria from Columbia University and BioEpiEdu. Dr Desai has 
+received institutional research grants from Abbott, Alnylam Pharmaceuticals, 
+AstraZeneca, Bayer, Novartis, and Pfizer and personal consulting fees from 
+Abbott, Alnylam Pharmaceuticals, AstraZeneca, Bayer, Biofourmis, Boston 
+Scientific, Endotronix, GlaxoSmithKline, iRhythm Technologies, Medpace, 
+Medtronic, Merck, Novartis, Parexel, Porter Health, Regeneron, River 2 Renal, 
+Roche, Veristat, Verily, and Zydus. Dr Inzucchi has received honoraria for 
+consulting or clinical trial committee work from AstraZeneca, Boehringer 
+Ingelheim, Corcept, Novo Nordisk, Pfizer, and Bayer and has given lectures 
+sponsored by AstraZeneca and Boehringer Ingelheim. Dr McMurray has received 
+payments to Glasgow University for clinical trials and other research projects 
+from the National Institutes of Health National Heart, Lung, and Blood 
+Institute, AstraZeneca, Bayer, Cardurion, Cytokinetics, Novartis, and Roche; 
+personal consultancy fees from AnaCardio, AstraZeneca, Bayer, Cardurion, 
+Cytokinetics, Novartis, River BioMedics, Biohaven Pharmaceuticals, RyCarma 
+Therapeutics, Inc, Regeneron, and DalCor Pharmaceuticals; and personal lecture 
+fees from Alkem Metabolics, AstraZeneca, Canadian Medical and Surgical Knowledge 
+Translation Research Group, Centrix Healthcare, Emcure Pharmaceuticals, Eris 
+Lifesciences, Hikma Pharmaceuticals, Imagica Health, Intas Pharmaceuticals, J.B. 
+Chemicals and Pharmaceuticals, Lupin Pharmaceuticals, ProAdWise Communications, 
+Radcliffe Cardiology, Sun Pharmaceuticals, Translational Medicine Academy, and 
+Hilton Pharmaceuticals. He serves on the data safety monitoring board of WCG 
+Clinical Services, and he is a director at Global Clinical Trial Partners (which 
+provides clinical trial services such as end point committees and educational 
+programs). Dr O’Meara holds the Montreal Heart Institute Carolyn and Richard J. 
+Renaud chair for research in heart failure, with fees paid through her 
+institution for this chair and fora Canadian Heart Function Alliance team grant, 
+funded by the Canadian Institutes of Health Research (steering committee 
+member), and involvement as a steering committee member for DAPA ACT HF-TIMI 68 
+(TIMI Study Group and AstraZeneca), GARDEN-TIMI 74 (TIMI Study Group and 
+Pfizer), HEART-FID (American Regent), CARDINAL-HF (Cardurion), HERMES (National 
+Lead Investigator, Novo Nordisk), and BalancedD-HF (NLI, AstraZeneca). She has 
+received consulting fees from AstraZeneca, Boehringer Ingelheim, Bayer, 
+Novartis, and Novo Nordisk and speaker fees from AstraZeneca, Boehringer 
+Ingelheim, GlaxoSmithKline, Novartis, Novo Nordisk, and Pfizer. Dr Verma has 
+received research grants or speaking honoraria from Amarin, Amgen, AstraZeneca, 
+Bayer, Boehringer Ingelheim, the Canadian Medical and Surgical Knowledge 
+Translation Research Group, Eli Lilly, HLS Therapeutics, Janssen, Novartis, Novo 
+Nordisk, Pfizer, PhaseBio, S&L Solutions Event Management, and Sanofi. Dr 
+Bělohlávek has received lecture honoraria from Novartis, AstraZeneca, Boehringer 
+Ingelheim, Getinge, Abiomed, and Resuscitec. Dr Drożdż has received research 
+grants from AstraZeneca and lecture fees from Celon Pharma, Merck, Novo Nordisk, 
+and Servier Poland. Dr Merkely has received payments for lectures or studies 
+from Boehringer Ingelheim, Daiichi Sankyo, the Duke Clinical Research Institute, 
+and Novartis and reports grants through his institution from Biotronik, 
+Boehringer Ingelheim, the Duke Clinical Research Institute, Eli Lilly, and 
+Novartis. Dr Ogunniyi has received institutional research grant support from 
+AstraZeneca and Pfizer and serves on a clinical trial steering committee for 
+Novartis. Dr Izzo reports payments from AstraZeneca, Cardurion, Mineralys, and 
+Brigham and Women’s Hospital. Dr Ruff has received research grant support 
+through his institution from Anthos, AstraZeneca, Daiichi Sankyo, Janssen, and 
+Novartis and honoraria for scientific advisory boards and consulting from 
+Anthos, Bayer, Bristol Myers Squibb, Daiichi Sankyo, Janssen, and Pfizer. Dr 
+O’Donoghue reports grants to the TIMI Study Group through her institution from 
+Amgen, AstraZeneca, Novartis, Merck, and Janssen Medicines Company; consulting 
+or DSMB fees from Amgen, Novartis, Janssen, AstraZeneca, and CRICO; and 
+honoraria from Medscape Cardiology. Dr Sabatine has received research grant 
+support through Brigham and Women’s Hospital from Abbott; Amgen; Anthos 
+Therapeutics, Inc; AstraZeneca; Boehringer Ingelheim; Daiichi-Sankyo; Ionis; 
+Marea; Merck; Novartis; Pfizer; Saghmos Therapeutics; and Verve Therapeutics and 
+consulting fees from Amgen; AMPEL BioSolutions; Anthos Therapeutics, Inc; 
+AstraZeneca; Beren Therapeutics; Boehringer Ingelheim; CCRN; Dr Reddy’s 
+Laboratories; General Medicines; Merck; NATF; Novo Nordisk; and Precision 
+BioSciences. Dr Wiviott has received research grants from Amgen, AstraZeneca, 
+Janssen, Merck, and Pfizer; consulting fees from Icon, Novo Nordisk, and Verian; 
+and speaking honoraria from Harvard Medical School. As of June 16, 2025, Dr 
+Wiviott is employed by AstraZeneca. Dr Wiviott’s wife, Dr Caroline Fox, has been 
+employed by Vertex Pharmaceuticals and Pfizer.
+
+
+2. JAMA. 2026 Jan 20;335(3):233-244. doi: 10.1001/jama.2025.20834.
+
+SGLT2 Inhibitors and Kidney Outcomes by Glomerular Filtration Rate and 
+Albuminuria: A Meta-Analysis.
+
+Neuen BL(1)(2), Fletcher RA(1)(3), Anker SD(4), Bhatt DL(5), Butler J(6), 
+Cherney DZI(7), Docherty KF(8), Inzucchi SE(9), Jardine MJ(10), Mahaffey KW(11), 
+McCausland FR(12), McGuire DK(13), McMurray JJV(8), Neal B(1)(14), Packer 
+M(14)(15), Patel SM(16), Perkovic V(1), Sabatine MS(16), Sardell RJ(17), Solomon 
+SD(12), Vaduganathan M(12), Wanner C(17)(18), Wheeler DC(19), Zannad F(20), 
+Haynes R(17)(21), Staplin N(17), Herrington WG(17)(21), Heerspink HJL(1)(22); 
+SGLT2 Inhibitor Meta-Analysis Cardio-Renal Trialists’ Consortium (SMART-C).
+
+Collaborators: Neuen BL, Heerspink HJ, Anker SD, Bhatt DL, Butler J, Cherney DZ, 
+Docherty KF, Hernandez AF, Herrington WG, Inzucchi SE, James S, Jardine MJ, 
+Mahaffey KW, McGuire DK, McMurray JJ, Neal B, Packer M, Patel SM, Perkovic V, 
+Sabatine MS, Staplin N, Solomon SD, Vaduganathan M, Wanner C, Wheeler DC, Zannad 
+F.
+
+Author information:
+(1)The George Institute for Global Health, University of New South Wales, 
+Sydney, New South Wales, Australia.
+(2)Department of Renal Medicine, Royal North Shore Hospital, Sydney, New South 
+Wales, Australia.
+(3)Department of Public Health and Primary Care, British Heart Foundation 
+Cardiovascular Epidemiology Unit and Victor Phillip Dahdaleh Heart and Lung 
+Research Institute, University of Cambridge, Cambridge, United Kingdom.
+(4)Department of Cardiology (CVK) of German Heart Center Charité, Institute of 
+Health Center for Regenerative Therapies (BCRT), German Centre for 
+Cardiovascular Research (DZHK) partner site Berlin, Charité Universitätsmedizin, 
+Berlin, Germany.
+(5)Mount Sinai Heart, New York, New York.
+(6)Baylor Scott and White Research Institute, Temple, Texas.
+(7)Toronto General Research Institute, University Health Network, University of 
+Toronto, Toronto, Ontario, Canada.
+(8)School of Cardiovascular and Metabolic Health, University of Glasgow, 
+Glasgow, United Kingdom.
+(9)Yale University School of Medicine, New Haven, Connecticut.
+(10)NHMRC Clinical Trials Centre, University of Sydney, Sydney, New South Wales, 
+Australia.
+(11)Stanford Center for Clinical Research, Department of Medicine, Stanford 
+University, Stanford, California.
+(12)Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts.
+(13)University of Texas Southwestern Medical Center, Dallas.
+(14)Imperial College London, London, United Kingdom.
+(15)Baylor University Medical Center, Dallas, Texas.
+(16)TIMI Study Group, Division of Cardiovascular Medicine, Brigham and Women's 
+Hospital, Harvard Medical School, Boston, Massachusetts.
+(17)Renal Studies Group, Clinical Trial Service Unit and Epidemiological Studies 
+Unit, Nuffield Department of Population Health (NDPH), University of Oxford, 
+Oxford, United Kingdom.
+(18)University Hospital of Würzburg, Würzburg, Germany.
+(19)Department of Renal Medicine, University College London, London, United 
+Kingdom.
+(20)Université de Lorraine, Inserm and CHRU de Nancy, Vandœuvre-lès-Nancy, 
+France.
+(21)Oxford Kidney Unit, Oxford University Hospitals NHS Foundation Trust, 
+Oxford, United Kingdom.
+(22)Department of Clinical Pharmacy and Pharmacology, University Medical Center 
+Groningen, Groningen, the Netherlands.
+
+Comment in
+    JAMA. 2026 Jan 20;335(3):217-219. doi: 10.1001/jama.2025.21336.
+
+IMPORTANCE: Sodium-glucose cotransporter 2 (SGLT2) inhibitors reduce chronic 
+kidney disease (CKD) progression in individuals with type 2 diabetes, CKD, or 
+heart failure. However, their effects in those with stage 4 CKD or little to no 
+albuminuria remain uncertain.
+OBJECTIVE: To assess whether estimated glomerular filtration rate (eGFR) or 
+degree of albuminuria, measured by urinary albumin to creatinine ratio (UACR), 
+modifies the effects of SGLT2 inhibitors on kidney outcomes.
+DATA SOURCES: SGLT2 inhibitor trials participating in the SGLT2 Inhibitor 
+Meta-Analysis Cardio-Renal Trialists' Consortium (SMART-C).
+STUDY SELECTION: Randomized, double-blind, placebo-controlled trials within 
+SMART-C evaluating an SGLT2 inhibitor with label indications for reducing CKD 
+progression including at least 500 participants in each group with at least 6 
+months of follow-up.
+DATA EXTRACTION AND SYNTHESIS: Treatment effects in individual trials were 
+pooled using inverse variance-weighted meta-analysis.
+MAIN OUTCOMES AND MEASURES: CKD progression, defined as kidney failure, at least 
+50% reduction in eGFR, or death due to kidney failure. Other outcomes included 
+annual rate of eGFR decline and kidney failure.
+RESULTS: Among 70 361 participants (mean [SD] age, 64.8 [8.7] years; 24 595 
+[35.0%] females) in 10 randomized trials, 2314 (3.3%) experienced CKD 
+progression and 988 (1.4%) reached kidney failure. SGLT2 inhibitors reduced the 
+risk of CKD progression (25.4 vs 40.3 events per 1000 patient-years; hazard 
+ratio [HR], 0.62 [95% CI, 0.57-0.68]), irrespective of baseline eGFR (HR of 0.61 
+[95% CI, 0.52-0.71] for eGFR ≥60 mL/min/1.73 m2; 0.57 [95% CI, 0.47-0.70] for 
+eGFR of 45 to <60 mL/min/1.73 m2; 0.64 [95% CI, 0.54-0.75] for eGFR of 30 to <45 
+mL/min/1.73 m2; and 0.71 [95% CI, 0.60-0.83] for eGFR <30 mL/min/1.73 m2; P for 
+trend = .16) and baseline albuminuria (HR of 0.58 [95% CI, 0.44-0.76] for 
+albuminuria ≤30 mg/g; 0.74 [95% CI, 0.57-0.96] for >30-300 mg/g; and 0.57 [95% 
+CI, 0.52-0.64] for more than 300 mg/g; P for trend = .49). Although the 
+magnitude of protection varied, SGLT2 inhibitors reduced the annual rate of eGFR 
+decline across all eGFR and UACR subgroups, including when participants with and 
+without diabetes were analyzed separately. SGLT2 inhibitors also reduced the 
+risk of kidney failure alone (HR, 0.66 [95% CI, 0.58-0.75]).
+CONCLUSIONS AND RELEVANCE: In this meta-analysis, SGLT2 inhibitors were found to 
+lower the risk of CKD progression regardless of baseline eGFR or albuminuria, 
+including in patients with stage 4 CKD or minimal albuminuria, supporting their 
+routine use to improve kidney outcomes across the full spectrum of kidney 
+function among patients with type 2 diabetes, CKD, or heart failure.
+
+DOI: 10.1001/jama.2025.20834
+PMCID: PMC12595549
+PMID: 41203232 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Neuen 
+reported receiving personal fees from AstraZeneca, Alexion, Bayer, Boehringer 
+Ingelheim, Cornerstone Medical Education, Menarini, MJH Life Sciences, Janssen, 
+Limbic, Medscape, Novo Nordisk, Otsuka, Travere, and Vera Therapeutics outside 
+the submitted work. Dr Fletcher reported the receipt of studentship awards from 
+the HDR-UK-Turing Wellcome Programme in Health Data Science. Dr Anker reported 
+receiving grants from Gran CSL/Vifor & Abbott Laboratories and personal fees 
+from Actimed, Alleviant, AstraZeneca, Bayer, Berlin Heals, BiMyo, Boehringer 
+Ingelheim, Brahms, Cardiac Dimensions, Cardior, Cordio, Corvia, CVRx, 
+Cytokinetics, Edwards, Impulse Dynamics, Lilly, Mankind Pharma, Novo Nordisk, 
+Occlutech, Pfizer, Regeneron, Relaxera, Repairon, Scirent, Sensible Medical, 
+Vectorious, Veru, Vivus, and V-Wave outside the submitted work and being named 
+co-inventor of 2 patent applications regarding MR-proANP (DE 102007010834 & DE 
+102007022367) issued to Brahms GmbH. Dr Bhatt reported receiving grants from 
+Lexicon, Boehringer Ingelheim, and AstraZeneca outside the submitted work and 
+having a patent for sotagliflozin pending assigned to Brigham and Women’s 
+Hospital who assigned to Lexicon; and serving on an advisory board for 
+Angiowave, Antlia Bioscience, Bayer, Boehringer Ingelheim, CellProthera, Cereno 
+Scientific, E-Star Biotech, High Enroll, Janssen, Level Ex, McKinsey, Medscape 
+Cardiology, Merck, NirvaMed, Novo Nordisk, Repair Biotechnologies, Stasys, 
+Tourmaline Bio; the board of directors for American Heart Association New York 
+City, Angiowave (stock options), Bristol Myers Squibb (stock), DRS.LINQ (stock 
+options), and High Enroll (stock); consulting for Alnylam, Altimmune, Broadview 
+Ventures, Corcept Therapeutics, Corsera, GlaxoSmithKline, Hims, SERB, SFJ, Summa 
+Therapeutics, and Worldwide Clinical Trials; serving on data and safety 
+monitoring committees for Acesion Pharma, Assistance Publique-Hôpitaux de Paris, 
+Baim Institute for Clinical Research, Boston Scientific (Chair, PEITHO trial), 
+Cleveland Clinic, Contego Medical (Chair, PERFORMANCE 2), Duke Clinical Research 
+Institute, Mayo Clinic, Mount Sinai School of Medicine (for the ABILITY-DM 
+trial, funded by Concept Medical; for ALLAY-HF, funded by Alleviant Medical), 
+Novartis, and Population Health Research Institute; Rutgers University (for the 
+NIH-funded MINT Trial); receiving honoraria from American College of Cardiology 
+(Senior Associate Editor, Clinical Trials and News, ACC.org; Chair, ACC 
+Accreditation Oversight Committee), Arnold and Porter law firm (work related to 
+Sanofi/Bristol Myers Squibb clopidogrel litigation), Baim Institute for Clinical 
+Research (AEGIS-II executive committee funded by CSL Behring), Belvoir 
+Publications (editor in chief, Harvard Heart Letter), Canadian Medical and 
+Surgical Knowledge Translation Research Group (clinical trial steering 
+committees), CSL Behring (AHA lecture), Duke Clinical Research Institute, Engage 
+Health Media, HMP Global (editor in chief, Journal of Invasive Cardiology), 
+Medtelligence/ReachMD (CME steering committees), MJH Life Sciences, Oakstone CME 
+(Course Director, Comprehensive Review of Interventional Cardiology), Philips 
+(Becker’s Webinar on AI), Population Health Research Institute, WebMD (CME 
+steering committees), and Wiley (steering committee); serving as deputy editor 
+of Clinical Cardiology and Progress in Cardiovascular Diseases; being named on a 
+patent for sotagliflozin assigned to Brigham and Women’s Hospital who assigned 
+to Lexicon; receiving research funding from Abbott, Acesion Pharma, Afimmune, 
+Alnylam, Amarin, Amgen, AstraZeneca, Atricure, Bayer, Boehringer Ingelheim, 
+Boston Scientific, CellProthera, Cereno Scientific, Chiesi, Cleerly, CSL 
+Behring, Faraday Pharmaceuticals, Fractyl, Idorsia, Janssen, Javelin, Lexicon, 
+Lilly, Medtronic, Merck, MiRUS, Moderna, Novartis, Novo Nordisk, Pfizer, 
+PhaseBio, Regeneron, Reid Hoffman Foundation, Roche, Sanofi, Stasys, and 89Bio; 
+and receiving royalties from Elsevier. Dr Butler reported receiving personal 
+fees from consulting for Abbott, Adaptyx, American Regent, Amgen, AskBio, 
+AstraZeneca, Bayer, Boehringer Ingelheim, Boston Scientific, Bristol Myers 
+Squibb, Cardiac Dimension, Cardior, CSL Vifor, CVRx, Cytokinetics, Daxor, 
+Diastol, Edwards, Element Sciences, Faraday, Idorsia, Impulse Dynamics, Imbria, 
+Innolife, Intellia, Inventiva, Levator, Lexicon, Eli Lilly, Mankind, Medtronic, 
+Merck, New Amsterdam, Novartis, NovoNordisk, Pfizer, Pharmacosmos, Pharmain, 
+Prolaio, Pulnovo, Regeneron, Renibus, Reprieve, Roche, Rycarma, Saillent, 
+Salamandra, Salubris, SC Pharma, SQ Innovation, Secretome, Sequanna, Transmural, 
+TekkunLev, Tenex, Tricog, Ultromic, Vera, and Zoll outside the submitted work. 
+Dr Cherney reported receiving honoraria from Boehringer Ingelheim-Lilly, Merck, 
+AstraZeneca, Sanofi, Mitsubishi-Tanabe, AbbVie, Janssen, AMGEN, Bayer, Prometic, 
+BMS, Maze, Gilead, CSL-Behring, Otsuka, Novartis, Youngene, Lexicon, Inversago, 
+GSK, Biobridge, Vantage, Altimmune and Novo Nordisk and grants from Boehringer 
+Ingelheim-Lilly, Merck, Janssen, Sanofi, AstraZeneca, CSL-Behring, Lexicon, Novo 
+Nordisk, and Bayer during the conduct of the study and honoraria from Boehringer 
+Ingelheim-Lilly, Merck, AstraZeneca, Sanofi, Mitsubishi-Tanabe, AbbVie, Janssen, 
+AMGEN, Bayer, Prometic, BMS, Maze, Gilead, CSL-Behring, Otsuka, Novartis, 
+Youngene, Lexicon, Inversago, GSK, Biobridge, Vantage, Altimmune, and Novo 
+Nordisk and grants from Boehringer Ingelheim-Lilly, Merck, Janssen, Sanofi, 
+AstraZeneca, CSL-Behring, Lexicon, Novo Nordisk, and Bayer outside the submitted 
+work. Dr Docherty reported being remunerated by AstraZeneca for time spent 
+working on clinical trials, personal fees from Bayer (advisory board fees and 
+clinical end point adjudication committee), other from AstraZeneca (research 
+grant paid to institution), other from Boehringer Ingelheim (research grant paid 
+to institution), other from Roche Diagnostics (research grant paid to 
+institution), personal fees from Abbott (advisory board fees), other from FIRE-1 
+(member of clinical trial committee), personal fees from AstraZeneca (speaker 
+fees), personal fees from Radcliffe Cardiology (speaker fees), and personal fees 
+from Translational Medicine Academy (speaker fees) outside the submitted work. 
+Dr Inzucchi reported receiving personal fees from Boehringer Ingelheim, 
+AstraZeneca, Novo Nordisk, and Bayer outside the submitted work. Dr Jardine 
+reported being supported by an Australian government National Health and Medical 
+Research Council investigator grant; being responsible for research projects 
+that have received unrestricted funding from Amgen, Baxter, CSL, Eli Lilly, 
+Gambro, and MSD; serving on advisory boards sponsored by Akebia, Astra Zeneca, 
+Baxter, Bayer, Boehringer Ingelheim, Merck Sharp & Dohme, Occuryx, and Vifor; 
+serving on steering committees for trials sponsored by Chinook, CSL, Janssen and 
+Boehringer Ingelheim; receiving funding support for an investigator-initiated 
+trial from Dimerix, Kensana; speaking at scientific meetings sponsored by Amgen, 
+Boehringer Ingelheim, Janssen, Novo Nordisk, Roche, and Vifor; receiving fees 
+for educational activities from Cesas Medical, Medcon International PACE CME, 
+and Medscape; and providing consultancy or receiving honoraria or travel support 
+directed to her institution from Amgen, Baxter, CSL, Eli Lilly, Gambro, and MSD 
+outside the submitted work. Dr Mahaffey reported receiving personal fees from 
+Eli Lilly and Johnson & Johnson and grants from Johnson & Johnson outside the 
+submitted work. Dr McCausland reported receiving research fees from Novartis, 
+Lexicon, AstraZeneca, and NIH paid directly to his institution; consulting fees 
+from Aquapass, GSK, and Zydus Therapeutics; expert witness fees from 
+Rubin-Anders Scientific; travel/speakers fees from Bayer and Global Learning 
+Collaborative; serving on a data and safety monitoring board for AstraZeneca; 
+and spousal consulting fees from Vera Therapeutics and Alexion outside the 
+submitted work. Dr McGuire reported receiving personal fees from Novo Nordisk, 
+Boehringer Ingelheim, AstraZeneca, Lilly, Lexicon, Amgen, Neurotronic, Kailera, 
+Alveus, Regor, Roche Genentech, Amsterdam, Metsera, and Novartis outside the 
+submitted work. Dr McMurray reported receiving payment to Glasgow University 
+from British Heart Foundation, National Institutes of Health/National Heart, 
+Lung, and Blood Institute, AstraZeneca, Bayer, Cardurion, Cytokinetics, 
+Novartis, and Roche Diagnostics; personal fees for consulting from Alynylam 
+Pharmaceuticals, AnaCardio, AstraZeneca, Bayer, Cardurion, Cytokinetics, 
+Novartis, River BioMedics, Biohaven Pharmaceuticals, DalCor Pharmaceuticals; 
+personal lecture fees from Alkem Metabolics, AstraZeneca, Canadian Medical and 
+Surgical Knowledge, Centrix Healthcare, Emcure Pharmaceuticals, Eris 
+Lifesciences, Hikma Pharmaceuticals, Imagica Health, Intas Pharmaceuticals, J.B. 
+Chemicals & Pharmaceuticals, Lupin Pharmaceuticals, Medscape/Heart.Org, 
+ProAdWise Communications, Radcliffe Cardiology, Sun Pharmaceuticals, 
+Translational Medicine Academy, Regeneron, MCI India, Hilton Pharmaceuticals, 
+IMEDIC Pharmaceuticals Micro Labs Ltd, ARMGO Pharmaceuticals; and serving as 
+director of Global Clinical Trial Partners outside the submitted work. Dr Neal 
+reported receiving grants for funding support for the CANVAS and CREDENCE trials 
+from Janssen Pharmaceuticals paid to the institution during the conduct of the 
+study. Dr Packer reported receiving personal fees from 89bio, AbbVie, Actavis, 
+Alnylam, Ardelyx, ARMGO, Attralus, AstraZeneca, Altimmune, Amgen, Biopeutics, 
+Boehringer Ingelheim, Caladrius, Casana, CSL Behring, Cytokinetics, Daiichi 
+Sankyo, Imara, Lilly, Medtronic, Moderna, Novartis, Novo Nordisk, Pharmacosmos, 
+Regeneron, Salamandra, and V-Wave outside the submitted work. Dr Patel reported 
+receiving grants from AstraZeneca for statistical support during the conduct of 
+the study and grants from Anthos Therapeutics/Novartis and grants from Harvard 
+Catalyst/The Harvard Clinical and Translational Science Center (National Center 
+for Advancing Translational Sciences, National Institutes of Health) award 
+(K12TR004381) outside the submitted work; and being a member of the TIMI Study 
+Group, which has received institutional research grant support through Brigham 
+and Women’s Hospital from Abbott, Abiomed, Inc, Amgen, Anthos Therapeutics, ARCA 
+Biopharma Inc, AstraZeneca, Boehringer Ingelheim, Cleerly Inc, Daiichi Sankyo, 
+Ionis Pharmaceuticals Inc, Janssen Research and Development LLC, MedImmune, 
+Merck, Novartis, Pfizer, Regeneron Pharmaceuticals Inc, Roche, Saghmos 
+Therapeutics Inc, Softcell Medical Limited, The Medicines Company, Verve 
+Therapeutics, Inc, and Zora Biosciences. Dr Perkovic reported receiving personal 
+fees from AstraZeneca, Bayer, Biogen, Boehringer Ingelheim, Chinook, 
+GlaxoSmithKline, Guard Therapeutics, Incyte, Janssen, Mineralys, Novo Nordisk, 
+Novartis, Otsuka, Shanxi Micot, Travere, Tricida, and Vifor outside the 
+submitted work. Dr Sabatine reported receiving grants from AstraZeneca to the 
+TIMI Study Group at Brigham and Women’s Hospital and personal fees from 
+AstraZeneca during the conduct of the study and grants to the TIMI Study Group 
+at Brigham and Women’s Hospital from Abbott and Amgen; personal fees from Amgen, 
+AMPEL BioSolutions, Anthos Therapeutics, Beren Therapeutics, CCRN (Canadian CV 
+Research Network), Dr Reddy’s Laboratories, General Medicines, Merck, NATF 
+(North American Thrombosis Forum), Novo Nordisk, and Precision BioSciences and 
+institutional research grants to the TIMI Study Group at Brigham and Women’s 
+Hospital from Anthos Therapeutics, Boehringer Ingelheim, Daiichi Sankyo, IONIS, 
+Marea, Merck, Novartis, Pfizer, Saghmos Therapeutics, and Verve Therapeutics 
+outside the submitted work; and being a member of the TIMI Study Group, which 
+has also received institutional research grant support through Brigham and 
+Women’s Hospital from Abiomed Inc, ARCA Biopharma Inc, Cleerly Inc, Janssen 
+Research and Development LLC, MedImmune, Regeneron Pharmaceuticals Inc, Roche, 
+Softcell Medical Limited, The Medicines Company, and Zora Biosciences. Dr 
+Solomon reported receiving grants from Alexion, Alnylam, Applied Therapeutics, 
+AstraZeneca, Bellerophon, Bayer, BMS, Boston Scientific, Cardior, Cytokinetics, 
+Edgewise, BridgeBio, Gossamer, GSK, Ionis, Lilly, NIH/NHLBI, Novartis, Novo 
+Nordisk, Respicardia, Sanofi Pasteur, Tenaya, Theracos, US2.AI and personal fees 
+from Abbott, Action, Akros, Alexion, Alnylam, Amgen, Arena, Askbio, AstraZeneca, 
+Bayer, BMS, Bridgebio, Cardior, Cardurion, Corvia, Cytokinetics, GSK, Intellia, 
+Lilly, Novartis, Roche, Theracos, Quantum Genomics, Tenaya, Sanofi-Pasteur, 
+Dinaqor, Tremeau, CellProThera, Moderna, American Regent, Sarepta, Lexicon, 
+Anacardio, Akros, Valo, Synhale, and Recordati outside the submitted work. Dr 
+Vaduganathan reported receiving personal fees from Alnylam Pharmaceuticals, 
+American Regent, Amgen, AstraZeneca, Bayer AG, Baxter Healthcare, BMS, 
+Boehringer Ingelheim, Chiesi, Cytokinetics, Esperion, Fresenius Medical Care, 
+Idorsia Pharmaceuticals, Lexicon Pharmaceuticals, Merck, Milestone 
+Pharmaceuticals, Novartis, Novo Nordisk, Pharmacosmos, Recordati, Relypsa, Roche 
+Diagnostics, Sanofi, and Tricog Health for serving as a consultant or advisory 
+board member and personal fees from Amgen, AstraZeneca, Bayer AG, Boehringer 
+Ingelheim, Galmed, Impulse Dynamics, Novartis, Occlutech, and Pharmacosmos for 
+serving on clinical trial committees outside the submitted work. Dr Wanner 
+reported receiving personal fees from companies similar to the companion SMART-C 
+paper during the conduct of the study. Dr Wheeler reported receiving 
+nonfinancial support from AstraZeneca and Boehringer Ingelheim Travel during the 
+conduct of the study and personal fees from Bayer, CSL, GSK, Menarini, Pathalys, 
+ProKidney, Purespring, Merck, Vifor, Medice, and Vertex outside the submitted 
+work. Dr Zannad reported receiving personal fees from Boehringer during the 
+conduct of the study and personal fees from Acceleron, Alnylam, Bayer, 
+Biopeutics, Boehringer, Cambrian, Cellprothera, Centrix, Cereno pharmaceutical, 
+Corteria, CRISPR Therapeutics, CVRx, CVCT, Daiichi Sankyo, Eshmoun, eSpace, 
+G3Pharmaceutical, Inventiva, HighTide, KBP, Lilly, Lupin, Merck, NovoNordisk, 
+Opalia Recordati, Otsuka, Owkin, Polygon, Ribocure, Roche, Viatris, and 
+Vivek-India outside the submitted work and Equities in G3Pharmaceutical, Cereno 
+pharmaceutical, and Eshmoun. Dr Haynes reported receiving grants to the 
+institution from Boehringer Ingelheim and Lilly To institution during the 
+conduct of the study. Dr Staplin reported receiving grants paid to the 
+institution from Boehringer Ingelheim Eli Lilly and Company, and Novo Nordisk 
+outside the submitted work. Dr Herrington reported receiving grants from 
+Boehringer Ingelheim and grants from Eli Lilly during the conduct of the study. 
+Dr Heerspink reported receiving honoraria to the institution from AstraZeneca 
+and Janssen during the conduct of the study and grants paid to the institution 
+from Bayer and Boehringer Ingelheim and honoraria from Amgen, Alexion, Biocity, 
+Eli Lilly, Dimerix, Novartis, Novo Nordisk, Roche, and Travere outside the 
+submitted work. No other disclosures were reported.
+
+
+3. ESC Heart Fail. 2025 Dec;12(6):3806-3825. doi: 10.1002/ehf2.15408. Epub 2025 Sep 
+19.
+
+SGLT2 inhibitors for the prevention and treatment of heart failure: A scientific 
+statement of the HFA and the HFAI.
+
+Metra M(1), Tomasoni D(1)(2), Adamo M(1), Amir O(3), Anker SD(4), Bayes-Genis 
+A(5), Boehm M(6), Butler J(7)(8), Chioncel O(9), Filippatos G(10), Gustafsson 
+F(11), Jankowska EA(12), Kaski JC(13), Moura B(14)(15), Petrie MC(16), 
+Ponikowski P(12)(17), Rakisheva A(18), Ristic A(19), Roubille F(20), Savarese 
+G(2), Seferovic P(21), van der Meer P(22), Volterrani M(23), Coats AJ(24), 
+Chopra VK(25), Rosano G(26)(27).
+
+Author information:
+(1)Cardiology. ASST Spedali Civili di Brescia and Department of Medical and 
+Surgical Specialties, Radiological Sciences, and Public Health, University of 
+Brescia, Brescia, Italy.
+(2)Department of Clinical Science and Education, Södersjukhuset, Karolinska 
+Institutet, Stockholm, Sweden.
+(3)Department of Cardiology, Hadassah Medical Center, Faculty of Medicine, 
+Hebrew University of Jerusalem, Jerusalem, Israel.
+(4)Department of Cardiology (CVK) of German Heart Center Charité, German Centre 
+for Cardiovascular Research (DZHK) partner site Berlin, 
+Charité-Universitätsmedizin Berlin, Berlin, Germany.
+(5)Heart Institute, Hospital Universitari Germans Trias i Pujol, Badalona, 
+CIBERCV, Barcelona, Spain.
+(6)Klinik für Innere Medizin III, Universitätsklinikum des Saarlandes, Saarland 
+University, Homburg, Germany.
+(7)Baylor Scott & White Research Institute, Dallas, Texas, USA.
+(8)University of Mississippi, Jackson, Mississippi, USA.
+(9)Emergency Institute for Cardiovascular Diseases 'Prof. C.C. Iliescu', 
+University of Medicine Carol Davila, Bucharest, Romania.
+(10)School of Medicine, National and Kapodistrian University of Athens, Athens, 
+Greece.
+(11)Department of Cardiology, The Heart Centre, Rigshospitalet, University of 
+Copenhagen, Copenhagen, Denmark.
+(12)Institute of Heart Diseases, Wrocław Medical University, Wrocław, Poland.
+(13)Molecular and Clinical Sciences Research Institute, St George's University 
+of London, London, UK.
+(14)Centro de Investigação em Tecnologias e Serviços de Saúde, Porto, Portugal.
+(15)Serviço de Cardiologia, Hospital das Forças Armadas-Pólo do Porto, Porto, 
+Portugal.
+(16)School of Cardiovascular and Metabolic Health, University of Glasgow, 
+Glasgow, UK.
+(17)Department of Cardiology, Wrocław Medical University, Wrocław, Poland.
+(18)Department of Cardiology, Scientific Institution of Cardiology and Internal 
+Diseases, Almaty, Kazakhstan.
+(19)School of Medicine, University of Belgrade, Belgrade, Serbia.
+(20)PhyMedExp, Université de Montpellier, INSERM, CNRS, Cardiology Department, 
+CHU de Montpellier, Montpellier, France.
+(21)Serbian Academy of Sciences and Arts, Belgrade, Serbia.
+(22)Department of Cardiology, University Medical Center Groningen, University of 
+Groningen, Groningen, The Netherlands.
+(23)Department of Medical Sciences, Centre for Clinical and Basic Research, 
+IRCCS San Raffaele Pisana, Rome, Italy.
+(24)Heart Research Institute, Newtown, New South Wales, Australia.
+(25)Department of Cardiology, Medanta, Gurgaon, Haryana, India.
+(26)Department of Human Sciences and Promotion of Quality of Life, San Raffaele 
+Open University of Rome, Rome, Italy.
+(27)IRCCS San Raffaele, Rome, Italy.
+
+In the 2021 European Society of Cardiology (ESC) heart failure (HF) guidelines, 
+sodium-glucose cotransporter 2 (SGLT2) inhibitors were recommended for the 
+prevention of HF in patients with type 2 diabetes mellitus (T2DM) and for the 
+treatment of HF with reduced ejection fraction (HFrEF). Further trials showed 
+efficacy of empagliflozin and dapagliflozin in patients with HF with preserved 
+ejection fraction (HFpEF). These results prompted a broadened recommendation for 
+the SGLT2 inhibitors dapagliflozin or empagliflozin across the whole left 
+ventricular ejection fraction (LVEF) spectrum in the 2023 Focused Update of the 
+ESC HF guidelines and in other international guidelines. In SOLOIST-WHF and 
+EMPULSE, sotagliflozin (enrolling only patients with T2DM) and empagliflozin, 
+respectively, were beneficial when initiated at the end or soon after an episode 
+of decompensated HF. Based on these results and on the early appearance of their 
+beneficial effects, the administration of SGLT2 inhibitors should start early in 
+patients hospitalized for acute HF. Analyses after study drug withdrawal in 
+randomized clinical trials have shown that their benefits may decline rapidly 
+after discontinuation, and thus, persistence of treatment is advised. In 
+EMPACT-MI, empagliflozin did not reduce the primary outcome of cardiovascular 
+(CV) death/HF hospitalization but reduced first/recurrent HF hospitalizations. 
+Potential benefits of SGLT2 inhibitors in further specific conditions (i.e., 
+cardiac amyloidosis, grown-up congenital heart disease and paediatric patients 
+with HF) have been reported in observational studies but need confirmation from 
+prospective trials. This scientific statement summarizes current evidence 
+regarding the effects of SGLT2 inhibitors for the prevention and treatment of 
+HF.
+
+© 2025 The Author(s). ESC Heart Failure published by John Wiley & Sons Ltd on 
+behalf of European Society of Cardiology.
+
+DOI: 10.1002/ehf2.15408
+PMCID: PMC12719827
+PMID: 40968746 [Indexed for MEDLINE]
+
+Conflict of interest statement: M.M. reports personal consulting honoraria of 
+minimal amount from Abbott, Amgen, Bayer, Edwards Lifesciences, LivaNova and 
+Vifor Pharma for participation in advisory board meetings and executive 
+committees of clinical trials outside the submitted work. D.T. reports speaker 
+fees and honoraria of minimal amount from Alnylam Pharmaceuticals, AstraZeneca, 
+Boehringer Ingelheim, Pfizer and Roche Diagnostics outside the submitted work. 
+M.A. reports speaker fees from Abbott and Medtronic outside the submitted work. 
+O.A. reports consulting fees from Sensible Medical Innovations Ltd. S.D.A. 
+reports grants and personal fees from Vifor and Abbott and personal fees for 
+consultancies, trial committee work and/or lectures from Actimed, Amgen, 
+AstraZeneca, Bayer, Boehringer Ingelheim, BioVentrix, Brahms, Cardiac 
+Dimensions, Cardior, Cordio, CVRx, Cytokinetics, Edwards Lifesciences, Faraday 
+Pharmaceuticals, GSK, HeartKinetics, Impulse Dynamics, Novartis, Occlutech, 
+Pfizer, Repairon, Sensible Medical, Servier, Vectorious and V‐Wave and was named 
+co‐inventor of two patent applications regarding MR‐proANP (DE 102007010834 and 
+DE 102007022367), but he does not benefit personally from the related issued 
+patents. A.B‐.G. has received speaker honoraria and/or consulting for 
+AstraZeneca, Bayer, Boehringer Ingelheim, Novartis, Roche Diagnostics and Vifor. 
+M.B. is supported by the Deutsche Forschungsgemeinschaft (German Research 
+Foundation; TTR 219, Project Number 322900939) and reports personal fees from 
+Abbott, Amgen, AstraZeneca, Bayer, Boehringer Ingelheim, Cytokinetics, 
+Medtronic, Novartis, Recor Medical, Servier and Vifor. J.B. consulting honoraria 
+from Abbott, American Regent, Amgen, Applied Therapeutic, AskBio, Astellas, 
+AstraZeneca, Bayer, Boehringer Ingelheim, Boston Scientific, Bristol Myers 
+Squibb, Cardiac Dimensions, Cardiocell, Cardior, CSL Bearing, CVRx, 
+Cytokinetics, Daxor, Edwards Lifesciences, Element Science, Faraday 
+Pharmaceuticals, Foundry, G3P, Innolife, Impulse Dynamics, Imbria, Inventiva, 
+Ionis, Lexicon, Lilly, LivaNova, Janssen, Medtronic, Merck, Occlutech, Owkin, 
+Novartis, Novo Nordisk, Pharmacosmos, Pharmain, Pfizer, Prolaio, Regeneron, 
+Renibus, Roche, Salamandra, Sanofi, SC Pharma, Secretome, Sequana, SQ 
+Innovation, Tenex, Tricog, Ultromics, Vifor and Zoll outside the submitted work. 
+O.C. reports Servier travel support for ESC Congress. G.F. reports lecture fees 
+and/or committee member contributions in clinical trials sponsored by Bayer, 
+Medtronic, Vifor, Servier, Novartis, Amgen and Boehringer Ingelheim and research 
+support from the European Union. F.G. reports consulting fees for Bayer, Alnylam 
+Pharmaceuticals, Ionis, Pfizer and Abbott and speaker fees from AstraZeneca, 
+Novartis and Orion Pharma. E.A.J. reports research grants and personal fees from 
+Vifor Pharma and personal fees from Bayer, Novartis, Abbott, Boehringer 
+Ingelheim, Pfizer, Servier, AstraZeneca, Berlin Chemie, Cardiac Dimensions, 
+Takeda and Gedeon Richter. J.C.K. reports speaker honoraria from Menarini and 
+Servier UK. B.M. reports advisory or speakers fees from AstraZeneca, Bayer, 
+Boehringer Ingelheim, Eli Lilly, Novartis, Servier, Vifor Pharma, Menarini and 
+Merck Serono. M.C.P. reports research grants from SQ Innovation, AstraZeneca, 
+Roche, Boehringer Ingelheim, Pharmacosmos, Eli Lilly, Napp Pharmaceuticals, 
+Novartis and Novo Nordisk; has served on committees for AbbVie, Akero, Alnylam 
+Pharmaceuticals, AstraZeneca, Bayer, Boehringer Ingelheim, GlaxoSmithKline, 
+Resverlogix, Teikoku, New Amsterdam and Novo Nordisk; and is a director of 
+Global Clinical Trial Partners. P.P. has received consulting fees from 
+Boehringer Ingelheim, AstraZeneca, Vifor Pharma, Amgen, Servier, Novartis, 
+Bayer, MSD, Pfizer, Cibiem, Impulse Dynamics, RenalGuard Solutions and BMS and 
+honoraria from Boehringer Ingelheim, AstraZeneca, Vifor Pharma, Amgen, Servier, 
+Novartis, Berlin Chemie, Bayer, Pfizer, Impulse Dynamics, RenalGuard Solutions, 
+BMS and Abbott for lectures, presentations, speakers' bureaus, manuscript 
+writing or educational events. Amina Rakisheva reports speaker honoraria fees 
+from Bayer, Pfizer and Roche. F.R. received consulting fees from Air Liquide 
+Santé International. G.S. reports grants and personal fees from Vifor, 
+Boehringer Ingelheim, AstraZeneca, Novartis, Cytokinetics and Pharmacosmos; 
+personal fees from Medtronic, Servier, TEVA, Edwards Lifesciences and INTAS; and 
+grants from Boston Scientific, Merck and Bayer outside the submitted work. 
+P.v.d.M. is supported by a grant from the European Research Council (ERC CoG 
+101045236, DISSECT‐HF). The UMCG, which employs PvdM, received consultancy fees 
+and/or grants from Novartis, Pharmacosmos, Vifor Pharma, AstraZeneca, Pfizer, 
+Pharma Nord, BridgeBio, Novo Nordisk, Daiichi Sankyo, Boehringer Ingelheim and 
+Ionis. A.J.C. reports honoraria and/or lecture fees from AstraZeneca, Bayer, 
+Boehringer Ingelheim, Edwards Lifesciences, Menarini, Novartis, Servier, Vifor, 
+Abbott, Actimed, Arena, Cardiac Dimensions, Corvia, CVRx, Enopace, ESN Cleer, 
+Faraday Pharmaceuticals, Impulse Dynamics, Respicardia and Viatris outside the 
+submitted work. G.R. is supported by the Italian Ministry of Health (Ricerca 
+Corrente). All other authors report no conflicts of interest.
+
+
+4. J Am Coll Cardiol. 2025 Dec 16;86(24):2513-2526. doi: 
+10.1016/j.jacc.2025.08.054. Epub 2025 Aug 30.
+
+Pharmacologic Treatment of Heart Failure With Reduced Ejection Fraction: An 
+Updated Systematic Review and Network Meta-Analysis.
+
+van Essen BJ(1), Ceelen DCH(1), Ouwerkerk W(2), Teng TK(3), Tharshana GN(4), Hew 
+FM(4), Butler J(5), Zannad F(6), Lam CS(7), Ezekowitz J(8), Voors AA(1), Tromp 
+J(9).
+
+Author information:
+(1)Department of Cardiology, University of Groningen, University Medical Center 
+Groningen, Groningen, the Netherlands.
+(2)Department of Dermatology, Amsterdam UMC, University of Amsterdam, Amsterdam 
+Infection & Immunity Institute, Amsterdam, the Netherlands; National Heart 
+Centre Singapore, Singapore.
+(3)National Heart Centre Singapore, Singapore.
+(4)Saw Swee Hock School of Public Health, National University of Singapore & the 
+National University Health System, Singapore.
+(5)Baylor Scott and White Research Institute, Dallas, Texas, USA; University of 
+Mississippi, Jackson, Mississippi, USA.
+(6)Université de Lorraine INSERM, Centre d'Investigations Cliniques 
+Plurithématique, CHRU Nancy, France.
+(7)National Heart Centre Singapore, Singapore; Duke-NUS Medical School, 
+Singapore; Baim Institute of Clinical Research, Boston, Massachusetts, USA.
+(8)University of Alberta, Edmonton, Alberta, Canada.
+(9)Department of Cardiology, University of Groningen, University Medical Center 
+Groningen, Groningen, the Netherlands; National Heart Centre Singapore, 
+Singapore; Saw Swee Hock School of Public Health, National University of 
+Singapore & the National University Health System, Singapore; Duke-NUS Medical 
+School, Singapore. Electronic address: Jasper_tromp@nus.edu.sg.
+
+BACKGROUND: In 2022, a network meta-analysis showed that a combination of 
+β-blockers, angiotensin receptor-neprilysin inhibitors (ARNi), mineralocorticoid 
+receptor antagonists (MRAs), and sodium-glucose cotransporter 2 inhibitors 
+(SGLT2i) was most effective in reducing all-cause mortality in heart failure 
+with reduced ejection fraction (HFrEF). This study updates the treatment benefit 
+by including additional large randomized controlled trials (RCTs) since 2022, 
+including the VICTOR (Vericiguat Global Study in Participants with Chronic Heart 
+Failure) trial.
+OBJECTIVES: The goal of this study was to evaluate and compare regimens of 
+pharmacotherapy in patients with HFrEF.
+METHODS: MEDLINE, Embase, and Cochrane Central Register of Controlled Trials 
+databases were searched for RCTs in patients with HFrEF through April 2025. 
+Using frequentist network meta-analysis, HRs for all-cause mortality (primary 
+outcome), cardiovascular death, and the composite of cardiovascular death or 
+heart failure hospitalization (secondary outcomes) were estimated. Absolute 
+benefits were quantified as life-years gained by using BIOSTAT-CHF (Biology 
+Study to Tailored Treatment in Chronic Heart Failure) and ASIAN-HF (Asian Sudden 
+Cardiac Death in Heart Failure) cohort data.
+RESULTS: The analysis included 103,754 patients across 89 randomized controlled 
+trials. Relative to placebo, quintuple therapy with ARNi, β-blockers, MRAs, 
+SGLT2i, and vericiguat most effectively reduced all-cause mortality (HR: 0.35; 
+95% CI: 0.27-0.45), followed by quadruple therapy with ARNi, β-blockers, MRAs, 
+and SGLT2i (HR: 0.39; 95% CI: 0.32-0.49). For a representative 70-year-old 
+patient, quadruple therapy (ARNi/β-blockers/MRAs/SGLT2i) provided 5.3 additional 
+life-years (95% CI: 2.8-7.7) vs no treatment, while quintuple therapy 
+(ARNi/β-blockers/MRA/SGLT2i/vericiguat) provided 6.0 additional life-years (95% 
+CI: 3.7-8.4).
+CONCLUSIONS: This analysis reinforces the substantial mortality and morbidity 
+benefit associated with the currently recommended quadruple therapy regimen 
+(ARNi, β-blockers, MRAs, and SGLT2i) in patients with HFrEF. The addition of 
+vericiguat may provide an incremental survival gain of approximately 0.7 year 
+beyond that achieved with quadruple therapy. However, these results should be 
+regarded as exploratory, as they are derived from a secondary endpoint of a 
+single trial.
+
+Copyright © 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jacc.2025.08.054
+PMID: 40892608 [Indexed for MEDLINE]
+
+Conflict of interest statement: Funding Support and Author Disclosures Dr 
+Ouwerkerk has received consulting or speaker fees from Us2.ai; and owns patent 
+US-10702247-B2 unrelated to the current work. Dr Butler is a consultant to 
+Abbott, American Regent, Amgen, Applied Therapeutic, AskBio, Astellas, 
+AstraZeneca, Bayer, Boehringer Ingelheim, Boston Scientific, Bristol Myers 
+Squibb, Cardiac Dimension, Cardiocell, Cardior, CSL Behring, CVRx, Cytokinetics, 
+Daxor, Edwards, Element Science, Faraday, Foundry, G3P, Innolife, Impulse 
+Dynamics, Imbria, Inventiva, Ionis, Lexicon, Lilly, LivaNova, Janssen, 
+Medtronic, Merck, Occlutech, Owkin, Novartis, Novo Nordisk, Pfizer, 
+Pharmacosmos, PharmaIN, Prolaio, Regeneron, Renibus, Roche, Salamandra, Sanofi, 
+SC Pharma, Secretome, Sequana, SQ Innovation, Tenex, Tricog, Ultromics, Vifor, 
+and Zoll. Dr Zannad has received personal fees from Alnylam, Bayer, Biopeutics, 
+Boehringer, CellProthera, Centrix, Cereno, Centrix Corteria, CVRx, Lilly, Lupin, 
+Merck, Novo Nordisk, Opalia Recordati, Owkin, Polygon, Ribocure, Roche, and 
+Viatris; has stock options or equities at Cereno Pharmaceutical; and is the 
+founder of Cardiovascular Clinical Trialists (CVCT). Dr Lam is supported by a 
+Clinician Scientist Award from the National Medical Research Council of 
+Singapore; has received research support from Novo Nordisk and Roche 
+Diagnostics; has served as consultant or on the Advisory Board/Steering 
+Committee/Executive Committee for Alleviant Medical, Allysta Pharma, AnaCardio 
+AB, Applied Therapeutics, AstraZeneca, Bayer, Biopeutics, Boehringer Ingelheim, 
+Boston Scientific, Bristol Myers Squibb, CardioRenal, CPC Clinical Research, Eli 
+Lilly, Impulse Dynamics, Intellia Therapeutics, Ionis Pharmaceutical, Janssen 
+Research & Development LLC, Medscape/WebMD Global LLC, Merck, Novartis, Novo 
+Nordisk, ProSciento Inc, Quidel Corporation, Radcliffe Group Ltd, Recardio Inc, 
+ReCor Medical, Roche Diagnostics, Sanofi, Siemens Healthcare Diagnostics, and 
+Us2.ai; and serves as co-founder and non-executive director of Us2.ai. Dr 
+Ezekowitz has received research grants from Bayer, Merck, Servier, Amgen, 
+Sanofi, Novartis, Cytokinetics, American Regent, and Applied Therapeutics; and 
+has received consulting fees from Bayer, Merck, Servier, Amgen, Sanofi, 
+Novartis, Cytokinetics, American Regent, and Applied Therapeutics. The employer 
+of Dr Voors (University Medical Center Groningen) has received consultancy fees 
+and/or research grants from the following companies: Adrenomed, Anacardio, 
+AstraZeneca, Bayer AG, Boehringer Ingelheim, BMS, Cardurion, Corteria, Moderna, 
+MyoKardia, Merck, Novo Nordisk, Novartis, Roche Diagnostics, and SalubrisBio. Dr 
+Tromp is supported by the National University of Singapore Start-up grant, the 
+tier 1 grant from the Ministry of Education, and the CS-IRG Grant from the 
+National Medical Research Council; has received research support from 
+AstraZeneca; has received consulting or speaker fees from Us2.ai and Roche 
+Diagnostics; and owns patent US-10702247-B2 unrelated to the current work. All 
+other authors have reported that they have no relationships relevant to the 
+contents of this paper to disclose.

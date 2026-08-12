@@ -1,0 +1,27 @@
+# Streamlit config for the Medical Evidence RAG Agent.
+
+[server]
+# The default file watcher walks every imported module (including
+# transformers' lazily-loaded vision submodules pulled in indirectly via
+# sentence-transformers) to build its hot-reload list. Since this project
+# never installed torchvision (only text embeddings are used, no vision
+# models), that walk throws a wall of harmless-but-alarming
+# "ModuleNotFoundError: No module named 'torchvision'" tracebacks into the
+# console on every run. They don't crash the app -- Streamlit catches and
+# just logs them -- but disabling the watcher avoids the noise entirely.
+# Trade-off: edits to .py files won't auto-rerun the app; refresh the
+# browser tab manually after saving changes.
+fileWatcherType = "none"
+
+[theme]
+# Pins Streamlit's own chrome (headings, inputs, buttons, alerts, sidebar,
+# etc.) to the same light palette streamlit_app.py's custom CSS uses, so
+# text color doesn't depend on the visiting browser/OS's dark-mode setting.
+# Without this, elements the custom CSS doesn't explicitly style fall back
+# to Streamlit's auto-detected theme -- on a dark-mode system that means
+# white text, which is invisible against the app's light paper background.
+base = "light"
+backgroundColor = "#FAFAF8"
+secondaryBackgroundColor = "#F1F0EB"
+textColor = "#16232E"
+primaryColor = "#2C6E8E"
