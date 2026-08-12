@@ -1,4 +1,4 @@
-# Medical Evidence RAG Agent
+# 🩺 Medical Evidence RAG Agent
 
 A lightweight, safety-conscious Retrieval-Augmented Generation (RAG) demo that
 answers medical questions **only** from a trusted evidence corpus (e.g. PubMed
