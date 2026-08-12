@@ -241,16 +241,6 @@ demonstrate the refusal mechanism is calibrated correctly. This is also the
 natural place to extend if you want a more rigorous eval later (e.g. a larger
 labeled set, or comparing against ground-truth answers).
 
-### Step 9 — Polish for GitHub (15–20 min)
-- Add a couple of screenshots (CLI and/or Streamlit UI, one answered case and
-  one refused case) to this README.
-- Consider adding a `LICENSE` file.
-- Mention explicitly in the README (as this one does) that this is a demo,
-  not a clinical tool — that framing itself is part of what the project is
-  meant to demonstrate (safety-aware design, not just RAG mechanics).
-
----
-
 ## What this project demonstrates
 
 - **Domain-specific RAG**: FAISS + LangChain retrieval over a medical evidence
