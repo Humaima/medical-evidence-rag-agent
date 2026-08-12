@@ -12,6 +12,14 @@ context.
 > ⚠️ **Not medical advice.** This is a research/portfolio demo, not a clinical
 > tool. It is not validated for real patient care.
 
+<img width="1536" height="1024" alt="Copilot_20260812_225223" src="https://github.com/user-attachments/assets/c41872dd-2c9b-4fff-9311-6eee695d8635" />
+
+<img width="1917" height="1010" alt="streamlit app 1" src="https://github.com/user-attachments/assets/d9f97f96-4ac5-4e81-8bbf-353a8f81b5f7" />
+
+<img width="1917" height="1012" alt="streamlit app 2" src="https://github.com/user-attachments/assets/83aa0601-bbcc-4d08-853a-c0934eac3233" />
+
+<img width="1907" height="1016" alt="streamlit app 3" src="https://github.com/user-attachments/assets/a98da71c-169c-48b0-81cf-a1f702aed161" />
+
 ---
 
 ## Architecture
@@ -270,3 +278,6 @@ labeled set, or comparing against ground-truth answers).
   threshold tuning.
 - Add source-recency or study-type weighting (e.g. prefer RCTs/meta-analyses
   over case reports) if your real PubMed corpus includes that metadata.
+
+
+MADE WITH LOVE ❤️❤️❤️ BY HUMAIMA ANWAR!!!!
